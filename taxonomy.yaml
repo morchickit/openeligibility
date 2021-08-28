@@ -1,7 +1,13 @@
-- name: Human Services
+  - name:
+    source: Human Services
+    tx:
+      he: מענים חברתיים
   slug: human_services
   items:
-  - name: Food
+  - name:
+      source: Food
+      tx:
+        he: מזון
     slug: human_services:food
     description: Services for meals, food pantries, help paying for food, food delivery, food benefits, and nutrition support.
     items:
@@ -16,35 +22,14 @@
       slug: human_services:food:food_delivery
     - name: Food Pantry
       slug: human_services:food:food_pantry
-    - name: Meals
-      slug: human_services:food:meals
     - name: Help Pay for Food
       slug: human_services:food:help_pay_for_food
-      items:
-      - name: Government Food Benefits
-        slug: human_services:food:help_pay_for_food:government_food_benefits
-        related:
-        - human_services:money:financial_assistance:help_pay_for_food:government_food_benefits
-        - human_services:money:government_benefits:government_food_benefits
-      - name: Food Benefits
-        slug: human_services:food:help_pay_for_food:food_benefits
-        related:
-        - human_services:money:government_benefits:food_benefits
-      related:
-      - human_services:emergency:emergency_payments:help_pay_for_food
-      - human_services:money:financial_assistance:help_pay_for_food
-      - human_services:money:financial_assistance:help_pay_for_food:help_pay_for_food
     - name: Nutrition Education
       slug: human_services:food:nutrition_education
-      related:
-      - human_services:education:more_education:health_education:nutrition_education
-      - human_services:health:health_education:nutrition_education
     - name: Free Meals
       slug: human_services:food:free_meals
     - name: Nutrition
       slug: human_services:food:nutrition
-      related:
-      - human_services:health:health_education:nutrition
   - name: Housing
     slug: human_services:housing
     description: Services for emergency, short- term and long- term housing, housing advice, help finding housing, and paying for housing.
@@ -158,11 +143,6 @@
           slug: human_services:housing:residential_housing:short_term_housing:sober_living
           related:
           - human_services:health:addiction_recovery:sober_living
-        - name: Short-Term Housing
-          slug: human_services:housing:residential_housing:short_term_housing:short_term_housing
-          related:
-          - human_services:housing:residential_housing:short_term_housing
-        related:
         - human_services:housing:residential_housing:short_term_housing:short_term_housing
     - name: Emergency Shelter
       slug: human_services:housing:emergency_shelter
@@ -186,10 +166,6 @@
     - name: Clothing
       slug: human_services:goods:clothing
       items:
-      - name: Baby Clothes
-        slug: human_services:goods:clothing:baby_clothes
-        related:
-        - human_services:goods:baby_supplies:baby_clothes
       - name: Clothes for School
         slug: human_services:goods:clothing:clothes_for_school
         related:
@@ -327,12 +303,6 @@
     - name: End-of-Life Care
       slug: human_services:health:end_of_life_care
       items:
-      - name: Bereavement
-        slug: human_services:health:end_of_life_care:bereavement
-        related:
-        - human_services:care:end_of_life_care:bereavement
-        - human_services:care:support_network:support_groups:bereavement
-        - human_services:health:mental_health_care:bereavement
       - name: Burial & Funeral Help
         slug: human_services:health:end_of_life_care:burial_funeral_help
         related:
@@ -348,13 +318,6 @@
         - human_services:health:medical_care:prevent_treat:pain_management
       related:
       - human_services:care:end_of_life_care
-    - name: Health Education
-      slug: human_services:health:health_education
-      items:
-      - name: Daily Life Skills
-        slug: human_services:health:health_education:daily_life_skills
-        related:
-        - human_services:education:skills_training:daily_life_skills
       - name: Disease Management
         slug: human_services:health:health_education:disease_management
         related:
@@ -394,21 +357,9 @@
         related:
         - human_services:education:more_education:health_education:understand_mental_health
         - human_services:health:mental_health_care:understand_mental_health
-      - name: Nutrition
-        slug: human_services:health:health_education:nutrition
-        related:
-        - human_services:food:nutrition
-      related:
-      - human_services:education:more_education:health_education
-      - human_services:education:more_education:health_education:health_education
     - name: Help Pay for Healthcare
       slug: human_services:health:help_pay_for_healthcare
       items:
-      - name: Disability Benefits
-        slug: human_services:health:help_pay_for_healthcare:disability_benefits
-        related:
-        - human_services:money:financial_assistance:help_pay_for_healthcare:disability_benefits
-        - human_services:money:government_benefits:disability_benefits
       - name: Discounted Healthcare
         slug: human_services:health:help_pay_for_healthcare:discounted_healthcare
         related:
@@ -453,10 +404,6 @@
           slug: human_services:health:medical_care:checkup_test:hearing_tests
         - name: Pregnancy Tests
           slug: human_services:health:medical_care:checkup_test:pregnancy_tests
-        - name: Checkup & Test
-          slug: human_services:health:medical_care:checkup_test:checkup_test
-          related:
-          - human_services:health:medical_care:checkup_test
         related:
         - human_services:health:medical_care:checkup_test:checkup_test
       - name: Exercise & Fitness
@@ -588,7 +535,6 @@
         related:
         - human_services:care:end_of_life_care:bereavement
         - human_services:care:support_network:support_groups:bereavement
-        - human_services:health:end_of_life_care:bereavement
       - name: Counseling
         slug: human_services:health:mental_health_care:counseling
         items:
@@ -917,10 +863,16 @@
     slug: human_services:care
     description: Services for animal welfare, residential caregiving, daytime caregiving, adoption & foster care, building support networks, end-of-life care, and help navigating the system.
     items:
-    - name: Adoption & Foster Care
+    - name:
+        source: Adoption & Foster Care
+        tx:
+          he: אימוץ ואומנה
       slug: human_services:care:adoption_foster_care
       items:
-      - name: Adoption & Foster Placement
+      - name:
+          source: Adoption & Foster Placement
+          tx:
+            he: השמת ילדים לאימוץ ואומנה
         slug: human_services:care:adoption_foster_care:adoption_foster_placement
         related:
         - human_services:legal:adoption_foster_care:adoption_foster_placement
@@ -944,7 +896,10 @@
         - human_services:legal:adoption_counseling
         - human_services:legal:adoption_foster_care:adoption_counseling
         - human_services:legal:advocacy_legal_aid:adoption_foster_care:adoption_counseling
-      - name: Post-Adoption Support
+      - name:
+          source: Post-Adoption Support
+          tx:
+            he: תמיכה במשפחות מאמצות
         slug: human_services:care:adoption_foster_care:post_adoption_support
         related:
         - human_services:legal:adoption_foster_care:post_adoption_support
@@ -1074,7 +1029,10 @@
         slug: human_services:care:physical_safety:disaster_response
         related:
         - human_services:emergency:disaster_response
-      - name: Emergency Food
+      - name:
+          source: Emergency Food
+          tx:
+            he: אספקת מזון בחירום
         slug: human_services:care:physical_safety:emergency_food
         related:
         - human_services:emergency:emergency_food
@@ -1664,7 +1622,10 @@
     - name: Emergency Payments
       slug: human_services:emergency:emergency_payments
       items:
-      - name: Help Pay for Food
+      - name:
+          source: Help Pay for Food
+          tx:
+            he: סיוע כספי לרכישת מזון
         slug: human_services:emergency:emergency_payments:help_pay_for_food
         related:
         - human_services:food:help_pay_for_food
@@ -1734,7 +1695,7 @@
     - human_situations:urgency:emergency
 - name: Human Situations
   slug: human_situations
-  description: "These are common attributes about a person. These can be used to help match a person\u2019s situation with available human services."
+  description: These are common attributes about a person. These can be used to help match a person’s situation with available human services.
   items:
   - name: General
     slug: human_situations:general
@@ -1746,26 +1707,18 @@
     items:
     - name: All Ages
       slug: human_situations:age_group:all_ages
-    - name: Adults (31-54 years old)
+    - name: Adults (30-60 years old)
       slug: human_situations:age_group:adults_31_54_years_old
-    - name: Young Adults (20-30 years old)
+    - name: Young Adults (18-29 years old)
       slug: human_situations:age_group:young_adults_20_30_years_old
-    - name: Teens (13-19 years old)
+    - name: Teens (13-18 years old)
       slug: human_situations:age_group:teens_13_19_years_old
-    - name: Infants (0-1 years old)
+    - name: Infants (0-3 years old)
       slug: human_situations:age_group:infants_0_1_years_old
-    - name: Children (2-12 years old)
+    - name: Children (4-12 years old)
       slug: human_situations:age_group:children_2_12_years_old
-    - name: Seniors (55+ years old)
+    - name: Seniors (60+ years old)
       slug: human_situations:age_group:seniors_55_years_old
-    - name: Adults
-      slug: human_situations:age_group:adults
-    - name: Teens
-      slug: human_situations:age_group:teens
-    - name: Children
-      slug: human_situations:age_group:children
-    - name: Seniors
-      slug: human_situations:age_group:seniors
   - name: Armed Forces
     slug: human_situations:armed_forces
     items:
@@ -1815,8 +1768,6 @@
       slug: human_situations:disability:deaf_or_hard_of_hearing
     - name: Visual Impairment
       slug: human_situations:disability:visual_impairment
-    - name: Hearing Impairment
-      slug: human_situations:disability:hearing_impairment
     - name: Mental Illness
       slug: human_situations:disability:mental_illness
       related:
@@ -1916,54 +1867,16 @@
         slug: human_situations:health:cancer:gastrointestinal_stromal_tumors_gist
       - name: Germ Cell Tumor
         slug: human_situations:health:cancer:germ_cell_tumor
-        items:
-        - name: Central Nervous System Germ Cell Tumor
-          slug: human_situations:health:cancer:germ_cell_tumor:central_nervous_system_germ_cell_tumor
-        - name: Ovarian Germ Cell Tumor
-          slug: human_situations:health:cancer:germ_cell_tumor:ovarian_germ_cell_tumor
-        - name: Testicular Germ Cell Tumor
-          slug: human_situations:health:cancer:germ_cell_tumor:testicular_germ_cell_tumor
       - name: Head & Neck Cancer
         slug: human_situations:health:cancer:head_neck_cancer
       - name: Leukemia
         slug: human_situations:health:cancer:leukemia
-        items:
-        - name: Acute Lymphoblastic Leukemia (ALL)
-          slug: human_situations:health:cancer:leukemia:acute_lymphoblastic_leukemia_all
-        - name: Acute Myeloid Leukemia (AML)
-          slug: human_situations:health:cancer:leukemia:acute_myeloid_leukemia_aml
-        - name: Chronic Lymphocytic Leukemia (CLL)
-          slug: human_situations:health:cancer:leukemia:chronic_lymphocytic_leukemia_cll
-        - name: Chronic Myelogenous Leukemia (CML)
-          slug: human_situations:health:cancer:leukemia:chronic_myelogenous_leukemia_cml
-        - name: Hairy Cell Leukemia
-          slug: human_situations:health:cancer:leukemia:hairy_cell_leukemia
       - name: Liver Cancer
         slug: human_situations:health:cancer:liver_cancer
       - name: Lung Cancer
         slug: human_situations:health:cancer:lung_cancer
-        items:
-        - name: Childhood Lung Cancer
-          slug: human_situations:health:cancer:lung_cancer:childhood_lung_cancer
-        - name: Non-Small Cell Lung Cancer
-          slug: human_situations:health:cancer:lung_cancer:non_small_cell_lung_cancer
-        - name: Small Cell Lung Cancer
-          slug: human_situations:health:cancer:lung_cancer:small_cell_lung_cancer
       - name: Lymphoma
         slug: human_situations:health:cancer:lymphoma
-        items:
-        - name: AIDS-Related Lymphoma
-          slug: human_situations:health:cancer:lymphoma:aids_related_lymphoma
-        - name: Burkitt Lymphoma
-          slug: human_situations:health:cancer:lymphoma:burkitt_lymphoma
-        - name: Cutaneous T-Cell Lymphoma
-          slug: human_situations:health:cancer:lymphoma:cutaneous_t_cell_lymphoma
-        - name: Hodgkin Lymphoma
-          slug: human_situations:health:cancer:lymphoma:hodgkin_lymphoma
-        - name: Non-Hodgkin Lymphoma
-          slug: human_situations:health:cancer:lymphoma:non_hodgkin_lymphoma
-        - name: Primary Central Nervous System Lymphoma(CNS)
-          slug: human_situations:health:cancer:lymphoma:primary_central_nervous_system_lymphoma_cns
       - name: Myeloma, Multiple
         slug: human_situations:health:cancer:myeloma_multiple
       - name: Neuroblastoma
@@ -1975,19 +1888,6 @@
       - name: Sarcoma
         slug: human_situations:health:cancer:sarcoma
         items:
-        - name: Ewing Sarcoma
-          slug: human_situations:health:cancer:sarcoma:ewing_sarcoma
-        - name: Kaposi Sarcoma
-          slug: human_situations:health:cancer:sarcoma:kaposi_sarcoma
-        - name: Osteosarcoma Sarcoma
-          slug: human_situations:health:cancer:sarcoma:osteosarcoma_sarcoma
-        - name: Rhabdomyosarcoma Sarcoma
-          slug: human_situations:health:cancer:sarcoma:rhabdomyosarcoma_sarcoma
-        - name: Soft Tissue Sarcoma
-          slug: human_situations:health:cancer:sarcoma:soft_tissue_sarcoma
-        - name: Uterine Sarcoma
-          slug: human_situations:health:cancer:sarcoma:uterine_sarcoma
-      - name: Skin Cancer
         slug: human_situations:health:cancer:skin_cancer
         items:
         - name: Melanoma
