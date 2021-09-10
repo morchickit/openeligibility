@@ -1,9 +1,9 @@
+
 - name: Human Services
   slug: human_services
   items:
   - name: Food
     slug: human_services:food
-    description: Services for meals, food pantries, help paying for food, food delivery, food benefits, and nutrition support.
     items:
     - name: Community Gardens
       slug: human_services:food:community_gardens
@@ -41,7 +41,6 @@
       - human_services:health:health_education:nutrition
   - name: Housing
     slug: human_services:housing
-    description: Services for emergency, short- term and long- term housing, housing advice, help finding housing, and paying for housing.
     items:
     - name: Temporary Shelter
       slug: human_services:housing:temporary_shelter
@@ -148,10 +147,6 @@
           slug: human_services:housing:residential_housing:short_term_housing:sober_living
           related:
           - human_services:health:addiction_recovery:sober_living
-        - name: Short-Term Housing
-          slug: human_services:housing:residential_housing:short_term_housing:short_term_housing
-          related:
-          - human_services:housing:residential_housing:short_term_housing
         related:
         - human_services:housing:residential_housing:short_term_housing:short_term_housing
     - name: Emergency Shelter
@@ -162,7 +157,6 @@
     - human_situations:housing
   - name: Goods
     slug: human_services:goods
-    description: Services for clothing, furniture, baby supplies, toys and gifts, and other physical goods.
     items:
     - name: Baby Supplies
       slug: human_services:goods:baby_supplies
@@ -238,7 +232,6 @@
       slug: human_services:goods:toys_gifts
   - name: Transit
     slug: human_services:transit
-    description: Services for bus passes, transportation to school, healthcare, appointments, and more.
     items:
     - name: Help Pay for Transit
       slug: human_services:transit:help_pay_for_transit
@@ -272,7 +265,6 @@
         - human_services:money:financial_assistance:help_pay_for_school:transportation_for_school
   - name: Health
     slug: human_services:health
-    description: Services for medical care, dental care, health education, addiction and recovery, help finding services, and help paying for healthcare.
     items:
     - name: Addiction & Recovery
       slug: human_services:health:addiction_recovery
@@ -422,6 +414,7 @@
           slug: human_services:health:medical_care:checkup_test:pregnancy_tests
         - name: Checkup & Test
           slug: human_services:health:medical_care:checkup_test:checkup_test
+          related:
       - name: Exercise & Fitness
         slug: human_services:health:medical_care:exercise_fitness
         related:
@@ -634,7 +627,6 @@
     - human_situations:health
   - name: Money
     slug: human_services:money
-    description: Services to help pay for housing, education, childcare, school, food and goods, financial education, tax preparation, insurance, government benefits, vouchers, and more.
     items:
     - name: Financial Assistance
       slug: human_services:money:financial_assistance
@@ -824,8 +816,6 @@
       slug: human_services:money:tax_preparation
   - name: Care
     slug: human_services:care
-    description: Services for animal welfare, residential caregiving, daytime caregiving, adoption & foster care, building support networks, end-of-life care, and help navigating the system.
-    items:
     - name: Adoption & Foster Care
       slug: human_services:care:adoption_foster_care
       items:
@@ -1014,6 +1004,10 @@
         slug: human_services:care:residential_care:assisted_living
         related:
         - human_services:housing:residential_housing:long_term_housing:assisted_living
+        related:
+        - human_services:health:addiction_recovery:residential_treatment
+        - human_services:health:medical_care:prevent_treat:residential_treatment
+        - human_services:health:mental_health_care:residential_treatment
       - name: Nursing Home
         slug: human_services:care:residential_care:nursing_home
         related:
@@ -1064,7 +1058,6 @@
         slug: human_services:care:support_network:virtual_support
   - name: Education
     slug: human_services:education
-    description: Services for preschool, after school, special education, help finding school, help paying for school, alternative education, tutoring, and more.
     items:
     - name: Help Find School
       slug: human_services:education:help_find_school
@@ -1113,6 +1106,10 @@
       - name: Disaster Preparedness & Response
         slug: human_services:education:more_education:disaster_preparedness_response
       - name: English as a Second Language (ESL)
+        slug: human_services:education:more_education:english_as_a_second_language_esl
+        related:
+        - human_services:education:screening_exams:english_as_a_second_language_esl
+      - - name: Hebrew as a Second Language (ESL)
         slug: human_services:education:more_education:english_as_a_second_language_esl
         related:
         - human_services:education:screening_exams:english_as_a_second_language_esl
@@ -1244,12 +1241,9 @@
     - human_situations:education
   - name: Work
     slug: human_services:work
-    description: Services for finding and sustaining work and improving job skills and abilities.
     items:
     - name: Help Find Work
       slug: human_services:work:help_find_work
-      related:
-      - human_services:care:navigating_the_system:help_find_work
     - name: Help Pay for Work Expenses
       slug: human_services:work:help_pay_for_work_expenses
       items:
@@ -1317,7 +1311,6 @@
       - human_services:legal:workplace_rights
   - name: Legal
     slug: human_services:legal
-    description: Services for legal representation, mediation, advocacy, citizenship and immigration, adoption and foster care, guardianship, civil rights, and more.
     items:
     - name: Advocacy & Legal Aid
       slug: human_services:legal:advocacy_legal_aid
@@ -1464,7 +1457,6 @@
     - human_situations:urgency:emergency
 - name: Human Situations
   slug: human_situations
-  description: "These are common attributes about a person. These can be used to help match a person\u2019s situation with available human services."
   items:
   - name: General
     slug: human_situations:general
@@ -1476,38 +1468,30 @@
     items:
     - name: All Ages
       slug: human_situations:age_group:all_ages
-    - name: Adults
-      description: (31-54 years old)
-      slug: human_situations:age_group:adults
-    - name: Young Adults
-      description: (20-30 years old)
-      slug: human_situations:age_group:young_adults
-    - name: Teens
-      description: (13-19 years old)
-      slug: human_situations:age_group:teens
-    - name: Infants
-      description: (0-1 years old)
-      slug: human_situations:age_group:infants
-    - name: Children
-      description: (2-12 years old)
-      slug: human_situations:age_group:children
-    - name: Seniors
-      description: (55+ years old)
-      slug: human_situations:age_group:seniors
+    - name: Adults (31-60 years old)
+      slug: human_situations:age_group:adults_31_54_years_old
+    - name: Young Adults (19-30 years old)
+      slug: human_situations:age_group:young_adults_20_30_years_old
+    - name: Teens (13-18 years old)
+      slug: human_situations:age_group:teens_13_19_years_old
+    - name: Infants (0-3 years old)
+      slug: human_situations:age_group:infants_0_1_years_old
+    - name: Children (3-12 years old)
+      slug: human_situations:age_group:children_2_12_years_old
+    - name: Seniors (60+ years old)
+      slug: human_situations:age_group:seniors_55_years_old
   - name: Armed Forces
     slug: human_situations:armed_forces
     items:
     - name: Active Duty
       slug: human_situations:armed_forces:active_duty
-    - name: National Guard
-      slug: human_situations:armed_forces:national_guard
     - name: Veterans
       slug: human_situations:armed_forces:veterans
   - name: Citizenship
     slug: human_situations:citizenship
     items:
-    - name: Foreign Workers
-      slug: human_situations:citizenship:foreign_workers
+    -name: Foreign Workers
+    slug: human_situations:citizenship:foreign_workers
     - name: Immigrants
       slug: human_situations:citizenship:immigrants
     - name: Olim
@@ -1547,8 +1531,6 @@
       slug: human_situations:disability:deaf_or_hard_of_hearing
     - name: Visual Impairment
       slug: human_situations:disability:visual_impairment
-    - name: Hearing Impairment
-      slug: human_situations:disability:hearing_impairment
     - name: Mental Illness
       slug: human_situations:disability:mental_illness
       related:
@@ -1641,8 +1623,6 @@
         slug: human_situations:health:cancer:desmoid_tumors
       - name: Endomentrial Cancer
         slug: human_situations:health:cancer:endomentrial_cancer
-      - name: Gastrointestinal Stromal Tumors (GIST)
-        slug: human_situations:health:cancer:gastrointestinal_stromal_tumors_gist
       - name: Head & Neck Cancer
         slug: human_situations:health:cancer:head_neck_cancer
       - name: Leukemia
@@ -1653,14 +1633,10 @@
         slug: human_situations:health:cancer:lung_cancer
       - name: Lymphoma
         slug: human_situations:health:cancer:lymphoma
-      - name: Myeloma, Multiple
-        slug: human_situations:health:cancer:myeloma_multiple
       - name: Neuroblastoma
         slug: human_situations:health:cancer:neuroblastoma
       - name: Ovarian Cancer
         slug: human_situations:health:cancer:ovarian_cancer
-      - name: Rectal Cancer
-        slug: human_situations:health:cancer:rectal_cancer
       - name: Sarcoma
         slug: human_situations:health:cancer:sarcoma
       - name: Skin Cancer
@@ -1730,8 +1706,8 @@
         slug: human_situations:household:families:with_children
       - name: Single Parent
         slug: human_situations:household:families:single_parent
-      - name: Divorced
-        slug: human_situations:household:families:divorced
+      - name: Divorce
+        slug: human_situations:household:families:divorce
     - name: Surrogacy
       slug: human_situations:household:families:surrogacy
   - name: Housing
@@ -1756,25 +1732,25 @@
       slug: human_situations:income:benefit_recipients
     - name: Low-Income
       slug: human_situations:income:low_income
-  - name: Language
-    slug: human_situations:language
-    items:
-    - name: Hebrew Speaking
-      slug: human_situations:language:hebrew_speaking
-    - name: Arabic Speaking
-      slug: human_situations:language:arabic_speaking
-    - name: English Speaking
-      slug: human_situations:language:english_speaking
-    - name: Russian Speaking
-      slug: human_situations:language:russian_speaking
-    - name: Amharic Speaking
-      slug: human_situations:language:amharic_speaking
-    - name: Spanish Speaking
-      slug: human_situations:language:spanish_speaking
-    - name: French Speaking
-      slug: human_situations:language:french_speaking
-    - name: Limited Hebrew
-      slug: human_situations:language:limited_hebrew
+      - name: Language
+      slug: human_situations:language
+      items:
+      - name: Hebrew Speaking
+        slug: human_situations:language:hebrew_speaking
+      - name: Arabic Speaking
+        slug: human_situations:language:arabic_speaking
+      - name: English Speaking
+        slug: human_situations:language:english_speaking
+      - name: Russian Speaking
+        slug: human_situations:language:russian_speaking
+      - name: Amharic Speaking
+        slug: human_situations:language:amharic_speaking
+      - name: Spanish Speaking
+        slug: human_situations:language:spanish_speaking
+      - name: French Speaking
+        slug: human_situations:language:french_speaking
+      - name: Limited Hebrew
+        slug: human_situations:language:limited_hebrew
   - name: Mental Health
     slug: human_situations:mental_health
     items:
@@ -1818,15 +1794,6 @@
       slug: human_situations:substance_dependency:smoker
     related:
     - human_situations:health:substance_dependency
-  - name: Sexual Orientation & Identity
-    slug: human_situations:sexual_orientation_identity
-    items:
-    - name: LGBTQ+
-      slug: human_situations:sexual_orientation_identity:lgbtq
-    - name: Transgender
-      slug: human_situations:sexual_orientation_identity:transgender
-      related:
-      - human_situations:gender:transgender
   - name: Survivors
     slug: human_situations:survivors
     items:
@@ -1842,8 +1809,6 @@
       slug: human_situations:survivors:all_cancer_survivors
     - name: Childhood Cancer Survivors
       slug: human_situations:survivors:childhood_cancer_survivors
-    - name: Young Adult Cancer Survivors
-      slug: human_situations:survivors:young_adult_cancer_survivors
     - name: Adult Cancer Survivors
       slug: human_situations:survivors:adult_cancer_survivors
     - name: Domestic Violence Survivors
@@ -1874,7 +1839,7 @@
       slug: human_situations:criminal_history:ex_offenders
     - name: Ex-Offenders youth
       slug: human_situations:criminal_history:ex_offenders_youth
-    - name: Prisoners
+    - name: prisoners
       slug: human_situations:criminal_history:prisoners
   - name: Gender
     slug: human_situations:gender
@@ -1898,14 +1863,14 @@
     - name: Ultra Orthodox
       slug: human_situations:sectors:ultra_orthodox
     - name: Bedouin
-      slug: human_situations:sectors:bedouin
+    - slug: human_situations:sectors:bedouin
     - name: Duruze
-      slug: human_situations:sectors:duruze
+    - slug: human_situations:sectors:duruze
     - name: Ethiopians
-      slug: human_situations:sectors:ethiopians
+    - slug: human_situations:sectors:ethiopians
     - name: Arabs
-      slug: human_situations:sectors:arabs
+    - slug: human_situations:sectors:arabs
     - name: Christians
-      slug: human_situations:sectors:christians
+    - slug: human_situations:sectors:christians
     - name: Circassians
-      slug: human_situations:sectors:circassians
+    - slug: human_situations:sectors:circassians
