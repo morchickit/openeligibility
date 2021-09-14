@@ -1497,6 +1497,10 @@
       slug: human_situations:armed_forces:active_duty
     - name: Veterans
       slug: human_situations:armed_forces:veterans
+    - name: Army injuries  
+      Slug: human_situations:armed_forces:army_injuries
+    - name: Terror survivors 
+      Slug: human_situations:armed_forces:terror_survivors
   - name: Citizenship
     slug: human_situations:citizenship
     items:
