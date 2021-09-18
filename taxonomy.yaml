@@ -1497,6 +1497,10 @@
       slug: human_situations:armed_forces:active_duty
     - name: Veterans
       slug: human_situations:armed_forces:veterans
+    - name: Army disabillity 
+      slug: human_situations:armed_forces:army_disabillity 
+    - name: Terror victims
+      slug: human_situations:armed_forces:terror_victim
   - name: Citizenship
     slug: human_situations:citizenship
     items:
@@ -1613,8 +1617,6 @@
         slug: human_situations:health:cancer:all_cancer_types
       - name: Bladder Cancer
         slug: human_situations:health:cancer:bladder_cancer
-      - name: Brain Stem Glioma
-        slug: human_situations:health:cancer:brain_stem_glioma
       - name: Brain Tumor
         slug: human_situations:health:cancer:brain_tumor
       - name: Breast Cancer
@@ -1627,8 +1629,6 @@
         slug: human_situations:health:cancer:colon_cancer
       - name: Colorectal Cancer
         slug: human_situations:health:cancer:colorectal_cancer
-      - name: Desmoid Tumors
-        slug: human_situations:health:cancer:desmoid_tumors
       - name: Endomentrial Cancer
         slug: human_situations:health:cancer:endomentrial_cancer
       - name: Head & Neck Cancer
@@ -1641,8 +1641,6 @@
         slug: human_situations:health:cancer:lung_cancer
       - name: Lymphoma
         slug: human_situations:health:cancer:lymphoma
-      - name: Neuroblastoma
-        slug: human_situations:health:cancer:neuroblastoma
       - name: Ovarian Cancer
         slug: human_situations:health:cancer:ovarian_cancer
       - name: Sarcoma
@@ -1661,8 +1659,6 @@
         slug: human_situations:health:cancer:vaginal_cancer
       - name: Vulvar Cancer
         slug: human_situations:health:cancer:vulvar_cancer
-      - name: Wilms Tumor
-        slug: human_situations:health:cancer:wilms_tumor
     - name: Alzheimer's
       slug: human_situations:health:alzheimer_s
     - name: Terminal Illness
@@ -1674,8 +1670,6 @@
         slug: human_situations:health:infectious_disease:hiv_aids
     - name: Neuromuscular Disease
       slug: human_situations:health:neuromuscular_disease
-    - name: All Mental Health
-      slug: human_situations:health:all_mental_health
     - name: Chronic Illness
       slug: human_situations:health:chronic_illness
     - name: Genetic Disorder
@@ -1684,10 +1678,6 @@
       slug: human_situations:health:diabetes
     - name: Autism
       slug: human_situations:health:autism
-    - name: Hospitalized
-      slug: human_situations:health:hospitalized
-      related:
-      - human_situations:health:treatment_phases:hospitalized
     - name: Alzheimer's
       slug: human_situations:health:alzheimers
     - name: Seizure Disorder
