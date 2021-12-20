@@ -719,8 +719,15 @@
         slug: human_services:work:skills_training:skills_assessment
       - name: Specialized Training
         slug: human_services:work:skills_training:specialized_training
-    - name: Special Employment - Supported Employment - Protected Employment - Protected Factory
-      slug: human_services:work:special_employment_supported_employment_protected_employment_protected_factory
+    - name: Special Employment
+      slug: human_services:work:special_employment
+      items:
+      - name: Supported Employment
+        slug: human_services:work:special_employment:supported_employment
+      - name: Protected Employment
+        slug: human_services:work:special_employment:protected_employment
+      - name: Protected Factory
+        slug: human_services:work:special_employment:protected_factory
     - name: Workplace Rights
       slug: human_services:work:workplace_rights
   - name: Legal

@@ -329,7 +329,10 @@
   - כתיבת קורות חיים
   - הערכת כישורים
   - הדרכות מיוחדות
-- Special Employment - Supported Employment - Protected Employment - Protected Factory
+- Special Employment
+  - Supported Employment
+  - Protected Employment
+  - Protected Factory
 - זכויות עובדים
 ### משפטי
 - סיוע משפטי
