@@ -221,7 +221,7 @@
           slug: human_services:health:medical_care:checkup_test:checkup_test
         - name: Eye Tests
           slug: human_services:health:medical_care:checkup_test:eye_tests
-      - name: Allied health
+      - name: Allied Health
         slug: human_services:health:medical_care:allied_health
       - name: Exercise & Fitness
         slug: human_services:health:medical_care:exercise_fitness
@@ -719,15 +719,8 @@
         slug: human_services:work:skills_training:skills_assessment
       - name: Specialized Training
         slug: human_services:work:skills_training:specialized_training
-    - name: Special Employment 
-      slug: human_services:work:special_employment
-      items: 
-      - name: Supported Employment
-        slug: human_services:work:special_employment:supported_employment
-      - name: Protected Employment 
-        slug: human_services:work:special_employment:protected_emloyment
-      - name: Protected Factory
-        slug: human_services:work:special_employment:protected_factory
+    - name: Special Employment - Supported Employment - Protected Employment - Protected Factory
+      slug: human_services:work:special_employment_supported_employment_protected_employment_protected_factory
     - name: Workplace Rights
       slug: human_services:work:workplace_rights
   - name: Legal

@@ -167,11 +167,6 @@
             he: דירת מעבר ומקלטים
         slug: human_services:housing:residential_housing:safe_housing
       - name:
-          source: Mental Health Housing
-          tx:
-            he: דיור לתשושי נפש
-        slug: human_services:housing:residential_housing:mental_health_housing
-      - name:
           source: Short-Term Housing
           tx:
             he: דיור לטווח קצר
@@ -374,7 +369,7 @@
       - name:
           source: Residential Treatment
           tx:
-            he: מסגרות דיור טיפוליות
+            he: מסגרות דיור שיקומיות
         slug: human_services:health:addiction_recovery:residential_treatment
       - name:
           source: Substance Abuse Counseling
@@ -526,6 +521,8 @@
             tx:
               he: בדיקות ראייה
           slug: human_services:health:medical_care:checkup_test:eye_tests
+      - name: Allied Health
+        slug: human_services:health:medical_care:allied_health
       - name:
           source: Exercise & Fitness
           tx:
@@ -765,7 +762,7 @@
       - name:
           source: Residential Treatment
           tx:
-            he: מסגרות דיור טיפוליות
+            he: מסגרות דיור שיקומיות
         slug: human_services:health:mental_health_care:residential_treatment
         items:
         - name:
@@ -1700,11 +1697,8 @@
           tx:
             he: הדרכות מיוחדות
         slug: human_services:work:skills_training:specialized_training
-    - name:
-        source: Supported Employment
-        tx:
-          he: תעסוקה נתמכת
-      slug: human_services:work:supported_employment
+    - name: Special Employment - Supported Employment - Protected Employment - Protected Factory
+      slug: human_services:work:special_employment_supported_employment_protected_employment_protected_factory
     - name:
         source: Workplace Rights
         tx:
@@ -2110,7 +2104,7 @@
     - name:
         source: Mental Illness
         tx:
-          he: מחלת נפש
+          he: תשושי נפש
       slug: human_situations:disability:mental_illness
   - name:
       source: Education
@@ -3016,7 +3010,7 @@
   - name:
       source: Benefit Holders
       tx:
-        he: מקבלי קצבה
+        he: מוכרות ממשלתית
     slug: human_situations:benefit_holders
     items:
     - name:
