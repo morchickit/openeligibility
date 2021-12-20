@@ -521,7 +521,10 @@
             tx:
               he: בדיקות ראייה
           slug: human_services:health:medical_care:checkup_test:eye_tests
-      - name: Allied Health
+      - name:
+          source: Allied Health
+          tx:
+            he: פרא-רפואה
         slug: human_services:health:medical_care:allied_health
       - name:
           source: Exercise & Fitness
@@ -1697,14 +1700,26 @@
           tx:
             he: הדרכות מיוחדות
         slug: human_services:work:skills_training:specialized_training
-    - name: Special Employment
+    - name:
+        source: Special Employment
+        tx:
+          he: תעסוקה מיוחדת
       slug: human_services:work:special_employment
       items:
-      - name: Supported Employment
+      - name:
+          source: Supported Employment
+          tx:
+            he: תעסוקה נתמכת
         slug: human_services:work:special_employment:supported_employment
-      - name: Protected Employment
+      - name:
+          source: Protected Employment
+          tx:
+            he: תעסוקה מוגנת
         slug: human_services:work:special_employment:protected_employment
-      - name: Protected Factory
+      - name:
+          source: Protected Factory
+          tx:
+            he: מפעל מוגן
         slug: human_services:work:special_employment:protected_factory
     - name:
         source: Workplace Rights
