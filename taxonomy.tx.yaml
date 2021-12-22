@@ -10,7 +10,10 @@
         he: רווחה
     slug: human_services:care
     items:
-    - name: Accessibility
+    - name:
+        source: Accessibility
+        tx:
+          he: נגישות
       slug: human_services:care:accessibility
     - name:
         source: Adoption & Foster Care
@@ -38,20 +41,41 @@
           tx:
             he: תמיכה במשפחות מאמצות
         slug: human_services:care:adoption_foster_care:post_adoption_support
-    - name: Afterschool Care
+    - name:
+        source: Afterschool Care
+        tx:
+          he: צהרון
       slug: human_services:care:afterschool_care
-    - name: Childcare
+    - name:
+        source: Childcare
+        tx:
+          he: מסגרות לילדים
       slug: human_services:care:childcare
       items:
-      - name: Help Find Childcare
+      - name:
+          source: Help Find Childcare
+          tx:
+            he: עזרה במציאת מסגרות לילדים
         slug: human_services:care:childcare:help_find_childcare
-      - name: Help Pay for Childcare
+      - name:
+          source: Help Pay for Childcare
+          tx:
+            he: עזרה כספית למסגרות לילדים
         slug: human_services:care:childcare:help_pay_for_childcare
-      - name: Day Camp
+      - name:
+          source: Day Camp
+          tx:
+            he: קייטנה
         slug: human_services:care:childcare:day_camp
-      - name: Preschool
+      - name:
+          source: Preschool
+          tx:
+            he: מעון
         slug: human_services:care:childcare:preschool
-    - name: Aid Center
+    - name:
+        source: Aid Center
+        tx:
+          he: מרכז סיוע
       slug: human_services:care:aid_center
     - name:
         source: Daytime Care
@@ -64,9 +88,15 @@
           tx:
             he: מסגרות יום למבוגרים
         slug: human_services:care:daytime_care:adult_daycare
-    - name: Early Childhood Intervention
+    - name:
+        source: Early Childhood Intervention
+        tx:
+          he: אבחונים לגיל הרך
       slug: human_services:care:early_childhood_intervention
-    - name: Guidance
+    - name:
+        source: Guidance
+        tx:
+          he: הדרכה
       slug: human_services:care:guidance
     - name:
         source: Navigating the System
@@ -152,49 +182,109 @@
             tx:
               he: דירת מעבר ומקלטים
           slug: human_services:care:physical_safety:immediate_safety:safe_housing
-        - name: Safety Education
+        - name:
+            source: Safety Education
+            tx:
+              he: חינוך לבטיחות
           slug: human_services:care:physical_safety:immediate_safety:safety_education
-      - name: Residential Care
+      - name:
+          source: Residential Care
+          tx:
+            he: מסגרות טיפוליות
         slug: human_services:care:physical_safety:residential_care
         items:
-        - name: Assisted Living
+        - name:
+            source: Assisted Living
+            tx:
+              he: דיור מוגן
           slug: human_services:care:physical_safety:residential_care:assisted_living
-        - name: Nursing Home
+        - name:
+            source: Nursing Home
+            tx:
+              he: מוסד סיעודי
           slug: human_services:care:physical_safety:residential_care:nursing_home
-      - name: Recovery
+      - name:
+          source: Recovery
+          tx:
+            he: הבראה
         slug: human_services:care:physical_safety:recovery
         items:
-        - name: Vacations
+        - name:
+            source: Vacations
+            tx:
+              he: נופשונים
           slug: human_services:care:physical_safety:recovery:vacations
-      - name: Support Network
+      - name:
+          source: Support Network
+          tx:
+            he: רשת תמיכה
         slug: human_services:care:physical_safety:support_network
         items:
-        - name: Counseling
+        - name:
+            source: Counseling
+            tx:
+              he: טיפול רגשי (פסיכולוגי)
           slug: human_services:care:physical_safety:support_network:counseling
-        - name: Help Hotlines
+        - name:
+            source: Help Hotlines
+            tx:
+              he: קווי סיוע
           slug: human_services:care:physical_safety:support_network:help_hotlines
-        - name: Home Visiting
+        - name:
+            source: Home Visiting
+            tx:
+              he: ביקורי בית
           slug: human_services:care:physical_safety:support_network:home_visiting
-        - name: In-Home Support
+        - name:
+            source: In-Home Support
+            tx:
+              he: סיוע בבית
           slug: human_services:care:physical_safety:support_network:in_home_support
-        - name: Mentoring
+        - name:
+            source: Mentoring
+            tx:
+              he: מנטורינג
           slug: human_services:care:physical_safety:support_network:mentoring
-        - name: One-on-One Support
+        - name:
+            source: One-on-One Support
+            tx:
+              he: חונכות
           slug: human_services:care:physical_safety:support_network:one_on_one_support
-        - name: Spiritual Support
+        - name:
+            source: Spiritual Support
+            tx:
+              he: תמיכה רוחנית
           slug: human_services:care:physical_safety:support_network:spiritual_support
-        - name: Support Group
+        - name:
+            source: Support Group
+            tx:
+              he: קבוצות תמיכה
           slug: human_services:care:physical_safety:support_network:support_group
           items:
-          - name: 12-Step
+          - name:
+              source: 12-Step
+              tx:
+                he: תמיכה בהתמכרות
             slug: human_services:care:physical_safety:support_network:support_group:12_step
-          - name: Bereavement
+          - name:
+              source: Bereavement
+              tx:
+                he: סיוע בתקופת האבל
             slug: human_services:care:physical_safety:support_network:support_group:bereavement
-          - name: Parenting Education
+          - name:
+              source: Parenting Education
+              tx:
+                he: הדרכת הורים
             slug: human_services:care:physical_safety:support_network:support_group:parenting_education
-          - name: Virtual Support
+          - name:
+              source: Virtual Support
+              tx:
+                he: תמיכה וירטואלית
             slug: human_services:care:physical_safety:support_network:support_group:virtual_support
-    - name: Relief for Caregivers
+    - name:
+        source: Relief for Caregivers
+        tx:
+          he: הקלה למטפלים
       slug: human_services:care:relief_for_caregivers
   - name:
       source: Community Services
@@ -434,7 +524,10 @@
             tx:
               he: חינוך מיני
           slug: human_services:education:more_education:health_education:sex_education
-      - name: Prep - Mechina
+      - name:
+          source: Prep - Mechina
+          tx:
+            he: מכינה
         slug: human_services:education:more_education:prep_mechina
       - name:
           source: Special Education
@@ -461,7 +554,10 @@
           tx:
             he: תנועות נוער
         slug: human_services:education:more_education:youth_movement
-    - name: Leadership development
+    - name:
+        source: Leadership development
+        tx:
+          he: פיתוח מנהיגות
       slug: human_services:education:leadership_development
     - name:
         source: Preschool
@@ -812,16 +908,31 @@
         tx:
           he: טיפולי שיניים
       slug: human_services:health:dental_care
-    - name: Emergency Services
+    - name:
+        source: Emergency Services
+        tx:
+          he: שירותי חירום
       slug: human_services:health:emergency_services
       items:
-      - name: Psychiatric Emergency Services
+      - name:
+          source: Psychiatric Emergency Services
+          tx:
+            he: שירותי חירום פסיכאטריים
         slug: human_services:health:emergency_services:psychiatric_emergency_services
-      - name: Dental Emergency Service
+      - name:
+          source: Dental Emergency Service
+          tx:
+            he: טיפולי שיניים בחירום
         slug: human_services:health:emergency_services:dental_emergency_service
-      - name: Exercise & Fitness
+      - name:
+          source: Exercise & Fitness
+          tx:
+            he: התעמלות וכושר
         slug: human_services:health:emergency_services:exercise_fitness
-    - name: Help Find Healthcare
+    - name:
+        source: Help Find Healthcare
+        tx:
+          he: עזרה במציאת טיפול רפואי
       slug: human_services:health:help_find_healthcare
     - name:
         source: End-of-Life Care
@@ -958,7 +1069,10 @@
             tx:
               he: בדיקות ראייה
           slug: human_services:health:medical_care:checkup_test:eye_tests
-        - name: Genetic Testing
+        - name:
+            source: Genetic Testing
+            tx:
+              he: בדיקות גנטיות
           slug: human_services:health:medical_care:checkup_test:genetic_testing
         - name:
             source: Hearing Tests
@@ -970,7 +1084,10 @@
             tx:
               he: בדיקות הריון
           slug: human_services:health:medical_care:checkup_test:pregnancy_tests
-      - name: Combined Care
+      - name:
+          source: Combined Care
+          tx:
+            he: טיפול משולב
         slug: human_services:health:medical_care:combined_care
       - name:
           source: Maternity Care
@@ -1092,48 +1209,111 @@
           tx:
             he: כלבי נחייה ותמיכה
         slug: human_services:health:mental_health_care:support_service_animals
-    - name: Prevent & Treat
+    - name:
+        source: Prevent & Treat
+        tx:
+          he: טיפול רפואי ומניעה
       slug: human_services:health:prevent_treat
       items:
-      - name: Counseling
+      - name:
+          source: Counseling
+          tx:
+            he: טיפול רגשי (פסיכולוגי)
         slug: human_services:health:prevent_treat:counseling
-      - name: Disease Management
+      - name:
+          source: Disease Management
+          tx:
+            he: התנהלות במחלה
         slug: human_services:health:prevent_treat:disease_management
-      - name: Early Childhood Intervention
+      - name:
+          source: Early Childhood Intervention
+          tx:
+            he: אבחונים לגיל הרך
         slug: human_services:health:prevent_treat:early_childhood_intervention
-      - name: HIV Treatment
+      - name:
+          source: HIV Treatment
+          tx:
+            he: טיפול ב-HIV
         slug: human_services:health:prevent_treat:hiv_treatment
-      - name: Hospital Treatment
+      - name:
+          source: Hospital Treatment
+          tx:
+            he: טיפול בבית חולים
         slug: human_services:health:prevent_treat:hospital_treatment
-      - name: In-Home Support
+      - name:
+          source: In-Home Support
+          tx:
+            he: סיוע בבית
         slug: human_services:health:prevent_treat:in_home_support
-      - name: Medication Management
+      - name:
+          source: Medication Management
+          tx:
+            he: ניהול תרופות
         slug: human_services:health:prevent_treat:medication_management
-      - name: Nursing Home
+      - name:
+          source: Nursing Home
+          tx:
+            he: מוסד סיעודי
         slug: human_services:health:prevent_treat:nursing_home
-      - name: Nutrition
+      - name:
+          source: Nutrition
+          tx:
+            he: תזונה
         slug: human_services:health:prevent_treat:nutrition
-      - name: Occupational Therapy
+      - name:
+          source: Occupational Therapy
+          tx:
+            he: ריפוי בעיסוק
         slug: human_services:health:prevent_treat:occupational_therapy
-      - name: Outpatient Treatment
+      - name:
+          source: Outpatient Treatment
+          tx:
+            he: אשפוז
         slug: human_services:health:prevent_treat:outpatient_treatment
-      - name: Pain Management
+      - name:
+          source: Pain Management
+          tx:
+            he: טיפול בכאב
         slug: human_services:health:prevent_treat:pain_management
-      - name: Physical Therapy
+      - name:
+          source: Physical Therapy
+          tx:
+            he: פיזיותרפיה
         slug: human_services:health:prevent_treat:physical_therapy
-      - name: Rehabilitation
+      - name:
+          source: Rehabilitation
+          tx:
+            he: שיקום
         slug: human_services:health:prevent_treat:rehabilitation
-      - name: Residential Treatment
+      - name:
+          source: Residential Treatment
+          tx:
+            he: מסגרות טיפול ביתיות
         slug: human_services:health:prevent_treat:residential_treatment
-      - name: Specialized Therapy
+      - name:
+          source: Specialized Therapy
+          tx:
+            he: טיפול מיוחד
         slug: human_services:health:prevent_treat:specialized_therapy
-      - name: Speech Therapy
+      - name:
+          source: Speech Therapy
+          tx:
+            he: קלינאות תקשורת
         slug: human_services:health:prevent_treat:speech_therapy
-      - name: Vaccinations
+      - name:
+          source: Vaccinations
+          tx:
+            he: חיסונים
         slug: human_services:health:prevent_treat:vaccinations
-    - name: Personal Hygiene
+    - name:
+        source: Personal Hygiene
+        tx:
+          he: הגיינה אישית
       slug: human_services:health:personal_hygiene
-    - name: Primary Care
+    - name:
+        source: Primary Care
+        tx:
+          he: טיפול ראשוני
       slug: human_services:health:primary_care
     - name:
         source: Sexual & Reproductive Health
@@ -1152,9 +1332,15 @@
             tx:
               he: אמצעי מניעה
           slug: human_services:health:sexual_reproductive_health:family_planning:birth_control
-        - name: Fertility
+        - name:
+            source: Fertility
+            tx:
+              he: פוריות
           slug: human_services:health:sexual_reproductive_health:family_planning:fertility
-        - name: Sex Education
+        - name:
+            source: Sex Education
+            tx:
+              he: חינוך מיני
           slug: human_services:health:sexual_reproductive_health:family_planning:sex_education
       - name:
           source: STD/STI Treatment & Prevention
@@ -1183,9 +1369,15 @@
             tx:
               he: טיפול לאחר לידה
           slug: human_services:health:sexual_reproductive_health:womens_health:postnatal_care
-    - name: Skilled Nursing
+    - name:
+        source: Skilled Nursing
+        tx:
+          he: טיפול על ידי אחות
       slug: human_services:health:skilled_nursing
-    - name: Support & Service Animals
+    - name:
+        source: Support & Service Animals
+        tx:
+          he: כלבי נחייה ותמיכה
       slug: human_services:health:support_service_animals
     - name:
         source: Vision Care
@@ -1235,7 +1427,10 @@
           tx:
             he: התאמות לבית
         slug: human_services:housing:maintenance_repairs:disability_modifications
-      - name: Housing Advice
+      - name:
+          source: Housing Advice
+          tx:
+            he: עצות דיור
         slug: human_services:housing:maintenance_repairs:housing_advice
       - name:
           source: Pest Control
@@ -1247,7 +1442,10 @@
           tx:
             he: תיקונים קטנים
         slug: human_services:housing:maintenance_repairs:small_repairs
-    - name: Public Housing
+    - name:
+        source: Public Housing
+        tx:
+          he: דיור ציבורי
       slug: human_services:housing:public_housing
     - name:
         source: Residential Housing
@@ -1296,7 +1494,10 @@
             tx:
               he: דירות לווין
           slug: human_services:housing:residential_housing:long_term_housing:satellite_apartments
-        - name: Safe Housing
+        - name:
+            source: Safe Housing
+            tx:
+              he: דירת מעבר ומקלטים
           slug: human_services:housing:residential_housing:long_term_housing:safe_housing
       - name:
           source: Short-Term Housing
@@ -1597,9 +1798,15 @@
           he: הסעות
       slug: human_services:transit:transportation
       items: []
-    - name: Transportation for Healthcare
+    - name:
+        source: Transportation for Healthcare
+        tx:
+          he: הסעות לטיפולים רפואיים
       slug: human_services:transit:transportation_for_healthcare
-    - name: Transportation for School
+    - name:
+        source: Transportation for School
+        tx:
+          he: הסעות לבית הספר
       slug: human_services:transit:transportation_for_school
   - name:
       source: Work
@@ -1969,9 +2176,15 @@
         tx:
           he: אסירים
       slug: human_situations:criminal_history:prisoners
-    - name: Sexual Perpetrators
+    - name:
+        source: Sexual Perpetrators
+        tx:
+          he: עברייני מין
       slug: human_situations:criminal_history:sexual_perpetrators
-    - name: Violent tendencies
+    - name:
+        source: Violent tendencies
+        tx:
+          he: אלימות במשפחה
       slug: human_situations:criminal_history:violent_tendencies
   - name:
       source: Deprivation
@@ -2144,7 +2357,10 @@
         tx:
           he: טרנסג'נדר
       slug: human_situations:gender:transgender
-    - name: Non-binary
+    - name:
+        source: Non-binary
+        tx:
+          he: לא בינאריים
       slug: human_situations:gender:non_binary
   - name:
       source: Health
@@ -2514,7 +2730,10 @@
         tx:
           he: בדידות
       slug: human_situations:household:loneliness
-    - name: Orphans
+    - name:
+        source: Orphans
+        tx:
+          he: יתומים
       slug: human_situations:household:orphans
   - name:
       source: Housing
@@ -2739,7 +2958,10 @@
         tx:
           he: תלויים.ות
       slug: human_situations:role:dependents
-    - name: Family Caregivers
+    - name:
+        source: Family Caregivers
+        tx:
+          he: משפחות מלוות
       slug: human_situations:role:family_caregivers
     - name:
         source: Spouses
