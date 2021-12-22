@@ -72,6 +72,8 @@
           tx:
             he: מעון
         slug: human_services:care:childcare:preschool
+      - name: Daytime Care
+        slug: human_services:care:childcare:daytime_care
     - name:
         source: Aid Center
         tx:

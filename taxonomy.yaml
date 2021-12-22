@@ -30,6 +30,8 @@
         slug: human_services:care:childcare:day_camp
       - name: Preschool
         slug: human_services:care:childcare:preschool
+      - name: Daytime Care
+        slug: human_services:care:childcare:daytime_care
     - name: Aid Center
       slug: human_services:care:aid_center
     - name: Daytime Care
