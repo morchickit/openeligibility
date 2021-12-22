@@ -72,7 +72,10 @@
           tx:
             he: מעון
         slug: human_services:care:childcare:preschool
-      - name: Daytime Care
+      - name:
+          source: Daytime Care
+          tx:
+            he: מסגרות יום לילדים
         slug: human_services:care:childcare:daytime_care
     - name:
         source: Aid Center
