@@ -42,10 +42,10 @@
             he: תמיכה במשפחות מאמצות
         slug: human_services:care:adoption_foster_care:post_adoption_support
     - name:
-        source: Afterschool Care
+        source: Aid Center
         tx:
-          he: צהרון
-      slug: human_services:care:afterschool_care
+          he: מרכז סיוע
+      slug: human_services:care:aid_center
     - name:
         source: Childcare
         tx:
@@ -77,11 +77,8 @@
           tx:
             he: מסגרות יום לילדים
         slug: human_services:care:childcare:daytime_care
-    - name:
-        source: Aid Center
-        tx:
-          he: מרכז סיוע
-      slug: human_services:care:aid_center
+      - name: Afterschool Care
+        slug: human_services:care:childcare:afterschool_care
     - name:
         source: Daytime Care
         tx:
@@ -192,100 +189,46 @@
             tx:
               he: חינוך לבטיחות
           slug: human_services:care:physical_safety:immediate_safety:safety_education
-      - name:
-          source: Residential Care
-          tx:
-            he: מסגרות טיפוליות
-        slug: human_services:care:physical_safety:residential_care
+    - name: Residential Care
+      slug: human_services:care:residential_care
+      items:
+      - name: Assisted Living
+        slug: human_services:care:residential_care:assisted_living
+      - name: Nursing Home
+        slug: human_services:care:residential_care:nursing_home
+    - name: Recovery
+      slug: human_services:care:recovery
+      items:
+      - name: Vacations
+        slug: human_services:care:recovery:vacations
+    - name: Support Network
+      slug: human_services:care:support_network
+      items:
+      - name: Counseling
+        slug: human_services:care:support_network:counseling
+      - name: Help Hotlines
+        slug: human_services:care:support_network:help_hotlines
+      - name: Home Visiting
+        slug: human_services:care:support_network:home_visiting
+      - name: In-Home Support
+        slug: human_services:care:support_network:in_home_support
+      - name: Mentoring
+        slug: human_services:care:support_network:mentoring
+      - name: One-on-One Support
+        slug: human_services:care:support_network:one_on_one_support
+      - name: Spiritual Support
+        slug: human_services:care:support_network:spiritual_support
+      - name: Support Group
+        slug: human_services:care:support_network:support_group
         items:
-        - name:
-            source: Assisted Living
-            tx:
-              he: דיור מוגן
-          slug: human_services:care:physical_safety:residential_care:assisted_living
-        - name:
-            source: Nursing Home
-            tx:
-              he: מוסד סיעודי
-          slug: human_services:care:physical_safety:residential_care:nursing_home
-      - name:
-          source: Recovery
-          tx:
-            he: הבראה
-        slug: human_services:care:physical_safety:recovery
-        items:
-        - name:
-            source: Vacations
-            tx:
-              he: נופשונים
-          slug: human_services:care:physical_safety:recovery:vacations
-      - name:
-          source: Support Network
-          tx:
-            he: רשת תמיכה
-        slug: human_services:care:physical_safety:support_network
-        items:
-        - name:
-            source: Counseling
-            tx:
-              he: טיפול רגשי (פסיכולוגי)
-          slug: human_services:care:physical_safety:support_network:counseling
-        - name:
-            source: Help Hotlines
-            tx:
-              he: קווי סיוע
-          slug: human_services:care:physical_safety:support_network:help_hotlines
-        - name:
-            source: Home Visiting
-            tx:
-              he: ביקורי בית
-          slug: human_services:care:physical_safety:support_network:home_visiting
-        - name:
-            source: In-Home Support
-            tx:
-              he: סיוע בבית
-          slug: human_services:care:physical_safety:support_network:in_home_support
-        - name:
-            source: Mentoring
-            tx:
-              he: מנטורינג
-          slug: human_services:care:physical_safety:support_network:mentoring
-        - name:
-            source: One-on-One Support
-            tx:
-              he: חונכות
-          slug: human_services:care:physical_safety:support_network:one_on_one_support
-        - name:
-            source: Spiritual Support
-            tx:
-              he: תמיכה רוחנית
-          slug: human_services:care:physical_safety:support_network:spiritual_support
-        - name:
-            source: Support Group
-            tx:
-              he: קבוצות תמיכה
-          slug: human_services:care:physical_safety:support_network:support_group
-          items:
-          - name:
-              source: 12-Step
-              tx:
-                he: תמיכה בהתמכרות
-            slug: human_services:care:physical_safety:support_network:support_group:12_step
-          - name:
-              source: Bereavement
-              tx:
-                he: סיוע בתקופת האבל
-            slug: human_services:care:physical_safety:support_network:support_group:bereavement
-          - name:
-              source: Parenting Education
-              tx:
-                he: הדרכת הורים
-            slug: human_services:care:physical_safety:support_network:support_group:parenting_education
-          - name:
-              source: Virtual Support
-              tx:
-                he: תמיכה וירטואלית
-            slug: human_services:care:physical_safety:support_network:support_group:virtual_support
+        - name: 12-Step
+          slug: human_services:care:support_network:support_group:12_step
+        - name: Bereavement
+          slug: human_services:care:support_network:support_group:bereavement
+        - name: Parenting Education
+          slug: human_services:care:support_network:support_group:parenting_education
+        - name: Virtual Support
+          slug: human_services:care:support_network:support_group:virtual_support
     - name:
         source: Relief for Caregivers
         tx:
@@ -2262,7 +2205,7 @@
     - name:
         source: Mental Illness
         tx:
-          he: תשושי נפש
+          he: מתמודדי נפש
       slug: human_situations:disability:mental_illness
     - name:
         source: Limited Mobility

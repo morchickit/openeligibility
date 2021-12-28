@@ -17,8 +17,8 @@
         slug: human_services:care:adoption_foster_care:adoption_planning
       - name: Post-Adoption Support
         slug: human_services:care:adoption_foster_care:post_adoption_support
-    - name: Afterschool Care
-      slug: human_services:care:afterschool_care
+    - name: Aid Center
+      slug: human_services:care:aid_center
     - name: Childcare
       slug: human_services:care:childcare
       items:
@@ -32,8 +32,8 @@
         slug: human_services:care:childcare:preschool
       - name: Daytime Care
         slug: human_services:care:childcare:daytime_care
-    - name: Aid Center
-      slug: human_services:care:aid_center
+      - name: Afterschool Care
+        slug: human_services:care:childcare:afterschool_care
     - name: Daytime Care
       slug: human_services:care:daytime_care
       items:
@@ -81,46 +81,46 @@
           slug: human_services:care:physical_safety:immediate_safety:safe_housing
         - name: Safety Education
           slug: human_services:care:physical_safety:immediate_safety:safety_education
-      - name: Residential Care
-        slug: human_services:care:physical_safety:residential_care
+    - name: Residential Care
+      slug: human_services:care:residential_care
+      items:
+      - name: Assisted Living
+        slug: human_services:care:residential_care:assisted_living
+      - name: Nursing Home
+        slug: human_services:care:residential_care:nursing_home
+    - name: Recovery
+      slug: human_services:care:recovery
+      items:
+      - name: Vacations
+        slug: human_services:care:recovery:vacations
+    - name: Support Network
+      slug: human_services:care:support_network
+      items:
+      - name: Counseling
+        slug: human_services:care:support_network:counseling
+      - name: Help Hotlines
+        slug: human_services:care:support_network:help_hotlines
+      - name: Home Visiting
+        slug: human_services:care:support_network:home_visiting
+      - name: In-Home Support
+        slug: human_services:care:support_network:in_home_support
+      - name: Mentoring
+        slug: human_services:care:support_network:mentoring
+      - name: One-on-One Support
+        slug: human_services:care:support_network:one_on_one_support
+      - name: Spiritual Support
+        slug: human_services:care:support_network:spiritual_support
+      - name: Support Group
+        slug: human_services:care:support_network:support_group
         items:
-        - name: Assisted Living
-          slug: human_services:care:physical_safety:residential_care:assisted_living
-        - name: Nursing Home
-          slug: human_services:care:physical_safety:residential_care:nursing_home
-      - name: Recovery
-        slug: human_services:care:physical_safety:recovery
-        items:
-        - name: Vacations
-          slug: human_services:care:physical_safety:recovery:vacations
-      - name: Support Network
-        slug: human_services:care:physical_safety:support_network
-        items:
-        - name: Counseling
-          slug: human_services:care:physical_safety:support_network:counseling
-        - name: Help Hotlines
-          slug: human_services:care:physical_safety:support_network:help_hotlines
-        - name: Home Visiting
-          slug: human_services:care:physical_safety:support_network:home_visiting
-        - name: In-Home Support
-          slug: human_services:care:physical_safety:support_network:in_home_support
-        - name: Mentoring
-          slug: human_services:care:physical_safety:support_network:mentoring
-        - name: One-on-One Support
-          slug: human_services:care:physical_safety:support_network:one_on_one_support
-        - name: Spiritual Support
-          slug: human_services:care:physical_safety:support_network:spiritual_support
-        - name: Support Group
-          slug: human_services:care:physical_safety:support_network:support_group
-          items:
-          - name: 12-Step
-            slug: human_services:care:physical_safety:support_network:support_group:12_step
-          - name: Bereavement
-            slug: human_services:care:physical_safety:support_network:support_group:bereavement
-          - name: Parenting Education
-            slug: human_services:care:physical_safety:support_network:support_group:parenting_education
-          - name: Virtual Support
-            slug: human_services:care:physical_safety:support_network:support_group:virtual_support
+        - name: 12-Step
+          slug: human_services:care:support_network:support_group:12_step
+        - name: Bereavement
+          slug: human_services:care:support_network:support_group:bereavement
+        - name: Parenting Education
+          slug: human_services:care:support_network:support_group:parenting_education
+        - name: Virtual Support
+          slug: human_services:care:support_network:support_group:virtual_support
     - name: Relief for Caregivers
       slug: human_services:care:relief_for_caregivers
   - name: Community Services
