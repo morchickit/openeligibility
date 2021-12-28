@@ -6,14 +6,14 @@
       - Adoption & Foster Placement
       - Adoption Planning
       - Post-Adoption Support
-    - Afterschool Care
+    - Aid Center
     - Childcare:
       - Help Find Childcare
       - Help Pay for Childcare
       - Day Camp
       - Preschool
       - Daytime Care
-    - Aid Center
+      - Afterschool Care
     - Daytime Care:
       - Adult Daycare
     - Early Childhood Intervention
@@ -35,25 +35,26 @@
         - Help Escape Violence
         - Safe Housing
         - Safety Education
-      - Residential Care:
-        - Assisted Living
-        - Nursing Home
-      - Recovery:
-        - Vacations
-      - Support Network:
-        - Counseling
-        - Help Hotlines
-        - Home Visiting
-        - In-Home Support
-        - Mentoring
-        - One-on-One Support
-        - Spiritual Support
-        - Support Group:
-          - 12-Step
-          - Bereavement
-          - Parenting Education
-          - Virtual Support
+    - Residential Care:
+      - Assisted Living
+      - Nursing Home
+    - Recovery:
+      - Vacations
+    - Support Network:
+      - Counseling
+      - Help Hotlines
+      - Home Visiting
+      - In-Home Support
+      - Mentoring
+      - One-on-One Support
+      - Spiritual Support
+      - Support Group:
+        - 12-Step
+        - Bereavement
+        - Parenting Education
+        - Virtual Support
     - Relief for Caregivers
+    
   - Community Services:
     - Community Gardens
     - Computer or Internet Access
@@ -74,6 +75,7 @@
       - Altenative Religious Services
     - Social Club
     - Summer Camps
+  
   - Education:
     - Help Find School
     - Help Pay for School:
@@ -118,6 +120,7 @@
       - Interview Training
       - Skills Assessment
       - Specialized Training
+  
   - Emergency:
     - Disaster Response
     - Emergency Food
@@ -133,6 +136,7 @@
       - Help Escape Violence
       - Safe Housing
     - Psychiatric Emergency Services
+  
   - Food:
     - Community Gardens
     - Emergency Food
@@ -142,6 +146,7 @@
       - Government Food Benefits
     - Nutrition
     - Nutrition Education
+  
   - Goods:
     - Baby Supplies:
       - Baby Clothes
@@ -164,6 +169,7 @@
       - Prosthesis
     - Personal Safety
     - Toys & Gifts
+  
   - Health:
     - Addiction & Recovery:
       - Detox
@@ -266,6 +272,7 @@
     - Skilled Nursing
     - Support & Service Animals
     - Vision Care
+  
   - Housing:
     - Emergency Shelter
     - Help Find Housing
@@ -293,6 +300,7 @@
         - Sober Living
         - Vacations
     - Temporary Shelter
+  
   - Legal:
     - Advocacy & Legal Aid:
       - Adoption & Foster Care:
@@ -310,6 +318,7 @@
     - Notary
     - Representation
     - Translation & Interpretation
+  
   - Money:
     - Financial Assistance:
       - Help Pay for Childcare
@@ -343,10 +352,12 @@
       - Business Loans
       - Personal Loans
     - Tax Preparation
+  
   - Transit:
     - Transportation:
     - Transportation for Healthcare
     - Transportation for School
+  
   - Work:
     - Help Find Work
     - Help Pay for Work Expenses:
