@@ -17,7 +17,7 @@
   - קייטנה
   - מעון
   - מסגרות יום לילדים
-  - Afterschool Care
+  - צהרון
 - מסגרות יום
   - מסגרות יום למבוגרים
 - אבחונים לגיל הרך
@@ -39,24 +39,24 @@
     - מקלטים מאלימות
     - דירת מעבר ומקלטים
     - חינוך לבטיחות
-- Residential Care
-  - Assisted Living
-  - Nursing Home
-- Recovery
-  - Vacations
-- Support Network
-  - Counseling
-  - Help Hotlines
-  - Home Visiting
-  - In-Home Support
-  - Mentoring
-  - One-on-One Support
-  - Spiritual Support
-  - Support Group
-    - 12-Step
-    - Bereavement
-    - Parenting Education
-    - Virtual Support
+- מסגרת טיפולית ביתית
+  - דיור מוגן
+  - מוסד סיעודי
+- שיקום
+  - נופשונים
+- רשת תמיכה
+  - טיפול רגשי (פסיכולוגי)
+  - קווי סיוע
+  - ביקורי בית
+  - סיוע בבית
+  - מנטורינג
+  - חונכות
+  - תמיכה רוחנית
+  - קבוצות תמיכה
+    - תמיכה בהתמכרות
+    - סיוע בתקופת האבל
+    - הדרכת הורים
+    - תמיכה וירטואלית
 - הקלה למטפלים
 ### שירותים קהילתיים
 - גינות קהילתיות

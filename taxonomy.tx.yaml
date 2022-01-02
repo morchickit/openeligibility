@@ -77,7 +77,10 @@
           tx:
             he: מסגרות יום לילדים
         slug: human_services:care:childcare:daytime_care
-      - name: Afterschool Care
+      - name:
+          source: Afterschool Care
+          tx:
+            he: צהרון
         slug: human_services:care:childcare:afterschool_care
     - name:
         source: Daytime Care
@@ -189,45 +192,99 @@
             tx:
               he: חינוך לבטיחות
           slug: human_services:care:physical_safety:immediate_safety:safety_education
-    - name: Residential Care
+    - name:
+        source: Residential Care
+        tx:
+          he: מסגרת טיפולית ביתית
       slug: human_services:care:residential_care
       items:
-      - name: Assisted Living
+      - name:
+          source: Assisted Living
+          tx:
+            he: דיור מוגן
         slug: human_services:care:residential_care:assisted_living
-      - name: Nursing Home
+      - name:
+          source: Nursing Home
+          tx:
+            he: מוסד סיעודי
         slug: human_services:care:residential_care:nursing_home
-    - name: Recovery
+    - name:
+        source: Recovery
+        tx:
+          he: שיקום
       slug: human_services:care:recovery
       items:
-      - name: Vacations
+      - name:
+          source: Vacations
+          tx:
+            he: נופשונים
         slug: human_services:care:recovery:vacations
-    - name: Support Network
+    - name:
+        source: Support Network
+        tx:
+          he: רשת תמיכה
       slug: human_services:care:support_network
       items:
-      - name: Counseling
+      - name:
+          source: Counseling
+          tx:
+            he: טיפול רגשי (פסיכולוגי)
         slug: human_services:care:support_network:counseling
-      - name: Help Hotlines
+      - name:
+          source: Help Hotlines
+          tx:
+            he: קווי סיוע
         slug: human_services:care:support_network:help_hotlines
-      - name: Home Visiting
+      - name:
+          source: Home Visiting
+          tx:
+            he: ביקורי בית
         slug: human_services:care:support_network:home_visiting
-      - name: In-Home Support
+      - name:
+          source: In-Home Support
+          tx:
+            he: סיוע בבית
         slug: human_services:care:support_network:in_home_support
-      - name: Mentoring
+      - name:
+          source: Mentoring
+          tx:
+            he: מנטורינג
         slug: human_services:care:support_network:mentoring
-      - name: One-on-One Support
+      - name:
+          source: One-on-One Support
+          tx:
+            he: חונכות
         slug: human_services:care:support_network:one_on_one_support
-      - name: Spiritual Support
+      - name:
+          source: Spiritual Support
+          tx:
+            he: תמיכה רוחנית
         slug: human_services:care:support_network:spiritual_support
-      - name: Support Group
+      - name:
+          source: Support Group
+          tx:
+            he: קבוצות תמיכה
         slug: human_services:care:support_network:support_group
         items:
-        - name: 12-Step
+        - name:
+            source: 12-Step
+            tx:
+              he: תמיכה בהתמכרות
           slug: human_services:care:support_network:support_group:12_step
-        - name: Bereavement
+        - name:
+            source: Bereavement
+            tx:
+              he: סיוע בתקופת האבל
           slug: human_services:care:support_network:support_group:bereavement
-        - name: Parenting Education
+        - name:
+            source: Parenting Education
+            tx:
+              he: הדרכת הורים
           slug: human_services:care:support_network:support_group:parenting_education
-        - name: Virtual Support
+        - name:
+            source: Virtual Support
+            tx:
+              he: תמיכה וירטואלית
           slug: human_services:care:support_network:support_group:virtual_support
     - name:
         source: Relief for Caregivers
