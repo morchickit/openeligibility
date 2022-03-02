@@ -1,6 +1,6 @@
 - Human Services:
   - Care:
-    - Accessibility
+    - Accessibility:
       - Translation
     - Adoption & Foster Care:
       - Adoption Counseling
@@ -28,7 +28,7 @@
     - Residential Care
     - Recovery:
       - Vacations
-      - Vocational rehabilitation
+      - Vocational Rehabilitation
     - Support Network:
       - Counseling
       - Help Hotlines
@@ -98,8 +98,7 @@
       - Youth Movement
     - Leadership development
     - Screening & Exams:
-      - GED/High-School Equivalency
-    - English as a Second Language (ESL)
+      - Bagrut/High-School Equivalency
     - Skills & Training:
       - Basic Literacy
       - Computer Class
@@ -147,33 +146,34 @@
       - Family Planning
       - Nutrition Education
       - Sex Education
-    - Allied Health
-    - Alternative Medicine
-    - Checkup & Test:
-      - Disease Screening
-      - Eye Tests
-      - Genetic Testing
-      - Hearing Tests
-      - Pregnancy Tests
-      - Maternity Care
-    - Medical Supplies:
-      - Assistive Technology
-      - Prosthesis
+    - Medical care:
+      - Allied Health
+      - Alternative Medicine
+      - Checkup & Test:
+        - Disease Screening
+        - Eye Tests
+        - Genetic Testing
+        - Hearing Tests
+        - Pregnancy Tests
+        - Maternity Care
+      - Medical Supplies:
+        - Assistive Technology
+        - Prosthesis
     - Mental Health Care:
-      - Anger Management
-      - Bereavement
-    - Counseling:
-      - Family Counseling
-      - Group Therapy
-      - Individual Counseling
-    - Medications for Mental Health
-    - Mental Health Evaluation
-    - Hospitalization:
-      - Forced Hospitalization
-      - Voluntary Hospitalization
-      - Hospitalization Alternative
-      - Home Hospitalization
-      - Psychiatric Emergency Services
+       - Anger Management
+       - Bereavement
+       - Counseling:
+        - Family Counseling
+        - Group Therapy
+        - Individual Counseling
+      - Medications for Mental Health
+      - Mental Health Evaluation
+      - Hospitalization:
+        - Forced Hospitalization
+        - Voluntary Hospitalization
+        - Hospitalization Alternative
+        - Home Hospitalization
+        - Psychiatric Emergency Services
     - Prevent & Treat:
       - Counseling
       - Disease Management
@@ -285,8 +285,8 @@
   
   - Culture: 
     - Fine Art
-    - Cinema: 
-      - Exhibitions
+    - Cinema
+    - Exhibitions
     - Choirs 
     - Dance
     - Digital Art
