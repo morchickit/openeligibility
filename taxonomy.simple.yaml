@@ -66,8 +66,8 @@
   - Education:
     - Help Find School
     - Education Institutions:
-      - Nurserie
-      - kindergarten
+      - Nursery
+      - Kindergarten
       - Primary School
       - Middle School
       - High School:
@@ -83,7 +83,7 @@
       - Civic Engagement
       - College Readiness
       - Army Readiness
-      - National service Readiness
+      - National Service Readiness
       - English as a Second Language (ESL)
       - Enrichment Programs
       - Environmental Education
@@ -96,7 +96,7 @@
       - Tutoring
       - Youth Development
       - Youth Movement
-    - Leadership developmen
+    - Leadership development
     - Screening & Exams:
       - GED/High-School Equivalency
     - English as a Second Language (ESL)
@@ -129,13 +129,13 @@
     - Toys & Gifts
 
   - Health:
-      - Addiction & Recovery:
-        - Detox
-        - Drug Testing
-        - Medications for Addiction
-        - Peer Recovery Coaching
-        - Residential Treatment
-        - Substance Abuse Counseling
+    - Addiction & Recovery:
+      - Detox
+      - Drug Testing
+      - Medications for Addiction
+      - Peer Recovery Coaching
+      - Residential Treatment
+      - Substance Abuse Counseling
     - Dental Care
     - Emergency Services:
       - Psychiatric Emergency Services
@@ -149,30 +149,30 @@
       - Sex Education
     - Allied Health
     - Alternative Medicine
-      - Checkup & Test:
-        - Disease Screening
-        - Eye Tests
-        - Genetic Testing
-        - Hearing Tests
-        - Pregnancy Tests
+    - Checkup & Test:
+      - Disease Screening
+      - Eye Tests
+      - Genetic Testing
+      - Hearing Tests
+      - Pregnancy Tests
       - Maternity Care
-      - Medical Supplies:
-        - Assistive Technology
-        - Prosthesis
+    - Medical Supplies:
+      - Assistive Technology
+      - Prosthesis
     - Mental Health Care:
       - Anger Management
       - Bereavement
-      - Counseling:
-        - Family Counseling
-        - Group Therapy
-        - Individual Counseling
-      - Medications for Mental Health
-      - Mental Health Evaluation
-      - hospitalization:
-        - Forced Hospitalization
-        - Voluntary Hospitalization
-        - Hospitalization Alternative
-        - Home Hospitalization
+    - Counseling:
+      - Family Counseling
+      - Group Therapy
+      - Individual Counseling
+    - Medications for Mental Health
+    - Mental Health Evaluation
+    - Hospitalization:
+      - Forced Hospitalization
+      - Voluntary Hospitalization
+      - Hospitalization Alternative
+      - Home Hospitalization
       - Psychiatric Emergency Services
     - Prevent & Treat:
       - Counseling
@@ -227,8 +227,8 @@
         - Safe Housing
       - Short-Term Housing
     - Temporary Shelter:
-      - Shelters from violence
-      - Transit flats
+      - Shelters from Violence
+      - Transit Flats
 
   - Legal:
     - Advocacy & Legal Aid:
@@ -282,9 +282,10 @@
       - Protected Employment
       - Protected Factory
     - Workplace Rights
-  - Culture 
+  
+  - Culture: 
     - Fine Art
-    - Cinema 
+    - Cinema: 
       - Exhibitions
     - Choirs 
     - Dance
@@ -366,8 +367,8 @@
     - Limited Mobility
     - Physical Disability
     - Visual Impairment
-    - Mentally debilitated
-    - In need for nursing care  
+    - Mentally Debilitated
+    - In Need for Nursing Care  
   - Education:
     - Dropouts
     - Gifted Students
