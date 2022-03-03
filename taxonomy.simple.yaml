@@ -1,6 +1,7 @@
 - Human Services:
   - Care:
-    - Accessibility
+    - Accessibility:
+      - Translation
     - Adoption & Foster Care:
       - Adoption Counseling
       - Adoption & Foster Placement
@@ -9,37 +10,25 @@
     - Aid Center
     - Childcare:
       - Help Find Childcare
-      - Help Pay for Childcare
-      - Day Camp
-      - Preschool
-      - Daytime Care
       - Afterschool Care
     - Daytime Care:
       - Adult Daycare
     - Early Childhood Intervention
-    - Guidance 
-    - Navigating the System:
-      - Help Fill out Forms
-      - Help Find Housing
-      - Case Management
-      - Help Find Childcare
-      - Help Find School
-      - Help Find Work
+    - Guidance
+    - Eligibility Checks:
+      - Disability committee
+      - Nursing status committee
+    - Navigating the System
     - Physical Safety:
       - Disaster Response
       - Emergency Food
       - Temporary Shelter:
         - Weather Relief
       - Help Find Missing Persons
-      - Immediate Safety:
-        - Help Escape Violence
-        - Safe Housing
-        - Safety Education
-    - Residential Care:
-      - Assisted Living
-      - Nursing Home
+    - Residential Care
     - Recovery:
       - Vacations
+      - Vocational Rehabilitation
     - Support Network:
       - Counseling
       - Help Hotlines
@@ -54,65 +43,62 @@
         - Parenting Education
         - Virtual Support
     - Relief for Caregivers
-    
+
   - Community Services:
     - Community Gardens
     - Computer or Internet Access
     - Community center
     - Enrichment Programs
     - Exercise & Fitness
-    - Helplines:
-      - Emergency Helplines
-      - Advice Helplines
+    - Libraries
+    - Helplines
     - Olim Support
     - Recreation
     - Religious Services:
       - Synagogues
       - Mosques
       - Churches
-      - Gamach
-      - Kollel
       - Altenative Religious Services
     - Social Club
     - Summer Camps
-  
+    - Assistance during mourning period
+
   - Education:
     - Help Find School
-    - Help Pay for School:
-      - Books
-      - Clothes for School
-      - Financial Aid & Loans
-      - Supplies for School
-      - Transportation for School
+    - Education Institutions:
+      - Nursery
+      - Kindergarten
+      - Primary School
+      - Middle School
+      - High School:
+        - High School Yeshiva
+        - Ulpana
+        - Youth Villages
+      - Further Education:
+        - Engineering
+        - Yeshiva and Kollel
+      - Academia
     - More Education:
       - Alternative Education
       - Civic Engagement
       - College Readiness
+      - Army Readiness
+      - National Service Readiness
       - English as a Second Language (ESL)
       - Enrichment Programs
       - Environmental Education
-      - Financial Education:
-        - Credit Counseling
-        - Homebuyer Education
+      - Financial Education
       - Foreign Languages
       - GED/High-School Equivalency
-      - Health Education:
-        - Family Planning
-        - Nutrition Education
-        - Parenting Education
-        - Safety Education
-        - Sex Education
-      - Prep - Mechina
-      - Special Education
-      - Summer Camps
+      - Prep - Mechina:
+        - Army Prep
+        - University Prep
       - Tutoring
       - Youth Development
       - Youth Movement
     - Leadership development
-    - Preschool
     - Screening & Exams:
-      - English as a Second Language (ESL)
-      - GED/High-School Equivalency
+      - Bagrut/High-School Equivalency
     - Skills & Training:
       - Basic Literacy
       - Computer Class
@@ -120,62 +106,32 @@
       - Interview Training
       - Skills Assessment
       - Specialized Training
-  
+
   - Emergency:
     - Disaster Response
     - Emergency Food
     - Emergency Helplines
-    - Emergency Payments:
-      - Help Pay for Food
-      - Help Pay for Healthcare
-      - Help Pay for Housing
-      - Help Pay for School
     - Emergency Shelter
     - Help Find Missing Persons
-    - Immediate Safety:
-      - Help Escape Violence
-      - Safe Housing
     - Psychiatric Emergency Services
-  
+
   - Food:
-    - Community Gardens
-    - Emergency Food
     - Food Delivery
     - Food Pantry
-    - Help Pay for Food:
-      - Government Food Benefits
     - Nutrition
     - Nutrition Education
-  
+
   - Goods:
-    - Baby Supplies:
-      - Baby Clothes
-      - Diapers & Formula
-    - Clothing:
-      - Clothes for School
-      - Clothes for Work
-      - Clothing Vouchers
-    - Home Goods:
-      - Blankets
-      - Books
-      - Efficient Appliances
-      - Fans
-      - Furniture
-      - Personal Care Items
-      - Supplies for School
-      - Supplies for Work
-    - Medical Supplies:
-      - Assistive Technology
-      - Prosthesis
-    - Personal Safety
+    - Baby Supplies
+    - Clothing
+    - Home Goods
     - Toys & Gifts
-  
+
   - Health:
     - Addiction & Recovery:
       - Detox
       - Drug Testing
       - Medications for Addiction
-      - Outpatient Treatment
       - Peer Recovery Coaching
       - Residential Treatment
       - Substance Abuse Counseling
@@ -183,38 +139,22 @@
     - Emergency Services:
       - Psychiatric Emergency Services
       - Dental Emergency Service
-      - Exercise & Fitness
     - Help Find Healthcare
-    - End-of-Life Care:
-      - Bereavement
-      - Burial & Funeral Help
-      - Hospice
-      - Pain Management
+    - End-of-Life Care
     - Health Education:
       - Disease Management
       - Family Planning
       - Nutrition Education
-      - Parenting Education
       - Sex Education
-    - Help Pay for Healthcare:
-      - Disability Benefits
-      - Discounted Healthcare
-      - Health Insurance
-      - Medical Supplies
-      - Prescription Assistance
-      - Transportation for Healthcare
     - Medical Care:
       - Allied Health
       - Alternative Medicine
       - Checkup & Test:
-        - Checkup & Test
-        - Disability Screening
         - Disease Screening
         - Eye Tests
         - Genetic Testing
         - Hearing Tests
         - Pregnancy Tests
-      - Combined Care
       - Maternity Care
       - Medical Supplies:
         - Assistive Technology
@@ -226,30 +166,23 @@
         - Family Counseling
         - Group Therapy
         - Individual Counseling
-        - Substance Abuse Counseling
-      - Hospital Treatment
       - Medications for Mental Health
       - Mental Health Evaluation
-      - Outpatient Treatment:
+      - Hospitalization:
         - Forced Hospitalization
         - Voluntary Hospitalization
-      - Psychiatric Emergency Services
-      - Residential Treatment:
-        - Daytime Care
-        - Hostel
-      - Support & Service Animals
+        - Hospitalization Alternative
+        - Home Hospitalization
+        - Psychiatric Emergency Services
     - Prevent & Treat:
       - Counseling
       - Disease Management
-      - Early Childhood Intervention
-      - HIV Treatment
       - Hospital Treatment
       - In-Home Support
       - Medication Management
       - Nursing Home
       - Nutrition
       - Occupational Therapy
-      - Outpatient Treatment
       - Pain Management
       - Physical Therapy
       - Rehabilitation
@@ -257,6 +190,7 @@
       - Specialized Therapy
       - Speech Therapy
       - Vaccinations
+      - Eye Care
     - Personal Hygiene
     - Primary Care
     - Sexual & Reproductive Health:
@@ -271,14 +205,10 @@
         - Postnatal Care
     - Skilled Nursing
     - Support & Service Animals
-    - Vision Care
-  
+
   - Housing:
     - Emergency Shelter
     - Help Find Housing
-    - Help Pay for Housing:
-      - Housing Vouchers
-      - Maintenance & Repairs
     - Maintenance & Repairs:
       - Disability Modifications
       - Housing Advice
@@ -295,88 +225,82 @@
         - Old Age Home
         - Satellite Apartments
         - Safe Housing
-      - Short-Term Housing:
-        - Old Age Home
-        - Sober Living
-        - Vacations
-    - Temporary Shelter
-  
+      - Short-Term Housing
+    - Temporary Shelter:
+      - Shelters from Violence
+      - Transit Flats
+
   - Legal:
     - Advocacy & Legal Aid:
-      - Adoption & Foster Care:
-        - Adoption Planning
-        - Adoption Counseling
-        - Post-Adoption Support
-        - Adoption & Foster Care
       - Citizenship & Immigration
       - Discrimination & Civil Rights
       - Guardianship
       - Identification Recovery
       - Understand Government Programs
       - Workplace Rights
+      - Financial difficulties 
     - Mediation
     - Notary
     - Representation
-    - Translation & Interpretation
-  
+    - Legal Translation & Interpretation
+
   - Money:
     - Financial Assistance:
       - Help Pay for Childcare
       - Help Pay for Food
       - Help Pay for Healthcare:
-        - Discounted Healthcare
-        - Health Insurance
         - Medical Supplies
         - Prescription Assistance
         - Transportation for Healthcare
       - Help Pay for Housing:
-        - Home & Renters Insurance
-        - Help Pay for Internet or Phone
-        - Help Pay for Utilities
+        - Help with Maintenance
+        - Help with Rent
       - Help Pay for School:
         - Books
         - Clothes for School
-        - Financial Aid & Loans
         - Transportation for School
         - Supplies for School
-      - Help Pay for Work Expenses
-    - Financial Education:
-      - Credit Counseling
-      - Foreclosure Counseling
-      - Homebuyer Education
-      - Savings Program
-    - Insurance:
-      - Health Insurance
-      - Home & Renters Insurance
+    - Financial Education
+    - Insurance
     - Loans:
       - Business Loans
       - Personal Loans
     - Tax Preparation
-  
-  - Transit:
-    - Transportation:
-    - Transportation for Healthcare
-    - Transportation for School
-  
+    - Gamach Money 
+
+
   - Work:
     - Help Find Work
-    - Help Pay for Work Expenses:
-      - Clothes for Work
-      - Supplies for Work
-      - Unemployment Benefits
     - Skills & Training:
-      - Basic Literacy
-      - Computer Class
-      - GED/High-School Equivalency
       - Interview Training
       - Resume Development
       - Skills Assessment
       - Specialized Training
+      - Vocational Courses
     - Special Employment:
       - Supported Employment
       - Protected Employment
       - Protected Factory
     - Workplace Rights
+  
+  - Culture: 
+    - Fine Art
+    - Cinema
+    - Exhibitions
+    - Choirs 
+    - Dance
+    - Digital Art
+    - Hasbara
+    - Jewish Culture: 
+      - Ethnic culture
+    - Literature
+    - Music
+    - Opera
+    - Orchestra 
+    - Sports
+    - Theatre 
+    - TV
+    - Radio 
 
 - Human Situations:
   - Age Group:
@@ -394,6 +318,7 @@
     - Professional Duty
     - Reserves
     - Veterans
+    - Police
   - Benefit Holders:
     - Social Security:
       - Disability
@@ -433,10 +358,8 @@
     - Health Deprivation
     - Education / skills Deprivation
   - Disability:
-    - All Disabilities
     - Autistic spectrum
     - Deaf or Hard of Hearing
-    - Developmental Disability
     - Intellectual Disability
     - Learning Disability:
       - ADD/ADHD
@@ -444,13 +367,14 @@
     - Limited Mobility
     - Physical Disability
     - Visual Impairment
+    - Mentally Debilitated
+    - In Need for Nursing Care  
   - Education:
     - Dropouts
     - Gifted Students
     - Special needs
     - Students
     - Yeshiva students
-    - Youth village / Boarding school
   - Employment:
     - Employed
     - Retirement
@@ -482,29 +406,7 @@
       - Home Care
       - Nursing Care
     - Neoplasm:
-      - Cancer:
-        - All Cancer Types
-        - Bladder Cancer
-        - Brain Tumor
-        - Breast Cancer
-        - Central Nervous System
-        - Cervical Cancer
-        - Colon Cancer
-        - Endometrial Cancer
-        - Head & Neck Cancer
-        - Leukemia
-        - Liver Cancer
-        - Lung Cancer
-        - Lymphoma
-        - Ovarian Cancer
-        - Sarcoma
-        - Skin Cancer
-        - Stomach (Gastric) Cancer
-        - Testicular Cancer
-        - Throat Cancer
-        - Thyroid Cancer
-        - Vaginal Cancer
-        - Vulvar Cancer
+      - Cancer
     - Nervous System Disease:
       - Stroke
       - Epilepsy
@@ -603,15 +505,16 @@
     - Smoker
   - Survivors:
     - Abuse or Neglect Survivors
-    - All Survivors
     - Burn Survivors
     - Car Accidents Survivors
-    - Domestic Violence Survivors
+    - Violence Survivors: 
+      - Domestic Violence Survivors
+      - Sexual Assault Survivors
     - Holocaust Survivors
     - Human Trafficking Survivors
     - Natural Disaster Survivors
-    - Sexual Assault Survivors
     - Terror Victims
+    - Prostition Survivors
     - Trauma Survivors
   - Urgency:
     - Emergency
