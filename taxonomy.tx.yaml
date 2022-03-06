@@ -131,12 +131,6 @@
           tx:
             he: דיור חירומי
         slug: human_services:care:physical_safety:temporary_shelter
-        items:
-        - name:
-            source: Weather Relief
-            tx:
-              he: עזרה באסון מזג אוויר
-          slug: human_services:care:physical_safety:temporary_shelter:weather_relief
       - name:
           source: Help Find Missing Persons
           tx:
@@ -242,6 +236,11 @@
     slug: human_services:community_services
     items:
     - name:
+        source: Assistance during mourning period
+        tx:
+          he: סיוע בתקופת האבל
+      slug: human_services:community_services:assistance_during_mourning_period
+    - name:
         source: Community Gardens
         tx:
           he: גינות קהילתיות
@@ -261,11 +260,6 @@
         tx:
           he: תוכניות העשרה
       slug: human_services:community_services:enrichment_programs
-    - name:
-        source: Exercise & Fitness
-        tx:
-          he: פעילות ספורט
-      slug: human_services:community_services:exercise_fitness
     - name:
         source: Libraries
         tx:
@@ -322,11 +316,8 @@
         tx:
           he: קייטנות
       slug: human_services:community_services:summer_camps
-    - name:
-        source: Assistance during mourning period
-        tx:
-          he: סיוע בתקופת האבל
-      slug: human_services:community_services:assistance_during_mourning_period
+    - name: Youth movements
+      slug: human_services:community_services:youth_movements
   - name:
       source: Education
       tx:
@@ -401,13 +392,13 @@
             tx:
               he: ישיבות וכוללים
           slug: human_services:education:education_institutions:further_education:yeshiva_and_kollel
-      - name: Special Education
-        slug: human_services:education:education_institutions:special_education
       - name:
           source: Academia
           tx:
             he: אקדמיה
         slug: human_services:education:education_institutions:academia
+    - name: Special Education
+      slug: human_services:education:special_education
     - name:
         source: More Education
         tx:
@@ -649,7 +640,7 @@
     - name:
         source: Addiction & Recovery
         tx:
-          he: גמילה מהמתמכרות
+          he: גמילה מהתמכרות
       slug: human_services:health:addiction_recovery
       items:
       - name:
@@ -863,7 +854,7 @@
         - name:
             source: Forced Hospitalization
             tx:
-              he: אשפוז כפוי
+              he: אשפוז
           slug: human_services:health:mental_health_care:hospitalization:forced_hospitalization
         - name:
             source: Voluntary Hospitalization
@@ -984,7 +975,7 @@
     - name:
         source: Sexual & Reproductive Health
         tx:
-          he: בריאות מינית ורבייה
+          he: בריאות מינית
       slug: human_services:health:sexual_reproductive_health
       items:
       - name:
@@ -1200,7 +1191,7 @@
       - name:
           source: Understand Government Programs
           tx:
-            he: סיוע במיצוי זכויות
+            he: מיצוי זכויות
         slug: human_services:legal:advocacy_legal_aid:understand_government_programs
       - name:
           source: Workplace Rights
@@ -1244,6 +1235,8 @@
           he: סיוע כספי
       slug: human_services:money:financial_assistance
       items:
+      - name: Gamach Money
+        slug: human_services:money:financial_assistance:gamach_money
       - name:
           source: Help Pay for Childcare
           tx:
@@ -1348,11 +1341,6 @@
         tx:
           he: הגשת מיסים
       slug: human_services:money:tax_preparation
-    - name:
-        source: Gamach Money
-        tx:
-          he: גמ"ח כסף
-      slug: human_services:money:gamach_money
   - name:
       source: Work
       tx:
@@ -1416,103 +1404,45 @@
           tx:
             he: מפעל מוגן
         slug: human_services:work:special_employment:protected_factory
-    - name:
-        source: Workplace Rights
-        tx:
-          he: זכויות עובדים
-      slug: human_services:work:workplace_rights
-  - name:
-      source: Culture
-      tx:
-        he: תרבות
-    slug: human_services:culture
+  - name: Culture and Sports
+    slug: human_services:culture_and_sports
     items:
-    - name:
-        source: Fine Art
-        tx:
-          he: ציור ופיסול
-      slug: human_services:culture:fine_art
-    - name:
-        source: Cinema
-        tx:
-          he: קולנוע
-      slug: human_services:culture:cinema
-    - name:
-        source: Exhibitions
-        tx:
-          he: תערוכות וכנסים
-      slug: human_services:culture:exhibitions
-    - name:
-        source: Choirs
-        tx:
-          he: מקהלות
-      slug: human_services:culture:choirs
-    - name:
-        source: Dance
-        tx:
-          he: מחול
-      slug: human_services:culture:dance
-    - name:
-        source: Digital Art
-        tx:
-          he: אומנות דיגיטלית
-      slug: human_services:culture:digital_art
-    - name:
-        source: Hasbara
-        tx:
-          he: הסברה
-      slug: human_services:culture:hasbara
-    - name:
-        source: Jewish Culture
-        tx:
-          he: תרבות יהודית
-      slug: human_services:culture:jewish_culture
-      items:
-      - name:
-          source: Ethnic culture
-          tx:
-            he: תרבות אתנית ועדתית
-        slug: human_services:culture:jewish_culture:ethnic_culture
-    - name:
-        source: Literature
-        tx:
-          he: ספרות
-      slug: human_services:culture:literature
-    - name:
-        source: Music
-        tx:
-          he: מוזיקה
-      slug: human_services:culture:music
-    - name:
-        source: Opera
-        tx:
-          he: אופרה
-      slug: human_services:culture:opera
-    - name:
-        source: Orchestra
-        tx:
-          he: תזמורת
-      slug: human_services:culture:orchestra
-    - name:
-        source: Sports
-        tx:
-          he: ספורט
-      slug: human_services:culture:sports
-    - name:
-        source: Theatre
-        tx:
-          he: תיאטרון
-      slug: human_services:culture:theatre
-    - name:
-        source: TV
-        tx:
-          he: טלוויזיה
-      slug: human_services:culture:tv
-    - name:
-        source: Radio
-        tx:
-          he: רדיו
-      slug: human_services:culture:radio
+    - name: Fine Art
+      slug: human_services:culture_and_sports:fine_art
+    - name: Cinema
+      slug: human_services:culture_and_sports:cinema
+    - name: Exhibitions
+      slug: human_services:culture_and_sports:exhibitions
+    - name: Choirs
+      slug: human_services:culture_and_sports:choirs
+    - name: Dance
+      slug: human_services:culture_and_sports:dance
+    - name: Digital Art
+      slug: human_services:culture_and_sports:digital_art
+    - name: Exercise & Fitness
+      slug: human_services:culture_and_sports:exercise_fitness
+    - name: Hasbara
+      slug: human_services:culture_and_sports:hasbara
+    - name: Jewish Culture
+      slug: human_services:culture_and_sports:jewish_culture
+    - name: Ethnic Culture
+      slug: human_services:culture_and_sports:ethnic_culture
+    - name: Literature
+      slug: human_services:culture_and_sports:literature
+    - name: Music
+      slug: human_services:culture_and_sports:music
+    - name: Opera
+      slug: human_services:culture_and_sports:opera
+    - name: Orchestra
+      slug: human_services:culture_and_sports:orchestra
+    - name: Sports
+      slug: human_services:culture_and_sports:sports
+    - name: Theatre
+      slug: human_services:culture_and_sports:theatre
+    - name: TV
+      slug: human_services:culture_and_sports:tv
+    - name: Radio
+      slug: human_services:culture_and_sports:radio
 - name:
     source: Human Situations
     tx:
@@ -1667,6 +1597,15 @@
           tx:
             he: אסירי ציון
         slug: human_situations:benefit_holders:social_security:zion_prisoners
+      - name: Terror Victims
+        slug: human_situations:benefit_holders:social_security:terror_victims
+    - name: Holocaust Survivors
+      slug: human_situations:benefit_holders:holocaust_survivors
+    - name: Ministry of Health
+      slug: human_situations:benefit_holders:ministry_of_health
+      items:
+      - name: Rehabilitation Basket
+        slug: human_situations:benefit_holders:ministry_of_health:rehabilitation_basket
     - name:
         source: Ministry of Defense
         tx:
@@ -2424,21 +2363,18 @@
           he: שלבי טיפול
       slug: human_situations:mental_health:treatment_phases
       items:
+      - name: Community care
+        slug: human_situations:mental_health:treatment_phases:community_care
       - name:
           source: Forced Hospitalization
           tx:
-            he: אשפוז כפוי
+            he: אשפוז
         slug: human_situations:mental_health:treatment_phases:forced_hospitalization
       - name:
           source: No recognition
           tx:
             he: ללא הכרה במחלה
         slug: human_situations:mental_health:treatment_phases:no_recognition
-      - name:
-          source: Rehabilitation Basket
-          tx:
-            he: סל שיקום
-        slug: human_situations:mental_health:treatment_phases:rehabilitation_basket
   - name:
       source: Role
       tx:
@@ -2497,11 +2433,6 @@
           he: דרוזים
       slug: human_situations:sectors:druze
     - name:
-        source: Ethiopians
-        tx:
-          he: יוצאי אתיופיה
-      slug: human_situations:sectors:ethiopians
-    - name:
         source: Jews
         tx:
           he: יהודים
@@ -2537,6 +2468,8 @@
           tx:
             he: יהדות מתקדמת
         slug: human_situations:sectors:jews:progressives
+      - name: Ethiopians
+        slug: human_situations:sectors:jews:ethiopians
     - name:
         source: Muslims
         tx:
@@ -2622,11 +2555,6 @@
             he: נפגעי אלימות מינית
         slug: human_situations:survivors:violence_survivors:sexual_assault_survivors
     - name:
-        source: Holocaust Survivors
-        tx:
-          he: ניצולי שואה
-      slug: human_situations:survivors:holocaust_survivors
-    - name:
         source: Human Trafficking Survivors
         tx:
           he: נפגעי סחר בבני אדם
@@ -2636,11 +2564,6 @@
         tx:
           he: נפגעי אסון טבע
       slug: human_situations:survivors:natural_disaster_survivors
-    - name:
-        source: Terror Victims
-        tx:
-          he: נפגעי פעולות איבה
-      slug: human_situations:survivors:terror_victims
     - name:
         source: Prostition Survivors
         tx:

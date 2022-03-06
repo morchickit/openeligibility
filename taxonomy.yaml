@@ -56,9 +56,6 @@
         slug: human_services:care:physical_safety:emergency_food
       - name: Temporary Shelter
         slug: human_services:care:physical_safety:temporary_shelter
-        items:
-        - name: Weather Relief
-          slug: human_services:care:physical_safety:temporary_shelter:weather_relief
       - name: Help Find Missing Persons
         slug: human_services:care:physical_safety:help_find_missing_persons
     - name: Residential Care
@@ -103,6 +100,8 @@
   - name: Community Services
     slug: human_services:community_services
     items:
+    - name: Assistance during mourning period
+      slug: human_services:community_services:assistance_during_mourning_period
     - name: Community Gardens
       slug: human_services:community_services:community_gardens
     - name: Computer or Internet Access
@@ -111,8 +110,6 @@
       slug: human_services:community_services:community_center
     - name: Enrichment Programs
       slug: human_services:community_services:enrichment_programs
-    - name: Exercise & Fitness
-      slug: human_services:community_services:exercise_fitness
     - name: Libraries
       slug: human_services:community_services:libraries
     - name: Helplines
@@ -136,8 +133,8 @@
       slug: human_services:community_services:social_club
     - name: Summer Camps
       slug: human_services:community_services:summer_camps
-    - name: Assistance during mourning period
-      slug: human_services:community_services:assistance_during_mourning_period
+    - name: Youth movements
+      slug: human_services:community_services:youth_movements
   - name: Education
     slug: human_services:education
     items:
@@ -170,10 +167,10 @@
           slug: human_services:education:education_institutions:further_education:engineering
         - name: Yeshiva and Kollel
           slug: human_services:education:education_institutions:further_education:yeshiva_and_kollel
-      - name: Special Education
-        slug: human_services:education:education_institutions:special_education
       - name: Academia
         slug: human_services:education:education_institutions:academia
+    - name: Special Education
+      slug: human_services:education:special_education
     - name: More Education
       slug: human_services:education:more_education
       items:
@@ -527,6 +524,8 @@
     - name: Financial Assistance
       slug: human_services:money:financial_assistance
       items:
+      - name: Gamach Money
+        slug: human_services:money:financial_assistance:gamach_money
       - name: Help Pay for Childcare
         slug: human_services:money:financial_assistance:help_pay_for_childcare
       - name: Help Pay for Food
@@ -571,8 +570,6 @@
         slug: human_services:money:loans:personal_loans
     - name: Tax Preparation
       slug: human_services:money:tax_preparation
-    - name: Gamach Money
-      slug: human_services:money:gamach_money
   - name: Work
     slug: human_services:work
     items:
@@ -600,46 +597,45 @@
         slug: human_services:work:special_employment:protected_employment
       - name: Protected Factory
         slug: human_services:work:special_employment:protected_factory
-    - name: Workplace Rights
-      slug: human_services:work:workplace_rights
-  - name: Culture
-    slug: human_services:culture
+  - name: Culture and Sports
+    slug: human_services:culture_and_sports
     items:
     - name: Fine Art
-      slug: human_services:culture:fine_art
+      slug: human_services:culture_and_sports:fine_art
     - name: Cinema
-      slug: human_services:culture:cinema
+      slug: human_services:culture_and_sports:cinema
     - name: Exhibitions
-      slug: human_services:culture:exhibitions
+      slug: human_services:culture_and_sports:exhibitions
     - name: Choirs
-      slug: human_services:culture:choirs
+      slug: human_services:culture_and_sports:choirs
     - name: Dance
-      slug: human_services:culture:dance
+      slug: human_services:culture_and_sports:dance
     - name: Digital Art
-      slug: human_services:culture:digital_art
+      slug: human_services:culture_and_sports:digital_art
+    - name: Exercise & Fitness
+      slug: human_services:culture_and_sports:exercise_fitness
     - name: Hasbara
-      slug: human_services:culture:hasbara
+      slug: human_services:culture_and_sports:hasbara
     - name: Jewish Culture
-      slug: human_services:culture:jewish_culture
-      items:
-      - name: Ethnic culture
-        slug: human_services:culture:jewish_culture:ethnic_culture
+      slug: human_services:culture_and_sports:jewish_culture
+    - name: Ethnic Culture
+      slug: human_services:culture_and_sports:ethnic_culture
     - name: Literature
-      slug: human_services:culture:literature
+      slug: human_services:culture_and_sports:literature
     - name: Music
-      slug: human_services:culture:music
+      slug: human_services:culture_and_sports:music
     - name: Opera
-      slug: human_services:culture:opera
+      slug: human_services:culture_and_sports:opera
     - name: Orchestra
-      slug: human_services:culture:orchestra
+      slug: human_services:culture_and_sports:orchestra
     - name: Sports
-      slug: human_services:culture:sports
+      slug: human_services:culture_and_sports:sports
     - name: Theatre
-      slug: human_services:culture:theatre
+      slug: human_services:culture_and_sports:theatre
     - name: TV
-      slug: human_services:culture:tv
+      slug: human_services:culture_and_sports:tv
     - name: Radio
-      slug: human_services:culture:radio
+      slug: human_services:culture_and_sports:radio
 - name: Human Situations
   slug: human_situations
   items:
@@ -701,6 +697,15 @@
         slug: human_situations:benefit_holders:social_security:ussr_veterans
       - name: Zion Prisoners
         slug: human_situations:benefit_holders:social_security:zion_prisoners
+      - name: Terror Victims
+        slug: human_situations:benefit_holders:social_security:terror_victims
+    - name: Holocaust Survivors
+      slug: human_situations:benefit_holders:holocaust_survivors
+    - name: Ministry of Health
+      slug: human_situations:benefit_holders:ministry_of_health
+      items:
+      - name: Rehabilitation Basket
+        slug: human_situations:benefit_holders:ministry_of_health:rehabilitation_basket
     - name: Ministry of Defense
       slug: human_situations:benefit_holders:ministry_of_defense
       items:
@@ -1023,12 +1028,12 @@
     - name: Treatment Phases
       slug: human_situations:mental_health:treatment_phases
       items:
+      - name: Community care
+        slug: human_situations:mental_health:treatment_phases:community_care
       - name: Forced Hospitalization
         slug: human_situations:mental_health:treatment_phases:forced_hospitalization
       - name: No recognition
         slug: human_situations:mental_health:treatment_phases:no_recognition
-      - name: Rehabilitation Basket
-        slug: human_situations:mental_health:treatment_phases:rehabilitation_basket
   - name: Role
     slug: human_situations:role
     items:
@@ -1053,8 +1058,6 @@
       slug: human_situations:sectors:circassians
     - name: Druze
       slug: human_situations:sectors:druze
-    - name: Ethiopians
-      slug: human_situations:sectors:ethiopians
     - name: Jews
       slug: human_situations:sectors:jews
       items:
@@ -1070,6 +1073,8 @@
         slug: human_situations:sectors:jews:yotze_beshela
       - name: Progressives
         slug: human_situations:sectors:jews:progressives
+      - name: Ethiopians
+        slug: human_situations:sectors:jews:ethiopians
     - name: Muslims
       slug: human_situations:sectors:muslims
   - name: Sexuality
@@ -1106,14 +1111,10 @@
         slug: human_situations:survivors:violence_survivors:domestic_violence_survivors
       - name: Sexual Assault Survivors
         slug: human_situations:survivors:violence_survivors:sexual_assault_survivors
-    - name: Holocaust Survivors
-      slug: human_situations:survivors:holocaust_survivors
     - name: Human Trafficking Survivors
       slug: human_situations:survivors:human_trafficking_survivors
     - name: Natural Disaster Survivors
       slug: human_situations:survivors:natural_disaster_survivors
-    - name: Terror Victims
-      slug: human_situations:survivors:terror_victims
     - name: Prostition Survivors
       slug: human_situations:survivors:prostition_survivors
     - name: Trauma Survivors
