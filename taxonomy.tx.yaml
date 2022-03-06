@@ -401,6 +401,8 @@
             tx:
               he: ישיבות וכוללים
           slug: human_services:education:education_institutions:further_education:yeshiva_and_kollel
+      - name: Special Education
+        slug: human_services:education:education_institutions:special_education
       - name:
           source: Academia
           tx:
@@ -1842,6 +1844,8 @@
         tx:
           he: מוגבלות שכלית והתפתחותית
       slug: human_situations:disability:intellectual_disability
+    - name: Developmental Disability
+      slug: human_situations:disability:developmental_disability
     - name:
         source: Learning Disability
         tx:

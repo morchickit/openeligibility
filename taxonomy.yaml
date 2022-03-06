@@ -170,6 +170,8 @@
           slug: human_services:education:education_institutions:further_education:engineering
         - name: Yeshiva and Kollel
           slug: human_services:education:education_institutions:further_education:yeshiva_and_kollel
+      - name: Special Education
+        slug: human_services:education:education_institutions:special_education
       - name: Academia
         slug: human_services:education:education_institutions:academia
     - name: More Education
@@ -774,6 +776,8 @@
       slug: human_situations:disability:deaf_or_hard_of_hearing
     - name: Intellectual Disability
       slug: human_situations:disability:intellectual_disability
+    - name: Developmental Disability
+      slug: human_situations:disability:developmental_disability
     - name: Learning Disability
       slug: human_situations:disability:learning_disability
       items:
