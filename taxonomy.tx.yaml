@@ -316,7 +316,10 @@
         tx:
           he: קייטנות
       slug: human_services:community_services:summer_camps
-    - name: Youth movements
+    - name:
+        source: Youth movements
+        tx:
+          he: תנועות נוער
       slug: human_services:community_services:youth_movements
   - name:
       source: Education
@@ -397,7 +400,10 @@
           tx:
             he: אקדמיה
         slug: human_services:education:education_institutions:academia
-    - name: Special Education
+    - name:
+        source: Special Education
+        tx:
+          he: חינוך מיוחד ושילוב בחינוך
       slug: human_services:education:special_education
     - name:
         source: More Education
@@ -1235,7 +1241,10 @@
           he: סיוע כספי
       slug: human_services:money:financial_assistance
       items:
-      - name: Gamach Money
+      - name:
+          source: Gamach Money
+          tx:
+            he: גמ"ח כסף
         slug: human_services:money:financial_assistance:gamach_money
       - name:
           source: Help Pay for Childcare
@@ -1404,44 +1413,101 @@
           tx:
             he: מפעל מוגן
         slug: human_services:work:special_employment:protected_factory
-  - name: Culture and Sports
+  - name:
+      source: Culture and Sports
+      tx:
+        he: תרבות וספורט
     slug: human_services:culture_and_sports
     items:
-    - name: Fine Art
+    - name:
+        source: Fine Art
+        tx:
+          he: אומנות
       slug: human_services:culture_and_sports:fine_art
-    - name: Cinema
+    - name:
+        source: Cinema
+        tx:
+          he: קולנוע
       slug: human_services:culture_and_sports:cinema
-    - name: Exhibitions
+    - name:
+        source: Exhibitions
+        tx:
+          he: תערוכות
       slug: human_services:culture_and_sports:exhibitions
-    - name: Choirs
+    - name:
+        source: Choirs
+        tx:
+          he: מקהלות
       slug: human_services:culture_and_sports:choirs
-    - name: Dance
+    - name:
+        source: Dance
+        tx:
+          he: מחול
       slug: human_services:culture_and_sports:dance
-    - name: Digital Art
+    - name:
+        source: Digital Art
+        tx:
+          he: אומנות דיגיטלית
       slug: human_services:culture_and_sports:digital_art
-    - name: Exercise & Fitness
+    - name:
+        source: Exercise & Fitness
+        tx:
+          he: התעמלות וכושר
       slug: human_services:culture_and_sports:exercise_fitness
-    - name: Hasbara
+    - name:
+        source: Hasbara
+        tx:
+          he: הסברה
       slug: human_services:culture_and_sports:hasbara
-    - name: Jewish Culture
+    - name:
+        source: Jewish Culture
+        tx:
+          he: תרבות יהודית
       slug: human_services:culture_and_sports:jewish_culture
-    - name: Ethnic Culture
+    - name:
+        source: Ethnic Culture
+        tx:
+          he: תרבות אתנית ועדתית
       slug: human_services:culture_and_sports:ethnic_culture
-    - name: Literature
+    - name:
+        source: Literature
+        tx:
+          he: ספרות
       slug: human_services:culture_and_sports:literature
-    - name: Music
+    - name:
+        source: Music
+        tx:
+          he: מוזיקה
       slug: human_services:culture_and_sports:music
-    - name: Opera
+    - name:
+        source: Opera
+        tx:
+          he: אופרה
       slug: human_services:culture_and_sports:opera
-    - name: Orchestra
+    - name:
+        source: Orchestra
+        tx:
+          he: תזמורת
       slug: human_services:culture_and_sports:orchestra
-    - name: Sports
+    - name:
+        source: Sports
+        tx:
+          he: ספורט
       slug: human_services:culture_and_sports:sports
-    - name: Theatre
+    - name:
+        source: Theatre
+        tx:
+          he: תיאטרון
       slug: human_services:culture_and_sports:theatre
-    - name: TV
+    - name:
+        source: TV
+        tx:
+          he: טלוויזיה
       slug: human_services:culture_and_sports:tv
-    - name: Radio
+    - name:
+        source: Radio
+        tx:
+          he: רדיו
       slug: human_services:culture_and_sports:radio
 - name:
     source: Human Situations
@@ -1518,7 +1584,7 @@
     - name:
         source: Active Duty
         tx:
-          he: חיילים וחיילות
+          he: צבא סדיר
       slug: human_situations:armed_forces:active_duty
     - name:
         source: Bereaved families
@@ -1538,7 +1604,7 @@
     - name:
         source: Professional Duty
         tx:
-          he: חיילי קבע
+          he: צבא קבע
       slug: human_situations:armed_forces:professional_duty
     - name:
         source: Reserves
@@ -1553,7 +1619,7 @@
     - name:
         source: Police
         tx:
-          he: שוטרים
+          he: משטרה
       slug: human_situations:armed_forces:police
   - name:
       source: Benefit Holders
@@ -1575,12 +1641,12 @@
       - name:
           source: Income Security
           tx:
-            he: מקבלי הבטחת הכנסה / השלמת הכנסה
+            he: הבטחת הכנסה / השלמת הכנסה
         slug: human_situations:benefit_holders:social_security:income_security
       - name:
           source: Nursing Care
           tx:
-            he: מוכרים כסיעודיים
+            he: הכרה כסיעודי
         slug: human_situations:benefit_holders:social_security:nursing_care
       - name:
           source: Righteous Among the Nations
@@ -1597,14 +1663,26 @@
           tx:
             he: אסירי ציון
         slug: human_situations:benefit_holders:social_security:zion_prisoners
-      - name: Terror Victims
+      - name:
+          source: Terror Victims
+          tx:
+            he: נפגעי פעולות איבה
         slug: human_situations:benefit_holders:social_security:terror_victims
-    - name: Holocaust Survivors
+    - name:
+        source: Holocaust Survivors
+        tx:
+          he: ניצולי שואה
       slug: human_situations:benefit_holders:holocaust_survivors
-    - name: Ministry of Health
+    - name:
+        source: Ministry of Health
+        tx:
+          he: משרד הבריאות
       slug: human_situations:benefit_holders:ministry_of_health
       items:
-      - name: Rehabilitation Basket
+      - name:
+          source: Rehabilitation Basket
+          tx:
+            he: סל שיקום
         slug: human_situations:benefit_holders:ministry_of_health:rehabilitation_basket
     - name:
         source: Ministry of Defense
@@ -1631,7 +1709,7 @@
     - name:
         source: Citizens
         tx:
-          he: אזרחים
+          he: אזרחות ישראלית
       slug: human_situations:citizenship:citizens
     - name:
         source: Foreign Residents
@@ -1641,7 +1719,7 @@
     - name:
         source: Foreign Workers
         tx:
-          he: עובדים זרים
+          he: מהגרי עבודה
       slug: human_situations:citizenship:foreign_workers
       items:
       - name:
@@ -1677,17 +1755,17 @@
     - name:
         source: Refugees
         tx:
-          he: פליטים.ות
+          he: פליטים
       slug: human_situations:citizenship:refugees
     - name:
         source: Residents
         tx:
-          he: תושבים
+          he: תושבות (ללא אזרחות)
       slug: human_situations:citizenship:residents
     - name:
         source: Statusless
         tx:
-          he: חסרי מעמד
+          he: מחוסרי מעמד
       slug: human_situations:citizenship:statusless
   - name:
       source: Community
@@ -1698,12 +1776,12 @@
     - name:
         source: Activists
         tx:
-          he: פעילים חברתיים
+          he: פעילות חברתית
       slug: human_situations:community:activists
     - name:
         source: Leaders
         tx:
-          he: מנהיגים
+          he: מנהיגות קהילתית
       slug: human_situations:community:leaders
   - name:
       source: Criminal History
@@ -1714,7 +1792,7 @@
     - name:
         source: Ex-Offenders
         tx:
-          he: אנשים בעלי עבר פלילי
+          he: בעלי עבר פלילי
       slug: human_situations:criminal_history:ex_offenders
     - name:
         source: Ex-Offenders youth
@@ -1724,7 +1802,7 @@
     - name:
         source: Prisoners
         tx:
-          he: אסירים
+          he: במאסר
       slug: human_situations:criminal_history:prisoners
     - name:
         source: Sexual Perpetrators
@@ -1783,7 +1861,10 @@
         tx:
           he: מוגבלות שכלית והתפתחותית
       slug: human_situations:disability:intellectual_disability
-    - name: Developmental Disability
+    - name:
+        source: Developmental Disability
+        tx:
+          he: מוגבלות שכלית התפתחותית
       slug: human_situations:disability:developmental_disability
     - name:
         source: Learning Disability
@@ -1840,7 +1921,7 @@
     - name:
         source: Gifted Students
         tx:
-          he: מחוננים
+          he: מחוננות
       slug: human_situations:education:gifted_students
     - name:
         source: Special needs
@@ -1850,7 +1931,7 @@
     - name:
         source: Students
         tx:
-          he: סטודנטים
+          he: בלימודים אקדמיים
       slug: human_situations:education:students
     - name:
         source: Yeshiva students
@@ -2190,12 +2271,12 @@
     - name:
         source: Homeless
         tx:
-          he: חסרי בית
+          he: מחוסרי בית
       slug: human_situations:housing:homeless
     - name:
         source: Public Housing Tenants
         tx:
-          he: דיירי דיור ציבורי
+          he: בדיור ציבורי
       slug: human_situations:housing:public_housing_tenants
     - name:
         source: Recipients of Housing Assistance
@@ -2232,32 +2313,32 @@
     - name:
         source: Arabic Speaking
         tx:
-          he: דוברי ערבית
+          he: ערבית
       slug: human_situations:language:arabic_speaking
     - name:
         source: Amharic Speaking
         tx:
-          he: דוברי אמהרית
+          he: אמהרית
       slug: human_situations:language:amharic_speaking
     - name:
         source: English Speaking
         tx:
-          he: דוברי אנגלית
+          he: אנגלית
       slug: human_situations:language:english_speaking
     - name:
         source: French Speaking
         tx:
-          he: דוברי צרפתית
+          he: צרפתית
       slug: human_situations:language:french_speaking
     - name:
         source: Hebrew Speaking
         tx:
-          he: דוברי עברית
+          he: עברית
       slug: human_situations:language:hebrew_speaking
     - name:
         source: Russian Speaking
         tx:
-          he: דוברי רוסית
+          he: רוסית
       slug: human_situations:language:russian_speaking
     - name:
         source: Sign Language
@@ -2267,7 +2348,7 @@
     - name:
         source: Spanish Speaking
         tx:
-          he: דוברי ספרדית
+          he: ספרדית
       slug: human_situations:language:spanish_speaking
   - name:
       source: Life Events
@@ -2363,7 +2444,10 @@
           he: שלבי טיפול
       slug: human_situations:mental_health:treatment_phases
       items:
-      - name: Community care
+      - name:
+          source: Community care
+          tx:
+            he: טיפול בקהילה
         slug: human_situations:mental_health:treatment_phases:community_care
       - name:
           source: Forced Hospitalization
@@ -2410,70 +2494,73 @@
     - name:
         source: Arabs
         tx:
-          he: ערבים
+          he: המגזר הערבי
       slug: human_situations:sectors:arabs
     - name:
         source: Bedouin
         tx:
-          he: בדואים
+          he: המגזר הבדואי
       slug: human_situations:sectors:bedouin
     - name:
         source: Christians
         tx:
-          he: נוצרים
+          he: נצרות
       slug: human_situations:sectors:christians
     - name:
         source: Circassians
         tx:
-          he: צ'רקסים
+          he: המגזר הצ'רקסי
       slug: human_situations:sectors:circassians
     - name:
         source: Druze
         tx:
-          he: דרוזים
+          he: המגזר הדרוזי
       slug: human_situations:sectors:druze
     - name:
         source: Jews
         tx:
-          he: יהודים
+          he: יהדות
       slug: human_situations:sectors:jews
       items:
       - name:
           source: Ultra Orthodox
           tx:
-            he: חרדים
+            he: המגזר החרדי
         slug: human_situations:sectors:jews:ultra_orthodox
       - name:
           source: Secular
           tx:
-            he: חילונים
+            he: יהדות חילונית
         slug: human_situations:sectors:jews:secular
       - name:
           source: Dati Leumi
           tx:
-            he: דתיים לאומיים
+            he: דתי לאומי
         slug: human_situations:sectors:jews:dati_leumi
       - name:
           source: Hozer Betshuva
           tx:
-            he: חוזרים בתשובה
+            he: חזרה בתשובה
         slug: human_situations:sectors:jews:hozer_betshuva
       - name:
           source: Yotze Beshela
           tx:
-            he: יוצאים בשאלה
+            he: יציאה בשאלה
         slug: human_situations:sectors:jews:yotze_beshela
       - name:
           source: Progressives
           tx:
             he: יהדות מתקדמת
         slug: human_situations:sectors:jews:progressives
-      - name: Ethiopians
+      - name:
+          source: Ethiopians
+          tx:
+            he: קהילת יוצאי אתיופיה
         slug: human_situations:sectors:jews:ethiopians
     - name:
         source: Muslims
         tx:
-          he: מוסלמים
+          he: אסלם
       slug: human_situations:sectors:muslims
   - name:
       source: Sexuality
