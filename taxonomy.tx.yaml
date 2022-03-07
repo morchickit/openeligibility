@@ -1522,59 +1522,41 @@
     slug: human_situations:age_group
     items:
     - name:
-        source: Adults
+        source: Infants
         tx:
-          he: מבוגרים
-      slug: human_situations:age_group:adults
-      description:
-        source: 31-54 years old
-        tx:
-          he: גילאי 31-54
+          he: גיל הרך
+      slug: human_situations:age_group:infants
+      description: 0-1 years old
     - name:
         source: Children
         tx:
           he: ילדים
       slug: human_situations:age_group:children
-      description:
-        source: 2-12 years old
-        tx:
-          he: גילאי 2-12
-    - name:
-        source: Infants
-        tx:
-          he: גיל הרך
-      slug: human_situations:age_group:infants
-      description:
-        source: 0-1 years old
-        tx:
-          he: גילאי 0-1
-    - name:
-        source: Seniors
-        tx:
-          he: אזרחים ותיקים
-      slug: human_situations:age_group:seniors
-      description:
-        source: 55+ years old
-        tx:
-          he: גילאי 55+
+      description: 2-12 years old
     - name:
         source: Teens
         tx:
           he: בני נוער
       slug: human_situations:age_group:teens
-      description:
-        source: 13-19 years old
-        tx:
-          he: גילאי 13-19
+      description: 13-19 years old
     - name:
         source: Young Adults
         tx:
           he: מבוגרים צעירים
       slug: human_situations:age_group:young_adults
-      description:
-        source: 20-30 years old
+      description: 20-30 years old
+    - name:
+        source: Adults
         tx:
-          he: גילאי 20-30
+          he: מבוגרים
+      slug: human_situations:age_group:adults
+      description: 31-54 years old
+    - name:
+        source: Seniors
+        tx:
+          he: אזרחים ותיקים
+      slug: human_situations:age_group:seniors
+      description: 55+ years old
   - name:
       source: Armed Forces
       tx:
