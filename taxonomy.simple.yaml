@@ -146,19 +146,6 @@
       - Family Planning
       - Nutrition Education
       - Sex Education
-    - Medical Care:
-      - Allied Health
-      - Alternative Medicine
-      - Checkup & Test:
-        - Disease Screening
-        - Eye Tests
-        - Genetic Testing
-        - Hearing Tests
-        - Pregnancy Tests
-      - Maternity Care
-      - Medical Supplies:
-        - Assistive Technology
-        - Prosthesis
     - Mental Health Care:
       - Anger Management
       - Bereavement
@@ -175,6 +162,19 @@
         - Home Hospitalization
         - Psychiatric Emergency Services
     - Prevent & Treat:
+      - Allied Health
+      - Alternative Medicine
+      - Checkup & Test:
+        - Disease Screening
+        - Eye Tests
+        - Genetic Testing
+        - Hearing Tests
+        - Pregnancy Tests
+      - Maternity Care
+      - Medical Supplies:
+        - Assistive Technology
+        - Prosthesis
+      - Clinics
       - Counseling
       - Disease Management
       - Hospital Treatment
