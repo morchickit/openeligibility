@@ -737,74 +737,6 @@
             he: חינוך מיני
         slug: human_services:health:health_education:sex_education
     - name:
-        source: Medical Care
-        tx:
-          he: טיפול רפואי
-      slug: human_services:health:medical_care
-      items:
-      - name:
-          source: Allied Health
-          tx:
-            he: פרא-רפואה
-        slug: human_services:health:medical_care:allied_health
-      - name:
-          source: Alternative Medicine
-          tx:
-            he: רפואה אלטרנטיבית
-        slug: human_services:health:medical_care:alternative_medicine
-      - name:
-          source: Checkup & Test
-          tx:
-            he: בדיקות וועדות רפואיות
-        slug: human_services:health:medical_care:checkup_test
-        items:
-        - name:
-            source: Disease Screening
-            tx:
-              he: אבחון למחלות
-          slug: human_services:health:medical_care:checkup_test:disease_screening
-        - name:
-            source: Eye Tests
-            tx:
-              he: בדיקות ראייה
-          slug: human_services:health:medical_care:checkup_test:eye_tests
-        - name:
-            source: Genetic Testing
-            tx:
-              he: בדיקות גנטיות
-          slug: human_services:health:medical_care:checkup_test:genetic_testing
-        - name:
-            source: Hearing Tests
-            tx:
-              he: בדיקות שמיעה
-          slug: human_services:health:medical_care:checkup_test:hearing_tests
-        - name:
-            source: Pregnancy Tests
-            tx:
-              he: בדיקות הריון
-          slug: human_services:health:medical_care:checkup_test:pregnancy_tests
-      - name:
-          source: Maternity Care
-          tx:
-            he: טיפול ביולדת
-        slug: human_services:health:medical_care:maternity_care
-      - name:
-          source: Medical Supplies
-          tx:
-            he: ציוד רפואי
-        slug: human_services:health:medical_care:medical_supplies
-        items:
-        - name:
-            source: Assistive Technology
-            tx:
-              he: טכנולוגיות עזר
-          slug: human_services:health:medical_care:medical_supplies:assistive_technology
-        - name:
-            source: Prosthesis
-            tx:
-              he: פרוטזות
-          slug: human_services:health:medical_care:medical_supplies:prosthesis
-    - name:
         source: Mental Health Care
         tx:
           he: בריאות הנפש
@@ -860,7 +792,7 @@
         - name:
             source: Forced Hospitalization
             tx:
-              he: אשפוז
+              he: אשפוז כפוי
           slug: human_services:health:mental_health_care:hospitalization:forced_hospitalization
         - name:
             source: Voluntary Hospitalization
@@ -888,6 +820,34 @@
           he: טיפול רפואי ומניעה
       slug: human_services:health:prevent_treat
       items:
+      - name: Allied Health
+        slug: human_services:health:prevent_treat:allied_health
+      - name: Alternative Medicine
+        slug: human_services:health:prevent_treat:alternative_medicine
+      - name: Checkup & Test
+        slug: human_services:health:prevent_treat:checkup_test
+        items:
+        - name: Disease Screening
+          slug: human_services:health:prevent_treat:checkup_test:disease_screening
+        - name: Eye Tests
+          slug: human_services:health:prevent_treat:checkup_test:eye_tests
+        - name: Genetic Testing
+          slug: human_services:health:prevent_treat:checkup_test:genetic_testing
+        - name: Hearing Tests
+          slug: human_services:health:prevent_treat:checkup_test:hearing_tests
+        - name: Pregnancy Tests
+          slug: human_services:health:prevent_treat:checkup_test:pregnancy_tests
+      - name: Maternity Care
+        slug: human_services:health:prevent_treat:maternity_care
+      - name: Medical Supplies
+        slug: human_services:health:prevent_treat:medical_supplies
+        items:
+        - name: Assistive Technology
+          slug: human_services:health:prevent_treat:medical_supplies:assistive_technology
+        - name: Prosthesis
+          slug: human_services:health:prevent_treat:medical_supplies:prosthesis
+      - name: Clinics
+        slug: human_services:health:prevent_treat:clinics
       - name:
           source: Counseling
           tx:
@@ -1560,7 +1520,7 @@
   - name:
       source: Armed Forces
       tx:
-        he: צבא ובטחון
+        he: צבא וביטחון
     slug: human_situations:armed_forces
     items:
     - name:
@@ -1669,7 +1629,7 @@
     - name:
         source: Ministry of Defense
         tx:
-          he: משרד הבטחון
+          he: משרד הביטחון
       slug: human_situations:benefit_holders:ministry_of_defense
       items:
       - name:
@@ -1685,7 +1645,7 @@
   - name:
       source: Citizenship
       tx:
-        he: הגירה
+        he: אזרחות ותושבות
     slug: human_situations:citizenship
     items:
     - name:
@@ -1939,7 +1899,7 @@
     - name:
         source: Self-employed
         tx:
-          he: עצמאיים
+          he: עצמאים
       slug: human_situations:employment:self_employed
     - name:
         source: Unemployed
@@ -1975,7 +1935,7 @@
   - name:
       source: Health
       tx:
-        he: בריאות
+        he: מצבים בריאותיים
     slug: human_situations:health
     items:
     - name:
@@ -2207,7 +2167,7 @@
       - name:
           source: Single Parent
           tx:
-            he: משפחה חד הורית
+            he: משפחה שבראשה הורה עצמאי
         slug: human_situations:household:families:single_parent
       - name:
           source: Surrogacy
@@ -2248,7 +2208,7 @@
     - name:
         source: Home Renters
         tx:
-          he: משכירי דירות
+          he: שוכרי דירות
       slug: human_situations:housing:home_renters
     - name:
         source: Homeless
@@ -2434,7 +2394,7 @@
       - name:
           source: Forced Hospitalization
           tx:
-            he: אשפוז
+            he: אשפוז כפוי
         slug: human_situations:mental_health:treatment_phases:forced_hospitalization
       - name:
           source: No recognition
@@ -2470,18 +2430,18 @@
   - name:
       source: Sectors
       tx:
-        he: מגזרים
+        he: סקטורים בחברה
     slug: human_situations:sectors
     items:
     - name:
         source: Arabs
         tx:
-          he: המגזר הערבי
+          he: החברה הערבית
       slug: human_situations:sectors:arabs
     - name:
         source: Bedouin
         tx:
-          he: המגזר הבדואי
+          he: החברה הבדואית
       slug: human_situations:sectors:bedouin
     - name:
         source: Christians
@@ -2491,12 +2451,12 @@
     - name:
         source: Circassians
         tx:
-          he: המגזר הצ'רקסי
+          he: החברה הצ'רקסית
       slug: human_situations:sectors:circassians
     - name:
         source: Druze
         tx:
-          he: המגזר הדרוזי
+          he: החברה הדרוזית
       slug: human_situations:sectors:druze
     - name:
         source: Jews
@@ -2507,7 +2467,7 @@
       - name:
           source: Ultra Orthodox
           tx:
-            he: המגזר החרדי
+            he: החברה החרדית
         slug: human_situations:sectors:jews:ultra_orthodox
       - name:
           source: Secular
@@ -2537,12 +2497,12 @@
       - name:
           source: Ethiopians
           tx:
-            he: קהילת יוצאי אתיופיה
+            he: יוצאי אתיופיה
         slug: human_situations:sectors:jews:ethiopians
     - name:
         source: Muslims
         tx:
-          he: אסלם
+          he: אסלאם
       slug: human_situations:sectors:muslims
   - name:
       source: Sexuality
@@ -2616,12 +2576,12 @@
       - name:
           source: Domestic Violence Survivors
           tx:
-            he: נפגעי אלימות במשפחה
+            he: נפגעות אלימות במשפחה
         slug: human_situations:survivors:violence_survivors:domestic_violence_survivors
       - name:
           source: Sexual Assault Survivors
           tx:
-            he: נפגעי אלימות מינית
+            he: נפגעות אלימות מינית
         slug: human_situations:survivors:violence_survivors:sexual_assault_survivors
     - name:
         source: Human Trafficking Survivors

@@ -310,35 +310,6 @@
         slug: human_services:health:health_education:nutrition_education
       - name: Sex Education
         slug: human_services:health:health_education:sex_education
-    - name: Medical Care
-      slug: human_services:health:medical_care
-      items:
-      - name: Allied Health
-        slug: human_services:health:medical_care:allied_health
-      - name: Alternative Medicine
-        slug: human_services:health:medical_care:alternative_medicine
-      - name: Checkup & Test
-        slug: human_services:health:medical_care:checkup_test
-        items:
-        - name: Disease Screening
-          slug: human_services:health:medical_care:checkup_test:disease_screening
-        - name: Eye Tests
-          slug: human_services:health:medical_care:checkup_test:eye_tests
-        - name: Genetic Testing
-          slug: human_services:health:medical_care:checkup_test:genetic_testing
-        - name: Hearing Tests
-          slug: human_services:health:medical_care:checkup_test:hearing_tests
-        - name: Pregnancy Tests
-          slug: human_services:health:medical_care:checkup_test:pregnancy_tests
-      - name: Maternity Care
-        slug: human_services:health:medical_care:maternity_care
-      - name: Medical Supplies
-        slug: human_services:health:medical_care:medical_supplies
-        items:
-        - name: Assistive Technology
-          slug: human_services:health:medical_care:medical_supplies:assistive_technology
-        - name: Prosthesis
-          slug: human_services:health:medical_care:medical_supplies:prosthesis
     - name: Mental Health Care
       slug: human_services:health:mental_health_care
       items:
@@ -375,6 +346,34 @@
     - name: Prevent & Treat
       slug: human_services:health:prevent_treat
       items:
+      - name: Allied Health
+        slug: human_services:health:prevent_treat:allied_health
+      - name: Alternative Medicine
+        slug: human_services:health:prevent_treat:alternative_medicine
+      - name: Checkup & Test
+        slug: human_services:health:prevent_treat:checkup_test
+        items:
+        - name: Disease Screening
+          slug: human_services:health:prevent_treat:checkup_test:disease_screening
+        - name: Eye Tests
+          slug: human_services:health:prevent_treat:checkup_test:eye_tests
+        - name: Genetic Testing
+          slug: human_services:health:prevent_treat:checkup_test:genetic_testing
+        - name: Hearing Tests
+          slug: human_services:health:prevent_treat:checkup_test:hearing_tests
+        - name: Pregnancy Tests
+          slug: human_services:health:prevent_treat:checkup_test:pregnancy_tests
+      - name: Maternity Care
+        slug: human_services:health:prevent_treat:maternity_care
+      - name: Medical Supplies
+        slug: human_services:health:prevent_treat:medical_supplies
+        items:
+        - name: Assistive Technology
+          slug: human_services:health:prevent_treat:medical_supplies:assistive_technology
+        - name: Prosthesis
+          slug: human_services:health:prevent_treat:medical_supplies:prosthesis
+      - name: Clinics
+        slug: human_services:health:prevent_treat:clinics
       - name: Counseling
         slug: human_services:health:prevent_treat:counseling
       - name: Disease Management
