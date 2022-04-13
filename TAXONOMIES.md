@@ -160,19 +160,19 @@
     - אשפוז ביתי
     - שירותי חירום פסיכיאטריים
 - טיפול רפואי ומניעה
-  - Allied Health
-  - Alternative Medicine
-  - Checkup & Test
-    - Disease Screening
-    - Eye Tests
-    - Genetic Testing
-    - Hearing Tests
-    - Pregnancy Tests
-  - Maternity Care
-  - Medical Supplies
-    - Assistive Technology
-    - Prosthesis
-  - Clinics
+  - פרא-רפואה
+  - רפואה אלטרנטיבית
+  - בדיקות וועדות רפואיות
+    - אבחון למחלות
+    - בדיקות ראייה
+    - בדיקות גנטיות
+    - בדיקות שמיעה
+    - בדיקות הריון
+  - טיפול ביולדת
+  - ציוד רפואי
+    - טכנולוגיות עזר
+    - פרוטזות
+  - מרפאות
   - טיפול רגשי (פסיכולוגי)
   - התנהלות במחלה
   - טיפול בבית חולים

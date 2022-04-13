@@ -820,33 +820,72 @@
           he: טיפול רפואי ומניעה
       slug: human_services:health:prevent_treat
       items:
-      - name: Allied Health
+      - name:
+          source: Allied Health
+          tx:
+            he: פרא-רפואה
         slug: human_services:health:prevent_treat:allied_health
-      - name: Alternative Medicine
+      - name:
+          source: Alternative Medicine
+          tx:
+            he: רפואה אלטרנטיבית
         slug: human_services:health:prevent_treat:alternative_medicine
-      - name: Checkup & Test
+      - name:
+          source: Checkup & Test
+          tx:
+            he: בדיקות וועדות רפואיות
         slug: human_services:health:prevent_treat:checkup_test
         items:
-        - name: Disease Screening
+        - name:
+            source: Disease Screening
+            tx:
+              he: אבחון למחלות
           slug: human_services:health:prevent_treat:checkup_test:disease_screening
-        - name: Eye Tests
+        - name:
+            source: Eye Tests
+            tx:
+              he: בדיקות ראייה
           slug: human_services:health:prevent_treat:checkup_test:eye_tests
-        - name: Genetic Testing
+        - name:
+            source: Genetic Testing
+            tx:
+              he: בדיקות גנטיות
           slug: human_services:health:prevent_treat:checkup_test:genetic_testing
-        - name: Hearing Tests
+        - name:
+            source: Hearing Tests
+            tx:
+              he: בדיקות שמיעה
           slug: human_services:health:prevent_treat:checkup_test:hearing_tests
-        - name: Pregnancy Tests
+        - name:
+            source: Pregnancy Tests
+            tx:
+              he: בדיקות הריון
           slug: human_services:health:prevent_treat:checkup_test:pregnancy_tests
-      - name: Maternity Care
+      - name:
+          source: Maternity Care
+          tx:
+            he: טיפול ביולדת
         slug: human_services:health:prevent_treat:maternity_care
-      - name: Medical Supplies
+      - name:
+          source: Medical Supplies
+          tx:
+            he: ציוד רפואי
         slug: human_services:health:prevent_treat:medical_supplies
         items:
-        - name: Assistive Technology
+        - name:
+            source: Assistive Technology
+            tx:
+              he: טכנולוגיות עזר
           slug: human_services:health:prevent_treat:medical_supplies:assistive_technology
-        - name: Prosthesis
+        - name:
+            source: Prosthesis
+            tx:
+              he: פרוטזות
           slug: human_services:health:prevent_treat:medical_supplies:prosthesis
-      - name: Clinics
+      - name:
+          source: Clinics
+          tx:
+            he: מרפאות
         slug: human_services:health:prevent_treat:clinics
       - name:
           source: Counseling
