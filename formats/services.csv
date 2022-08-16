@@ -122,84 +122,84 @@ human_services:goods:baby_supplies,Human Services,מענים חברתיים,Good
 human_services:goods:clothing,Human Services,מענים חברתיים,Goods,חפצים,Clothing,בגדים
 human_services:goods:home_goods,Human Services,מענים חברתיים,Goods,חפצים,Home Goods,מוצרים לבית
 human_services:goods:toys_gifts,Human Services,מענים חברתיים,Goods,חפצים,Toys & Gifts,צעצועים ומתנות
-human_services:health,Human Services,מענים חברתיים,Health,בריאות
-human_services:health:addiction_recovery,Human Services,מענים חברתיים,Health,בריאות,Addiction & Recovery,גמילה מהתמכרות
-human_services:health:addiction_recovery:detox,Human Services,מענים חברתיים,Health,בריאות,Addiction & Recovery,גמילה מהתמכרות,Detox,גמילה ראשונית
-human_services:health:addiction_recovery:drug_testing,Human Services,מענים חברתיים,Health,בריאות,Addiction & Recovery,גמילה מהתמכרות,Drug Testing,בדיקות סמים
-human_services:health:addiction_recovery:medications_for_addiction,Human Services,מענים חברתיים,Health,בריאות,Addiction & Recovery,גמילה מהתמכרות,Medications for Addiction,תרופות להתמכרות
-human_services:health:addiction_recovery:peer_recovery_coaching,Human Services,מענים חברתיים,Health,בריאות,Addiction & Recovery,גמילה מהתמכרות,Peer Recovery Coaching,קבוצות תמיכה
-human_services:health:addiction_recovery:residential_treatment,Human Services,מענים חברתיים,Health,בריאות,Addiction & Recovery,גמילה מהתמכרות,Residential Treatment,מרכזי גמילה
-human_services:health:addiction_recovery:substance_abuse_counseling,Human Services,מענים חברתיים,Health,בריאות,Addiction & Recovery,גמילה מהתמכרות,Substance Abuse Counseling,ייעוץ רגשי למתמכרים
-human_services:health:dental_care,Human Services,מענים חברתיים,Health,בריאות,Dental Care,טיפולי שיניים
-human_services:health:emergency_services,Human Services,מענים חברתיים,Health,בריאות,Emergency Services,שירותי חירום
-human_services:health:emergency_services:psychiatric_emergency_services,Human Services,מענים חברתיים,Health,בריאות,Emergency Services,שירותי חירום,Psychiatric Emergency Services,שירותי חירום פסיכיאטריים
-human_services:health:emergency_services:dental_emergency_service,Human Services,מענים חברתיים,Health,בריאות,Emergency Services,שירותי חירום,Dental Emergency Service,טיפולי שיניים בחירום
-human_services:health:help_find_healthcare,Human Services,מענים חברתיים,Health,בריאות,Help Find Healthcare,עזרה במציאת טיפול רפואי
-human_services:health:end_of_life_care,Human Services,מענים חברתיים,Health,בריאות,End-of-Life Care,טיפול במצב סופני
-human_services:health:health_education,Human Services,מענים חברתיים,Health,בריאות,Health Education,חינוך לבריאות
-human_services:health:health_education:disease_management,Human Services,מענים חברתיים,Health,בריאות,Health Education,חינוך לבריאות,Disease Management,התנהלות במחלה
-human_services:health:health_education:family_planning,Human Services,מענים חברתיים,Health,בריאות,Health Education,חינוך לבריאות,Family Planning,תכנון המשפחה
-human_services:health:health_education:nutrition_education,Human Services,מענים חברתיים,Health,בריאות,Health Education,חינוך לבריאות,Nutrition Education,חינוך תזונתי
-human_services:health:health_education:sex_education,Human Services,מענים חברתיים,Health,בריאות,Health Education,חינוך לבריאות,Sex Education,חינוך מיני
-human_services:health:mental_health_care,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש
-human_services:health:mental_health_care:anger_management,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Anger Management,ניהול כעסים
-human_services:health:mental_health_care:bereavement,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Bereavement,סיוע בתקופת האבל
-human_services:health:mental_health_care:counseling,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי)
-human_services:health:mental_health_care:counseling:family_counseling,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Family Counseling,טיפול משפחתי
-human_services:health:mental_health_care:counseling:group_therapy,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Group Therapy,טיפול קבוצתי
-human_services:health:mental_health_care:counseling:individual_counseling,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Individual Counseling,טיפול אישי
-human_services:health:mental_health_care:medications_for_mental_health,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Medications for Mental Health,טיפול תרופתי לבריאות הנפש
-human_services:health:mental_health_care:mental_health_evaluation,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Mental Health Evaluation,הערכה פסיכיאטרית
-human_services:health:mental_health_care:hospitalization,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Hospitalization,אשפוז
-human_services:health:mental_health_care:hospitalization:forced_hospitalization,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Hospitalization,אשפוז,Forced Hospitalization,אשפוז כפוי
-human_services:health:mental_health_care:hospitalization:voluntary_hospitalization,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Hospitalization,אשפוז,Voluntary Hospitalization,אשפוז מרצון
-human_services:health:mental_health_care:hospitalization:hospitalization_alternative,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז
-human_services:health:mental_health_care:hospitalization:home_hospitalization,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Hospitalization,אשפוז,Home Hospitalization,אשפוז ביתי
-human_services:health:mental_health_care:hospitalization:psychiatric_emergency_services,Human Services,מענים חברתיים,Health,בריאות,Mental Health Care,בריאות הנפש,Hospitalization,אשפוז,Psychiatric Emergency Services,שירותי חירום פסיכיאטריים
-human_services:health:prevent_treat,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה
-human_services:health:prevent_treat:allied_health,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Allied Health,פרא-רפואה
-human_services:health:prevent_treat:alternative_medicine,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Alternative Medicine,רפואה אלטרנטיבית
-human_services:health:prevent_treat:checkup_test,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות
-human_services:health:prevent_treat:checkup_test:disease_screening,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Disease Screening,אבחון למחלות
-human_services:health:prevent_treat:checkup_test:eye_tests,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Eye Tests,בדיקות ראייה
-human_services:health:prevent_treat:checkup_test:genetic_testing,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Genetic Testing,בדיקות גנטיות
-human_services:health:prevent_treat:checkup_test:hearing_tests,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Hearing Tests,בדיקות שמיעה
-human_services:health:prevent_treat:checkup_test:pregnancy_tests,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Pregnancy Tests,בדיקות הריון
-human_services:health:prevent_treat:maternity_care,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Maternity Care,טיפול ביולדת
-human_services:health:prevent_treat:medical_supplies,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medical Supplies,ציוד רפואי
-human_services:health:prevent_treat:medical_supplies:assistive_technology,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medical Supplies,ציוד רפואי,Assistive Technology,טכנולוגיות עזר
-human_services:health:prevent_treat:medical_supplies:prosthesis,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medical Supplies,ציוד רפואי,Prosthesis,פרוטזות
-human_services:health:prevent_treat:clinics,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Clinics,מרפאות
-human_services:health:prevent_treat:counseling,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Counseling,טיפול רגשי (פסיכולוגי)
-human_services:health:prevent_treat:disease_management,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Disease Management,התנהלות במחלה
-human_services:health:prevent_treat:hospital_treatment,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Hospital Treatment,טיפול בבית חולים
-human_services:health:prevent_treat:in_home_support,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,In-Home Support,סיוע בבית
-human_services:health:prevent_treat:medication_management,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medication Management,ניהול תרופות
-human_services:health:prevent_treat:nursing_home,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Nursing Home,מוסד סיעודי
-human_services:health:prevent_treat:nutrition,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Nutrition,תזונה
-human_services:health:prevent_treat:occupational_therapy,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Occupational Therapy,ריפוי בעיסוק
-human_services:health:prevent_treat:pain_management,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Pain Management,טיפול בכאב
-human_services:health:prevent_treat:physical_therapy,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Physical Therapy,פיזיותרפיה
-human_services:health:prevent_treat:rehabilitation,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Rehabilitation,שיקום רפואי
-human_services:health:prevent_treat:residential_treatment,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Residential Treatment,מרכזי גמילה
-human_services:health:prevent_treat:specialized_therapy,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Specialized Therapy,טיפול מיוחד
-human_services:health:prevent_treat:speech_therapy,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Speech Therapy,קלינאות תקשורת
-human_services:health:prevent_treat:vaccinations,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Vaccinations,חיסונים
-human_services:health:prevent_treat:eye_care,Human Services,מענים חברתיים,Health,בריאות,Prevent & Treat,טיפול רפואי ומניעה,Eye Care,טיפולי ראייה
-human_services:health:personal_hygiene,Human Services,מענים חברתיים,Health,בריאות,Personal Hygiene,היגיינה אישית
-human_services:health:primary_care,Human Services,מענים חברתיים,Health,בריאות,Primary Care,טיפול ראשוני
-human_services:health:sexual_reproductive_health,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית
-human_services:health:sexual_reproductive_health:family_planning,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון המשפחה
-human_services:health:sexual_reproductive_health:family_planning:birth_control,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון המשפחה,Birth Control,אמצעי מניעה
-human_services:health:sexual_reproductive_health:family_planning:fertility,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון המשפחה,Fertility,פוריות
-human_services:health:sexual_reproductive_health:family_planning:sex_education,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון המשפחה,Sex Education,חינוך מיני
-human_services:health:sexual_reproductive_health:std_sti_treatment_prevention,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,STD/STI Treatment & Prevention,טיפול ומניעה של מחלות מין
-human_services:health:sexual_reproductive_health:std_sti_treatment_prevention:hiv_treatment,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,STD/STI Treatment & Prevention,טיפול ומניעה של מחלות מין,HIV Treatment,טיפול ב-HIV
-human_services:health:sexual_reproductive_health:womens_health,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,Women's Health,בריאות האישה
-human_services:health:sexual_reproductive_health:womens_health:maternity_care,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,Women's Health,בריאות האישה,Maternity Care,טיפול ביולדת
-human_services:health:sexual_reproductive_health:womens_health:postnatal_care,Human Services,מענים חברתיים,Health,בריאות,Sexual & Reproductive Health,בריאות מינית,Women's Health,בריאות האישה,Postnatal Care,טיפול לאחר לידה
-human_services:health:skilled_nursing,Human Services,מענים חברתיים,Health,בריאות,Skilled Nursing,טיפול על ידי אחות
-human_services:health:support_service_animals,Human Services,מענים חברתיים,Health,בריאות,Support & Service Animals,כלבי נחייה ותמיכה
+human_services:health,Human Services,מענים חברתיים,Health,שירותי בריאות
+human_services:health:addiction_recovery,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות
+human_services:health:addiction_recovery:detox,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Detox,גמילה ראשונית
+human_services:health:addiction_recovery:drug_testing,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Drug Testing,בדיקות סמים
+human_services:health:addiction_recovery:medications_for_addiction,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Medications for Addiction,תרופות להתמכרות
+human_services:health:addiction_recovery:peer_recovery_coaching,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Peer Recovery Coaching,קבוצות תמיכה
+human_services:health:addiction_recovery:residential_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Residential Treatment,מרכזי גמילה
+human_services:health:addiction_recovery:substance_abuse_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Substance Abuse Counseling,ייעוץ רגשי למתמכרים
+human_services:health:dental_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Dental Care,טיפולי שיניים
+human_services:health:emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי חירום
+human_services:health:emergency_services:psychiatric_emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי חירום,Psychiatric Emergency Services,שירותי חירום פסיכיאטריים
+human_services:health:emergency_services:dental_emergency_service,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי חירום,Dental Emergency Service,טיפולי שיניים בחירום
+human_services:health:help_find_healthcare,Human Services,מענים חברתיים,Health,שירותי בריאות,Help Find Healthcare,עזרה במציאת טיפול רפואי
+human_services:health:end_of_life_care,Human Services,מענים חברתיים,Health,שירותי בריאות,End-of-Life Care,טיפול במצב סופני
+human_services:health:health_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות
+human_services:health:health_education:disease_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות,Disease Management,התנהלות במחלה
+human_services:health:health_education:family_planning,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות,Family Planning,תכנון המשפחה
+human_services:health:health_education:nutrition_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות,Nutrition Education,חינוך תזונתי
+human_services:health:health_education:sex_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות,Sex Education,חינוך מיני
+human_services:health:mental_health_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש
+human_services:health:mental_health_care:anger_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Anger Management,ניהול כעסים
+human_services:health:mental_health_care:bereavement,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Bereavement,סיוע בתקופת האבל
+human_services:health:mental_health_care:counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי)
+human_services:health:mental_health_care:counseling:family_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Family Counseling,טיפול משפחתי
+human_services:health:mental_health_care:counseling:group_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Group Therapy,טיפול קבוצתי
+human_services:health:mental_health_care:counseling:individual_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Individual Counseling,טיפול אישי
+human_services:health:mental_health_care:medications_for_mental_health,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Medications for Mental Health,טיפול תרופתי לבריאות הנפש
+human_services:health:mental_health_care:mental_health_evaluation,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Mental Health Evaluation,הערכה פסיכיאטרית
+human_services:health:mental_health_care:hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז
+human_services:health:mental_health_care:hospitalization:forced_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Forced Hospitalization,אשפוז כפוי
+human_services:health:mental_health_care:hospitalization:voluntary_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Voluntary Hospitalization,אשפוז מרצון
+human_services:health:mental_health_care:hospitalization:hospitalization_alternative,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז
+human_services:health:mental_health_care:hospitalization:home_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Home Hospitalization,אשפוז ביתי
+human_services:health:mental_health_care:hospitalization:psychiatric_emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Psychiatric Emergency Services,שירותי חירום פסיכיאטריים
+human_services:health:prevent_treat,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה
+human_services:health:prevent_treat:allied_health,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Allied Health,פרא-רפואה
+human_services:health:prevent_treat:alternative_medicine,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Alternative Medicine,רפואה אלטרנטיבית
+human_services:health:prevent_treat:checkup_test,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות
+human_services:health:prevent_treat:checkup_test:disease_screening,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Disease Screening,אבחון למחלות
+human_services:health:prevent_treat:checkup_test:eye_tests,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Eye Tests,בדיקות ראייה
+human_services:health:prevent_treat:checkup_test:genetic_testing,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Genetic Testing,בדיקות גנטיות
+human_services:health:prevent_treat:checkup_test:hearing_tests,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Hearing Tests,בדיקות שמיעה
+human_services:health:prevent_treat:checkup_test:pregnancy_tests,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות וועדות רפואיות,Pregnancy Tests,בדיקות הריון
+human_services:health:prevent_treat:maternity_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Maternity Care,טיפול ביולדת
+human_services:health:prevent_treat:medical_supplies,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medical Supplies,ציוד רפואי
+human_services:health:prevent_treat:medical_supplies:assistive_technology,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medical Supplies,ציוד רפואי,Assistive Technology,טכנולוגיות עזר
+human_services:health:prevent_treat:medical_supplies:prosthesis,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medical Supplies,ציוד רפואי,Prosthesis,פרוטזות
+human_services:health:prevent_treat:clinics,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Clinics,מרפאות
+human_services:health:prevent_treat:counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Counseling,טיפול רגשי (פסיכולוגי)
+human_services:health:prevent_treat:disease_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Disease Management,התנהלות במחלה
+human_services:health:prevent_treat:hospital_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Hospital Treatment,טיפול בבית חולים
+human_services:health:prevent_treat:in_home_support,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,In-Home Support,סיוע בבית
+human_services:health:prevent_treat:medication_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medication Management,ניהול תרופות
+human_services:health:prevent_treat:nursing_home,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Nursing Home,מוסד סיעודי
+human_services:health:prevent_treat:nutrition,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Nutrition,תזונה
+human_services:health:prevent_treat:occupational_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Occupational Therapy,ריפוי בעיסוק
+human_services:health:prevent_treat:pain_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Pain Management,טיפול בכאב
+human_services:health:prevent_treat:physical_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Physical Therapy,פיזיותרפיה
+human_services:health:prevent_treat:rehabilitation,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Rehabilitation,שיקום רפואי
+human_services:health:prevent_treat:residential_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Residential Treatment,מרכזי גמילה
+human_services:health:prevent_treat:specialized_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Specialized Therapy,טיפול מיוחד
+human_services:health:prevent_treat:speech_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Speech Therapy,קלינאות תקשורת
+human_services:health:prevent_treat:vaccinations,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Vaccinations,חיסונים
+human_services:health:prevent_treat:eye_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Eye Care,טיפולי ראייה
+human_services:health:personal_hygiene,Human Services,מענים חברתיים,Health,שירותי בריאות,Personal Hygiene,היגיינה אישית
+human_services:health:primary_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Primary Care,טיפול ראשוני
+human_services:health:sexual_reproductive_health,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית
+human_services:health:sexual_reproductive_health:family_planning,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון המשפחה
+human_services:health:sexual_reproductive_health:family_planning:birth_control,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון המשפחה,Birth Control,אמצעי מניעה
+human_services:health:sexual_reproductive_health:family_planning:fertility,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון המשפחה,Fertility,פוריות
+human_services:health:sexual_reproductive_health:family_planning:sex_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Family Planning,תכנון המשפחה,Sex Education,חינוך מיני
+human_services:health:sexual_reproductive_health:std_sti_treatment_prevention,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,STD/STI Treatment & Prevention,טיפול ומניעה של מחלות מין
+human_services:health:sexual_reproductive_health:std_sti_treatment_prevention:hiv_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,STD/STI Treatment & Prevention,טיפול ומניעה של מחלות מין,HIV Treatment,טיפול ב-HIV
+human_services:health:sexual_reproductive_health:womens_health,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Women's Health,בריאות האישה
+human_services:health:sexual_reproductive_health:womens_health:maternity_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Women's Health,בריאות האישה,Maternity Care,טיפול ביולדת
+human_services:health:sexual_reproductive_health:womens_health:postnatal_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Sexual & Reproductive Health,בריאות מינית,Women's Health,בריאות האישה,Postnatal Care,טיפול לאחר לידה
+human_services:health:skilled_nursing,Human Services,מענים חברתיים,Health,שירותי בריאות,Skilled Nursing,טיפול על ידי אחות
+human_services:health:support_service_animals,Human Services,מענים חברתיים,Health,שירותי בריאות,Support & Service Animals,כלבי נחייה ותמיכה
 human_services:housing,Human Services,מענים חברתיים,Housing,דיור
 human_services:housing:emergency_shelter,Human Services,מענים חברתיים,Housing,דיור,Emergency Shelter,דיור חירומי
 human_services:housing:help_find_housing,Human Services,מענים חברתיים,Housing,דיור,Help Find Housing,עזרה במציאת דיור

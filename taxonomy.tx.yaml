@@ -640,7 +640,7 @@
   - name:
       source: Health
       tx:
-        he: בריאות
+        he: שירותי בריאות
     slug: human_services:health
     items:
     - name:
@@ -739,7 +739,7 @@
     - name:
         source: Mental Health Care
         tx:
-          he: בריאות הנפש
+          he: שירותי בריאות הנפש
       slug: human_services:health:mental_health_care
       items:
       - name:
