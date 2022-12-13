@@ -115,7 +115,6 @@ human_situations:health:nervous_system_disease:epilepsy,Human Situations,מצב�
 human_situations:health:nervous_system_disease:alzheimer_disease,Human Situations,מצבים,Health,מצבים בריאותיים,Nervous System Disease,מחלות של מערכת העצבים והמח,Alzheimer disease,אלצהיימר ומחלות דמנציה
 human_situations:health:nervous_system_disease:parkinsons,Human Situations,מצבים,Health,מצבים בריאותיים,Nervous System Disease,מחלות של מערכת העצבים והמח,Parkinson's,פרקינסון
 human_situations:health:neurodevelopmental_disorders,Human Situations,מצבים,Health,מצבים בריאותיים,Neurodevelopmental Disorders,לקות נוירו-התפתחותית
-human_situations:health:neurodevelopmental_disorders:autistic_spectrum,Human Situations,מצבים,Health,מצבים בריאותיים,Neurodevelopmental Disorders,לקות נוירו-התפתחותית,Autistic spectrum,הספקטרום האוטיסטי
 human_situations:health:pregnant,Human Situations,מצבים,Health,מצבים בריאותיים,Pregnant,הריון
 human_situations:health:rare_diseases,Human Situations,מצבים,Health,מצבים בריאותיים,Rare diseases,מחלות יתומות
 human_situations:health:rare_diseases:familial_dysautonomia,Human Situations,מצבים,Health,מצבים בריאותיים,Rare diseases,מחלות יתומות,Familial Dysautonomia,דיסאוטונומיה משפחתית (FD)
@@ -203,7 +202,7 @@ human_situations:substance_dependency,Human Situations,מצבים,Substance Depe
 human_situations:substance_dependency:alcohol_dependency,Human Situations,מצבים,Substance Dependency,התמכרויות,Alcohol Dependency,אלכוהול
 human_situations:substance_dependency:dual_diagnosis,Human Situations,מצבים,Substance Dependency,התמכרויות,Dual Diagnosis,אלכוהול וסמים
 human_situations:substance_dependency:gambling,Human Situations,מצבים,Substance Dependency,התמכרויות,Gambling,הימורים
-human_situations:substance_dependency:opioid_dependency,Human Situations,מצבים,Substance Dependency,התמכרויות,Opioid Dependency,משככי כאבים
+human_situations:substance_dependency:opioid_dependency,Human Situations,מצבים,Substance Dependency,התמכרויות,Opioid Dependency,סמים
 human_situations:substance_dependency:smoker,Human Situations,מצבים,Substance Dependency,התמכרויות,Smoker,עישון
 human_situations:survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים
 human_situations:survivors:abuse_or_neglect_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Abuse or Neglect Survivors,התעללות או הזנחה

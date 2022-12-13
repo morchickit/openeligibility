@@ -896,9 +896,6 @@
         slug: human_situations:health:nervous_system_disease:parkinsons
     - name: Neurodevelopmental Disorders
       slug: human_situations:health:neurodevelopmental_disorders
-      items:
-      - name: Autistic spectrum
-        slug: human_situations:health:neurodevelopmental_disorders:autistic_spectrum
     - name: Pregnant
       slug: human_situations:health:pregnant
     - name: Rare diseases

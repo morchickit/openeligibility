@@ -2117,12 +2117,6 @@
         tx:
           he: לקות נוירו-התפתחותית
       slug: human_situations:health:neurodevelopmental_disorders
-      items:
-      - name:
-          source: Autistic spectrum
-          tx:
-            he: הספקטרום האוטיסטי
-        slug: human_situations:health:neurodevelopmental_disorders:autistic_spectrum
     - name:
         source: Pregnant
         tx:
@@ -2578,7 +2572,7 @@
     - name:
         source: Opioid Dependency
         tx:
-          he: משככי כאבים
+          he: סמים
       slug: human_situations:substance_dependency:opioid_dependency
     - name:
         source: Smoker
