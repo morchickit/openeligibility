@@ -363,8 +363,6 @@
           slug: human_services:health:prevent_treat:checkup_test:hearing_tests
         - name: Pregnancy Tests
           slug: human_services:health:prevent_treat:checkup_test:pregnancy_tests
-      - name: Maternity Care
-        slug: human_services:health:prevent_treat:maternity_care
       - name: Medical Supplies
         slug: human_services:health:prevent_treat:medical_supplies
         items:
@@ -780,8 +778,6 @@
       slug: human_situations:disability:deaf_or_hard_of_hearing
     - name: Intellectual Disability
       slug: human_situations:disability:intellectual_disability
-    - name: Developmental Disability
-      slug: human_situations:disability:developmental_disability
     - name: Learning Disability
       slug: human_situations:disability:learning_disability
       items:

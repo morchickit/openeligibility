@@ -862,11 +862,6 @@
               he: בדיקות הריון
           slug: human_services:health:prevent_treat:checkup_test:pregnancy_tests
       - name:
-          source: Maternity Care
-          tx:
-            he: טיפול ביולדת
-        slug: human_services:health:prevent_treat:maternity_care
-      - name:
           source: Medical Supplies
           tx:
             he: ציוד רפואי
@@ -1842,11 +1837,6 @@
         tx:
           he: בעלי מוגבלות שכלית והתפתחותית
       slug: human_situations:disability:intellectual_disability
-    - name:
-        source: Developmental Disability
-        tx:
-          he: מוגבלות שכלית התפתחותית
-      slug: human_situations:disability:developmental_disability
     - name:
         source: Learning Disability
         tx:
