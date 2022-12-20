@@ -1559,13 +1559,13 @@
   - name:
       source: Armed Forces
       tx:
-        he: צבא וביטחון
+        he: אנשי צבא וביטחון
     slug: human_situations:armed_forces
     items:
     - name:
         source: Active Duty
         tx:
-          he: צבא סדיר
+          he: משרתי צבא סדיר
       slug: human_situations:armed_forces:active_duty
     - name:
         source: Bereaved families
@@ -1585,12 +1585,12 @@
     - name:
         source: Professional Duty
         tx:
-          he: צבא קבע
+          he: משרתי צבא קבע
       slug: human_situations:armed_forces:professional_duty
     - name:
         source: Reserves
         tx:
-          he: מילואים
+          he: משרתי מילואים
       slug: human_situations:armed_forces:reserves
     - name:
         source: Veterans
@@ -1600,7 +1600,7 @@
     - name:
         source: Police
         tx:
-          he: משטרה
+          he: כוחות המשטרה
       slug: human_situations:armed_forces:police
   - name:
       source: Benefit Holders
@@ -1611,23 +1611,23 @@
     - name:
         source: Social Security
         tx:
-          he: ביטוח לאומי
+          he: מוכרות מביטוח לאומי
       slug: human_situations:benefit_holders:social_security
       items:
       - name:
           source: Disability
           tx:
-            he: נכות
+            he: מוכרים כנכים
         slug: human_situations:benefit_holders:social_security:disability
       - name:
           source: Income Security
           tx:
-            he: הבטחת הכנסה / השלמת הכנסה
+            he: מקבלי הבטחת הכנסה / השלמת הכנסה
         slug: human_situations:benefit_holders:social_security:income_security
       - name:
           source: Nursing Care
           tx:
-            he: הכרה כסיעודי
+            he: מוכרים כסיעודיים
         slug: human_situations:benefit_holders:social_security:nursing_care
       - name:
           source: Righteous Among the Nations
@@ -1657,24 +1657,24 @@
     - name:
         source: Ministry of Health
         tx:
-          he: משרד הבריאות
+          he: מוכרי משרד הבריאות
       slug: human_situations:benefit_holders:ministry_of_health
       items:
       - name:
           source: Rehabilitation Basket
           tx:
-            he: סל שיקום
+            he: זכאי סל שיקום
         slug: human_situations:benefit_holders:ministry_of_health:rehabilitation_basket
     - name:
         source: Ministry of Defense
         tx:
-          he: משרד הביטחון
+          he: מוכרי משרד הביטחון
       slug: human_situations:benefit_holders:ministry_of_defense
       items:
       - name:
           source: Injured while On Duty
           tx:
-            he: נכי צה"ל
+            he: מוכרים כנכי צה"ל
         slug: human_situations:benefit_holders:ministry_of_defense:injured_while_on_duty
       - name:
           source: Bereaved Families
@@ -1690,7 +1690,7 @@
     - name:
         source: Citizens
         tx:
-          he: אזרחות ישראלית
+          he: בעלי אזרחות ישראלית
       slug: human_situations:citizenship:citizens
     - name:
         source: Foreign Residents
@@ -1706,17 +1706,17 @@
       - name:
           source: Agriculture and Building
           tx:
-            he: חקלאות ובנייה
+            he: מהגרי חקלאות ובנייה
         slug: human_situations:citizenship:foreign_workers:agriculture_and_building
       - name:
           source: Nursing
           tx:
-            he: סיעוד
+            he: מהגרים עובדים סיעודיים
         slug: human_situations:citizenship:foreign_workers:nursing
       - name:
           source: Experts
           tx:
-            he: מומחים
+            he: בעלי ויזת מומחה
         slug: human_situations:citizenship:foreign_workers:experts
     - name:
         source: Immigrants
@@ -1741,7 +1741,7 @@
     - name:
         source: Residents
         tx:
-          he: תושבות (ללא אזרחות)
+          he: תושבים (ללא אזרחות)
       slug: human_situations:citizenship:residents
     - name:
         source: Statusless
@@ -1757,7 +1757,7 @@
     - name:
         source: Activists
         tx:
-          he: פעילות חברתית
+          he: פעילים חברתיים
       slug: human_situations:community:activists
     - name:
         source: Leaders
@@ -1783,7 +1783,7 @@
     - name:
         source: Prisoners
         tx:
-          he: במאסר
+          he: אסירים
       slug: human_situations:criminal_history:prisoners
     - name:
         source: Sexual Perpetrators
@@ -1793,7 +1793,7 @@
     - name:
         source: Violent tendencies
         tx:
-          he: אלימות במשפחה
+          he: עברייני אלימות במשפחה
       slug: human_situations:criminal_history:violent_tendencies
   - name:
       source: Deprivation
@@ -1804,22 +1804,22 @@
     - name:
         source: Geographical Periphery
         tx:
-          he: פריפריה גיאוגרפית
+          he: אנשים מפריפריה גיאוגרפית
       slug: human_situations:deprivation:geographical_periphery
     - name:
         source: Social Periphary
         tx:
-          he: פריפריה חברתית
+          he: אנשים מפריפריה חברתית
       slug: human_situations:deprivation:social_periphary
     - name:
         source: Health Deprivation
         tx:
-          he: חוסר נגישות לשירותי בריאות
+          he: אנשים עם קשיי נגישות לשירותי בריאות
       slug: human_situations:deprivation:health_deprivation
     - name:
         source: Education / skills Deprivation
         tx:
-          he: חסך בחינוך / מיומנות
+          he: אנשים עם חסך בחינוך / מיומנות
       slug: human_situations:deprivation:education_skills_deprivation
   - name:
       source: Disability
@@ -1830,17 +1830,17 @@
     - name:
         source: Autistic spectrum
         tx:
-          he: הספקטרום האוטיסטי
+          he: אוטיסטים
       slug: human_situations:disability:autistic_spectrum
     - name:
         source: Deaf or Hard of Hearing
         tx:
-          he: חרשות או שמיעה מוגבלת
+          he: בעלי חרשות או שמיעה מוגבלת
       slug: human_situations:disability:deaf_or_hard_of_hearing
     - name:
         source: Intellectual Disability
         tx:
-          he: מוגבלות שכלית והתפתחותית
+          he: בעלי מוגבלות שכלית והתפתחותית
       slug: human_situations:disability:intellectual_disability
     - name:
         source: Developmental Disability
@@ -1850,13 +1850,13 @@
     - name:
         source: Learning Disability
         tx:
-          he: קשיי למידה והפרעות קשב וריכוז
+          he: בעלי קשיי למידה
       slug: human_situations:disability:learning_disability
       items:
       - name:
           source: ADD/ADHD
           tx:
-            he: ADD/ADHD
+            he: בעלי הפרעות קשב וריכוז
         slug: human_situations:disability:learning_disability:add_adhd
     - name:
         source: Mental Illness
@@ -1866,17 +1866,17 @@
     - name:
         source: Limited Mobility
         tx:
-          he: תנועה מוגבלת
+          he: בעלי מוגבלות בתנועה
       slug: human_situations:disability:limited_mobility
     - name:
         source: Physical Disability
         tx:
-          he: מוגבלות פיזית
+          he: אנשים עם מוגבלות פיזית
       slug: human_situations:disability:physical_disability
     - name:
         source: Visual Impairment
         tx:
-          he: ליקוי ראיה
+          he: בעלי ליקוי ראיה
       slug: human_situations:disability:visual_impairment
     - name:
         source: Mentally Debilitated
@@ -1886,7 +1886,7 @@
     - name:
         source: In Need for Nursing Care
         tx:
-          he: במצב סיעודי
+          he: אנשים במצב סיעודי
       slug: human_situations:disability:in_need_for_nursing_care
   - name:
       source: Education
@@ -1902,17 +1902,17 @@
     - name:
         source: Gifted Students
         tx:
-          he: מחוננות
+          he: ילדים מחוננים
       slug: human_situations:education:gifted_students
     - name:
         source: Special needs
         tx:
-          he: צרכים מיוחדים
+          he: בעלי צרכים מיוחדים
       slug: human_situations:education:special_needs
     - name:
         source: Students
         tx:
-          he: בלימודים אקדמיים
+          he: אנשים בלימודים אקדמיים
       slug: human_situations:education:students
     - name:
         source: Yeshiva students
@@ -1928,12 +1928,12 @@
     - name:
         source: Employed
         tx:
-          he: בתעסוקה
+          he: אנשם בתעסוקה
       slug: human_situations:employment:employed
     - name:
         source: Retirement
         tx:
-          he: בגמלאות
+          he: אנשים בגמלאות
       slug: human_situations:employment:retirement
     - name:
         source: Self-employed
@@ -1943,7 +1943,7 @@
     - name:
         source: Unemployed
         tx:
-          he: אבטלה
+          he: מובטלים
       slug: human_situations:employment:unemployed
   - name:
       source: Gender
@@ -1954,12 +1954,12 @@
     - name:
         source: Women
         tx:
-          he: אישה
+          he: נשים
       slug: human_situations:gender:women
     - name:
         source: Men
         tx:
-          he: גבר
+          he: גברים
       slug: human_situations:gender:men
     - name:
         source: Transgender
@@ -1980,38 +1980,38 @@
     - name:
         source: Chronic Illness
         tx:
-          he: מחלה כרונית
+          he: חולים כרוניים
       slug: human_situations:health:chronic_illness
     - name:
         source: Endocrine, nutritional or metabolic diseases
         tx:
-          he: מחלות אנדוקריניות
+          he: חולי מחלות אנדוקריניות
       slug: human_situations:health:endocrine_nutritional_or_metabolic_diseases
       items:
       - name:
           source: Type 1 Diabetes
           tx:
-            he: סכרת נעורים
+            he: חולי סכרת נעורים
         slug: human_situations:health:endocrine_nutritional_or_metabolic_diseases:type_1_diabetes
       - name:
           source: Type 2 Diabetes
           tx:
-            he: סכרת
+            he: חולי סכרת
         slug: human_situations:health:endocrine_nutritional_or_metabolic_diseases:type_2_diabetes
     - name:
         source: Fertility
         tx:
-          he: פוריות
+          he: אנשים עם בעיות פוריות
       slug: human_situations:health:fertility
     - name:
         source: Genetic Disorder
         tx:
-          he: מחלה גנטית
+          he: חולים במחלה גנטית
       slug: human_situations:health:genetic_disorder
     - name:
         source: Heart diseases
         tx:
-          he: מחלות לב
+          he: חולי מחלות לב
       slug: human_situations:health:heart_diseases
     - name:
         source: Infectious Disease
@@ -2022,12 +2022,12 @@
       - name:
           source: HIV/AIDS
           tx:
-            he: איידס
+            he: חולי איידס
         slug: human_situations:health:infectious_disease:hiv_aids
       - name:
           source: COVID19
           tx:
-            he: קורונה
+            he: חולי קורונה
         slug: human_situations:health:infectious_disease:covid19
     - name:
         source: Treatment Phases
@@ -2043,27 +2043,27 @@
       - name:
           source: Hospitalized
           tx:
-            he: אשפוז
+            he: מאושפזים
         slug: human_situations:health:treatment_phases:hospitalized
       - name:
           source: Recently Diagnosed
           tx:
-            he: אבחנה טרייה
+            he: מאובחנים טריים
         slug: human_situations:health:treatment_phases:recently_diagnosed
       - name:
           source: On-Treatment
           tx:
-            he: בטיפול
+            he: אנשים בטיפול
         slug: human_situations:health:treatment_phases:on_treatment
       - name:
           source: Post-Treatment
           tx:
-            he: אחרי טיפול
+            he: אנשים אחרי טיפול
         slug: human_situations:health:treatment_phases:post_treatment
       - name:
           source: Facing End of Life
           tx:
-            he: גסיסה
+            he: אנשים על ערש דווי
         slug: human_situations:health:treatment_phases:facing_end_of_life
       - name:
           source: Home Care
@@ -2073,49 +2073,49 @@
       - name:
           source: Nursing Care
           tx:
-            he: מצב סיעודי
+            he: אנשים מצב סיעודי
         slug: human_situations:health:treatment_phases:nursing_care
     - name:
         source: Neoplasm
         tx:
-          he: גידולים
+          he: אנשים עם גידול
       slug: human_situations:health:neoplasm
       items:
       - name:
           source: Cancer
           tx:
-            he: סרטן
+            he: חולי סרטן
         slug: human_situations:health:neoplasm:cancer
     - name:
         source: Nervous System Disease
         tx:
-          he: מחלות של מערכת העצבים והמח
+          he: חולי מחלות של מערכת העצבים והמח
       slug: human_situations:health:nervous_system_disease
       items:
       - name:
           source: Stroke
           tx:
-            he: אירוע מוחי (שבץ מוחי, CVA)
+            he: אנשים שעברו אירוע מוחי
         slug: human_situations:health:nervous_system_disease:stroke
       - name:
           source: Epilepsy
           tx:
-            he: אפיליפסיה
+            he: חולי אפיליפסיה
         slug: human_situations:health:nervous_system_disease:epilepsy
       - name:
           source: Alzheimer disease
           tx:
-            he: אלצהיימר ומחלות דמנציה
+            he: חולי אלצהיימר ומחלות דמנציה
         slug: human_situations:health:nervous_system_disease:alzheimer_disease
       - name:
           source: Parkinson's
           tx:
-            he: פרקינסון
+            he: חולי פרקינסון
         slug: human_situations:health:nervous_system_disease:parkinsons
     - name:
         source: Neurodevelopmental Disorders
         tx:
-          he: לקות נוירו-התפתחותית
+          he: אנשים עם לקות נוירו-התפתחותית
       slug: human_situations:health:neurodevelopmental_disorders
     - name:
         source: Pregnant
@@ -2125,35 +2125,35 @@
     - name:
         source: Rare diseases
         tx:
-          he: מחלות יתומות
+          he: חולי מחלות יתומות
       slug: human_situations:health:rare_diseases
       items:
       - name:
           source: Familial Dysautonomia
           tx:
-            he: דיסאוטונומיה משפחתית (FD)
+            he: אנשים עם דיסאוטונומיה משפחתית (FD)
         slug: human_situations:health:rare_diseases:familial_dysautonomia
     - name:
         source: Respiratory System Disease
         tx:
-          he: מחלות דרכי נשימה
+          he: חולי מחלות דרכי נשימה
       slug: human_situations:health:respiratory_system_disease
       items:
       - name:
           source: Asthma
           tx:
-            he: אסתמה (גנחת הסימפונות)
+            he: חולי אסתמה
         slug: human_situations:health:respiratory_system_disease:asthma
     - name:
         source: Rheumatic Diseases
         tx:
-          he: מחלות ראומטיות
+          he: חולי מחלות ראומטיות
       slug: human_situations:health:rheumatic_diseases
       items:
       - name:
           source: Fibromyalgia
           tx:
-            he: פיברומיאלגיה (דאבת השרירים)
+            he: חולי פיברומיאלגיה
         slug: human_situations:health:rheumatic_diseases:fibromyalgia
   - name:
       source: Household
@@ -2170,7 +2170,7 @@
       - name:
           source: Adoption
           tx:
-            he: אימוץ
+            he: משפחות מאמצות
         slug: human_situations:household:families:adoption
       - name:
           source: Divorced
@@ -2200,7 +2200,7 @@
       - name:
           source: Single Parent
           tx:
-            he: משפחה שבראשה הורה עצמאי
+            he: משפחות שבראשה הורה עצמאי
         slug: human_situations:household:families:single_parent
       - name:
           source: Surrogacy
@@ -2215,17 +2215,17 @@
     - name:
         source: Individuals
         tx:
-          he: רווקות
+          he: רווקים
       slug: human_situations:household:individuals
     - name:
         source: Loneliness
         tx:
-          he: בדידות
+          he: בודדים
       slug: human_situations:household:loneliness
     - name:
         source: Orphans
         tx:
-          he: יתמות
+          he: יתומים
       slug: human_situations:household:orphans
   - name:
       source: Housing
@@ -2251,7 +2251,7 @@
     - name:
         source: Public Housing Tenants
         tx:
-          he: בדיור ציבורי
+          he: דיירי דיור ציבורי
       slug: human_situations:housing:public_housing_tenants
     - name:
         source: Recipients of Housing Assistance
@@ -2277,7 +2277,7 @@
     - name:
         source: Low-Income
         tx:
-          he: הכנסה נמוכה וקשיים כלכליים
+          he: בעלי הכנסה נמוכה וקשיים כלכליים
       slug: human_situations:income:low_income
   - name:
       source: Language
@@ -2288,42 +2288,42 @@
     - name:
         source: Arabic Speaking
         tx:
-          he: ערבית
+          he: דוברי ערבית
       slug: human_situations:language:arabic_speaking
     - name:
         source: Amharic Speaking
         tx:
-          he: אמהרית
+          he: דוברי אמהרית
       slug: human_situations:language:amharic_speaking
     - name:
         source: English Speaking
         tx:
-          he: אנגלית
+          he: דוברי אנגלית
       slug: human_situations:language:english_speaking
     - name:
         source: French Speaking
         tx:
-          he: צרפתית
+          he: דוברי צרפתית
       slug: human_situations:language:french_speaking
     - name:
         source: Hebrew Speaking
         tx:
-          he: עברית
+          he: דוברי עברית
       slug: human_situations:language:hebrew_speaking
     - name:
         source: Russian Speaking
         tx:
-          he: רוסית
+          he: דוברי רוסית
       slug: human_situations:language:russian_speaking
     - name:
         source: Sign Language
         tx:
-          he: שפת סימנים
+          he: דוברי שפת הסימנים
       slug: human_situations:language:sign_language
     - name:
         source: Spanish Speaking
         tx:
-          he: ספרדית
+          he: דוברי ספרדית
       slug: human_situations:language:spanish_speaking
   - name:
       source: Life Events
@@ -2376,42 +2376,42 @@
       - name:
           source: Anxiety
           tx:
-            he: חרדה
+            he: בעלי הפרעות חרדה
         slug: human_situations:mental_health:mental_conditions_and_diseases:anxiety
       - name:
           source: Bipolar
           tx:
-            he: הפרעה קוטבית
+            he: בעלי הפרעה קוטבית
         slug: human_situations:mental_health:mental_conditions_and_diseases:bipolar
       - name:
           source: Brain Injury
           tx:
-            he: פציעת ראש
+            he: בעלי פציעת ראש
         slug: human_situations:mental_health:mental_conditions_and_diseases:brain_injury
       - name:
           source: Depression
           tx:
-            he: דיכאון
+            he: אנשים עם דיכאון
         slug: human_situations:mental_health:mental_conditions_and_diseases:depression
       - name:
           source: Eating Disorder
           tx:
-            he: הפרעות אכילה
+            he: בעלי הפרעות אכילה
         slug: human_situations:mental_health:mental_conditions_and_diseases:eating_disorder
       - name:
           source: PTSD
           tx:
-            he: הפרעת דחק פוסט טראומתית (PTSD)
+            he: בעלי הפרעת דחק פוסט טראומתית (PTSD)
         slug: human_situations:mental_health:mental_conditions_and_diseases:ptsd
       - name:
           source: Schizophrenia
           tx:
-            he: סכיזופרניה
+            he: חולי סכיזופרניה
         slug: human_situations:mental_health:mental_conditions_and_diseases:schizophrenia
       - name:
           source: Suicidal Thoughts
           tx:
-            he: מחשבות אובדניות
+            he: בעלי מחשבות אובדניות
         slug: human_situations:mental_health:mental_conditions_and_diseases:suicidal_thoughts
     - name:
         source: Treatment Phases
@@ -2427,12 +2427,12 @@
       - name:
           source: Forced Hospitalization
           tx:
-            he: אשפוז כפוי
+            he: אנשים באשפוז כפוי
         slug: human_situations:mental_health:treatment_phases:forced_hospitalization
       - name:
           source: No recognition
           tx:
-            he: ללא הכרה במחלה
+            he: אנשים ללא הכרה במחלה
         slug: human_situations:mental_health:treatment_phases:no_recognition
   - name:
       source: Role
@@ -2479,7 +2479,7 @@
     - name:
         source: Christians
         tx:
-          he: נצרות
+          he: נוצרים
       slug: human_situations:sectors:christians
     - name:
         source: Circassians
@@ -2494,7 +2494,7 @@
     - name:
         source: Jews
         tx:
-          he: יהדות
+          he: יהודים
       slug: human_situations:sectors:jews
       items:
       - name:
@@ -2510,17 +2510,17 @@
       - name:
           source: Dati Leumi
           tx:
-            he: דתי לאומי
+            he: דתיים לאומיים
         slug: human_situations:sectors:jews:dati_leumi
       - name:
           source: Hozer Betshuva
           tx:
-            he: חזרה בתשובה
+            he: חוזרים בתשובה
         slug: human_situations:sectors:jews:hozer_betshuva
       - name:
           source: Yotze Beshela
           tx:
-            he: יציאה בשאלה
+            he: יוצאים בשאלה
         slug: human_situations:sectors:jews:yotze_beshela
       - name:
           source: Progressives
@@ -2535,7 +2535,7 @@
     - name:
         source: Muslims
         tx:
-          he: אסלאם
+          he: מוסלמים
       slug: human_situations:sectors:muslims
   - name:
       source: Sexuality
@@ -2557,27 +2557,27 @@
     - name:
         source: Alcohol Dependency
         tx:
-          he: אלכוהול
+          he: מכורי אלכוהול
       slug: human_situations:substance_dependency:alcohol_dependency
     - name:
         source: Dual Diagnosis
         tx:
-          he: אלכוהול וסמים
+          he: מכורי לאלכוהול וסמים
       slug: human_situations:substance_dependency:dual_diagnosis
     - name:
         source: Gambling
         tx:
-          he: הימורים
+          he: מכורי הימורים
       slug: human_situations:substance_dependency:gambling
     - name:
         source: Opioid Dependency
         tx:
-          he: סמים
+          he: מכורי סמים
       slug: human_situations:substance_dependency:opioid_dependency
     - name:
         source: Smoker
         tx:
-          he: עישון
+          he: מעשנים
       slug: human_situations:substance_dependency:smoker
   - name:
       source: Survivors
@@ -2588,7 +2588,7 @@
     - name:
         source: Abuse or Neglect Survivors
         tx:
-          he: התעללות או הזנחה
+          he: אנשים התעללות או הזנחה
       slug: human_situations:survivors:abuse_or_neglect_survivors
     - name:
         source: Burn Survivors
@@ -2645,15 +2645,15 @@
     - name:
         source: Emergency
         tx:
-          he: חירום
+          he: מצב חירום
       slug: human_situations:urgency:emergency
     - name:
         source: In Crisis
         tx:
-          he: משבר נפשי
+          he: אנשים משבר נפשי
       slug: human_situations:urgency:in_crisis
     - name:
         source: In Danger
         tx:
-          he: בסיכון
+          he: אנשים בסיכון
       slug: human_situations:urgency:in_danger
