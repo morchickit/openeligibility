@@ -73,12 +73,6 @@
         tx:
           he: מסגרת יום
       slug: human_services:care:daytime_care
-      items:
-      - name:
-          source: Adult Daycare
-          tx:
-            he: מסגרות יום למבוגרים
-        slug: human_services:care:daytime_care:adult_daycare
     - name:
         source: Early Childhood Intervention
         tx:
@@ -106,37 +100,6 @@
             he: ועדה לקביעת מצב סיעודי
         slug: human_services:care:eligibility_checks:nursing_status_committee
     - name:
-        source: Navigating the System
-        tx:
-          he: מיצוי זכויות
-      slug: human_services:care:navigating_the_system
-    - name:
-        source: Physical Safety
-        tx:
-          he: בטחון פיזי
-      slug: human_services:care:physical_safety
-      items:
-      - name:
-          source: Disaster Response
-          tx:
-            he: תגובה לאסונות
-        slug: human_services:care:physical_safety:disaster_response
-      - name:
-          source: Emergency Food
-          tx:
-            he: מזון בחירום
-        slug: human_services:care:physical_safety:emergency_food
-      - name:
-          source: Temporary Shelter
-          tx:
-            he: דיור חירומי
-        slug: human_services:care:physical_safety:temporary_shelter
-      - name:
-          source: Help Find Missing Persons
-          tx:
-            he: איתור נעדרים
-        slug: human_services:care:physical_safety:help_find_missing_persons
-    - name:
         source: Residential Care
         tx:
           he: מסגרת טיפולית ביתית
@@ -163,11 +126,6 @@
           he: רשת תמיכה
       slug: human_services:care:support_network
       items:
-      - name:
-          source: Counseling
-          tx:
-            he: טיפול רגשי (פסיכולוגי)
-        slug: human_services:care:support_network:counseling
       - name:
           source: Help Hotlines
           tx:
@@ -236,11 +194,6 @@
     slug: human_services:community_services
     items:
     - name:
-        source: Assistance during mourning period
-        tx:
-          he: סיוע בתקופת האבל
-      slug: human_services:community_services:assistance_during_mourning_period
-    - name:
         source: Community Gardens
         tx:
           he: גינות קהילתיות
@@ -255,11 +208,6 @@
         tx:
           he: מתנ"ס
       slug: human_services:community_services:community_center
-    - name:
-        source: Enrichment Programs
-        tx:
-          he: תוכניות העשרה
-      slug: human_services:community_services:enrichment_programs
     - name:
         source: Libraries
         tx:
@@ -316,11 +264,6 @@
         tx:
           he: קייטנות
       slug: human_services:community_services:summer_camps
-    - name:
-        source: Youth movements
-        tx:
-          he: תנועות נוער
-      slug: human_services:community_services:youth_movements
   - name:
       source: Education
       tx:
@@ -452,11 +395,6 @@
             he: חינוך סביבתי
         slug: human_services:education:more_education:environmental_education
       - name:
-          source: Financial Education
-          tx:
-            he: חינוך פיננסי
-        slug: human_services:education:more_education:financial_education
-      - name:
           source: Foreign Languages
           tx:
             he: שפות זרות
@@ -534,21 +472,6 @@
           tx:
             he: כישורי חיים
         slug: human_services:education:skills_training:daily_life_skills
-      - name:
-          source: Interview Training
-          tx:
-            he: הכנה לראיונות עבודה
-        slug: human_services:education:skills_training:interview_training
-      - name:
-          source: Skills Assessment
-          tx:
-            he: הערכת כישורים
-        slug: human_services:education:skills_training:skills_assessment
-      - name:
-          source: Specialized Training
-          tx:
-            he: הדרכות מיוחדות
-        slug: human_services:education:skills_training:specialized_training
   - name:
       source: Emergency
       tx:
@@ -580,11 +503,6 @@
         tx:
           he: איתור נעדרים
       slug: human_services:emergency:help_find_missing_persons
-    - name:
-        source: Psychiatric Emergency Services
-        tx:
-          he: שירותי חירום פסיכיאטריים
-      slug: human_services:emergency:psychiatric_emergency_services
   - name:
       source: Food
       tx:
@@ -665,16 +583,6 @@
             he: תרופות להתמכרות
         slug: human_services:health:addiction_recovery:medications_for_addiction
       - name:
-          source: Peer Recovery Coaching
-          tx:
-            he: קבוצות תמיכה
-        slug: human_services:health:addiction_recovery:peer_recovery_coaching
-      - name:
-          source: Residential Treatment
-          tx:
-            he: מרכזי גמילה
-        slug: human_services:health:addiction_recovery:residential_treatment
-      - name:
           source: Substance Abuse Counseling
           tx:
             he: ייעוץ רגשי למתמכרים
@@ -715,27 +623,6 @@
         tx:
           he: חינוך לבריאות
       slug: human_services:health:health_education
-      items:
-      - name:
-          source: Disease Management
-          tx:
-            he: התנהלות במחלה
-        slug: human_services:health:health_education:disease_management
-      - name:
-          source: Family Planning
-          tx:
-            he: תכנון המשפחה
-        slug: human_services:health:health_education:family_planning
-      - name:
-          source: Nutrition Education
-          tx:
-            he: חינוך תזונתי
-        slug: human_services:health:health_education:nutrition_education
-      - name:
-          source: Sex Education
-          tx:
-            he: חינוך מיני
-        slug: human_services:health:health_education:sex_education
     - name:
         source: Mental Health Care
         tx:
@@ -747,11 +634,6 @@
           tx:
             he: ניהול כעסים
         slug: human_services:health:mental_health_care:anger_management
-      - name:
-          source: Bereavement
-          tx:
-            he: סיוע בתקופת האבל
-        slug: human_services:health:mental_health_care:bereavement
       - name:
           source: Counseling
           tx:
@@ -809,11 +691,6 @@
             tx:
               he: אשפוז ביתי
           slug: human_services:health:mental_health_care:hospitalization:home_hospitalization
-        - name:
-            source: Psychiatric Emergency Services
-            tx:
-              he: שירותי חירום פסיכיאטריים
-          slug: human_services:health:mental_health_care:hospitalization:psychiatric_emergency_services
     - name:
         source: Prevent & Treat
         tx:
@@ -883,11 +760,6 @@
             he: מרפאות
         slug: human_services:health:prevent_treat:clinics
       - name:
-          source: Counseling
-          tx:
-            he: טיפול רגשי (פסיכולוגי)
-        slug: human_services:health:prevent_treat:counseling
-      - name:
           source: Disease Management
           tx:
             he: התנהלות במחלה
@@ -907,16 +779,6 @@
           tx:
             he: ניהול תרופות
         slug: human_services:health:prevent_treat:medication_management
-      - name:
-          source: Nursing Home
-          tx:
-            he: מוסד סיעודי
-        slug: human_services:health:prevent_treat:nursing_home
-      - name:
-          source: Nutrition
-          tx:
-            he: תזונה
-        slug: human_services:health:prevent_treat:nutrition
       - name:
           source: Occupational Therapy
           tx:
@@ -1255,22 +1117,6 @@
           tx:
             he: עזרה בתשלומים על שירותי בריאות
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
-        items:
-        - name:
-            source: Medical Supplies
-            tx:
-              he: ציוד רפואי
-          slug: human_services:money:financial_assistance:help_pay_for_healthcare:medical_supplies
-        - name:
-            source: Prescription Assistance
-            tx:
-              he: סיוע במימון תרופות
-          slug: human_services:money:financial_assistance:help_pay_for_healthcare:prescription_assistance
-        - name:
-            source: Transportation for Healthcare
-            tx:
-              he: הסעות לטיפולים רפואיים
-          slug: human_services:money:financial_assistance:help_pay_for_healthcare:transportation_for_healthcare
       - name:
           source: Help Pay for Housing
           tx:

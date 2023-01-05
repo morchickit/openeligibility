@@ -13,24 +13,16 @@ human_services:care:childcare,Human Services,מענים חברתיים,Care,רו
 human_services:care:childcare:help_find_childcare,Human Services,מענים חברתיים,Care,רווחה,Childcare,מסגרות לילדים,Help Find Childcare,עזרה במציאת מסגרות לילדים
 human_services:care:childcare:afterschool_care,Human Services,מענים חברתיים,Care,רווחה,Childcare,מסגרות לילדים,Afterschool Care,צהרון
 human_services:care:daytime_care,Human Services,מענים חברתיים,Care,רווחה,Daytime Care,מסגרת יום
-human_services:care:daytime_care:adult_daycare,Human Services,מענים חברתיים,Care,רווחה,Daytime Care,מסגרת יום,Adult Daycare,מסגרות יום למבוגרים
 human_services:care:early_childhood_intervention,Human Services,מענים חברתיים,Care,רווחה,Early Childhood Intervention,אבחונים לגיל הרך
 human_services:care:guidance,Human Services,מענים חברתיים,Care,רווחה,Guidance,ליווי והדרכה
 human_services:care:eligibility_checks,Human Services,מענים חברתיים,Care,רווחה,Eligibility Checks,בדיקות זכאות
 human_services:care:eligibility_checks:disability_committee,Human Services,מענים חברתיים,Care,רווחה,Eligibility Checks,בדיקות זכאות,Disability committee,ועדת נכות
 human_services:care:eligibility_checks:nursing_status_committee,Human Services,מענים חברתיים,Care,רווחה,Eligibility Checks,בדיקות זכאות,Nursing status committee,ועדה לקביעת מצב סיעודי
-human_services:care:navigating_the_system,Human Services,מענים חברתיים,Care,רווחה,Navigating the System,מיצוי זכויות
-human_services:care:physical_safety,Human Services,מענים חברתיים,Care,רווחה,Physical Safety,בטחון פיזי
-human_services:care:physical_safety:disaster_response,Human Services,מענים חברתיים,Care,רווחה,Physical Safety,בטחון פיזי,Disaster Response,תגובה לאסונות
-human_services:care:physical_safety:emergency_food,Human Services,מענים חברתיים,Care,רווחה,Physical Safety,בטחון פיזי,Emergency Food,מזון בחירום
-human_services:care:physical_safety:temporary_shelter,Human Services,מענים חברתיים,Care,רווחה,Physical Safety,בטחון פיזי,Temporary Shelter,דיור חירומי
-human_services:care:physical_safety:help_find_missing_persons,Human Services,מענים חברתיים,Care,רווחה,Physical Safety,בטחון פיזי,Help Find Missing Persons,איתור נעדרים
 human_services:care:residential_care,Human Services,מענים חברתיים,Care,רווחה,Residential Care,מסגרת טיפולית ביתית
 human_services:care:recovery,Human Services,מענים חברתיים,Care,רווחה,Recovery,שיקום חברתי
 human_services:care:recovery:vacations,Human Services,מענים חברתיים,Care,רווחה,Recovery,שיקום חברתי,Vacations,נופשונים
 human_services:care:recovery:vocational_rehabilitation,Human Services,מענים חברתיים,Care,רווחה,Recovery,שיקום חברתי,Vocational Rehabilitation,תעסוקה שיקומית
 human_services:care:support_network,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה
-human_services:care:support_network:counseling,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה,Counseling,טיפול רגשי (פסיכולוגי)
 human_services:care:support_network:help_hotlines,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה,Help Hotlines,קווי סיוע
 human_services:care:support_network:home_visiting,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה,Home Visiting,ביקורי בית
 human_services:care:support_network:in_home_support,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה,In-Home Support,סיוע בבית
@@ -44,11 +36,9 @@ human_services:care:support_network:support_group:parenting_education,Human Serv
 human_services:care:support_network:support_group:virtual_support,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה,Support Group,קבוצות תמיכה,Virtual Support,תמיכה וירטואלית
 human_services:care:relief_for_caregivers,Human Services,מענים חברתיים,Care,רווחה,Relief for Caregivers,הקלה למטפלים
 human_services:community_services,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים
-human_services:community_services:assistance_during_mourning_period,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Assistance during mourning period,סיוע בתקופת האבל
 human_services:community_services:community_gardens,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Community Gardens,גינות קהילתיות
 human_services:community_services:computer_or_internet_access,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Computer or Internet Access,מחשוב או גישה לאינטרנט
 human_services:community_services:community_center,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Community center,"מתנ""ס"
-human_services:community_services:enrichment_programs,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Enrichment Programs,תוכניות העשרה
 human_services:community_services:libraries,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Libraries,ספריות
 human_services:community_services:helplines,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Helplines,קווי סיוע טלפוניים
 human_services:community_services:olim_support,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Olim Support,קליטת עולים
@@ -60,7 +50,6 @@ human_services:community_services:religious_services:churches,Human Services,מ�
 human_services:community_services:religious_services:altenative_religious_services,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Religious Services,שירותי דת,Altenative Religious Services,שירותי דת נוספים
 human_services:community_services:social_club,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Social Club,מועדון חברתי
 human_services:community_services:summer_camps,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Summer Camps,קייטנות
-human_services:community_services:youth_movements,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Youth movements,תנועות נוער
 human_services:education,Human Services,מענים חברתיים,Education,חינוך
 human_services:education:help_find_school,Human Services,מענים חברתיים,Education,חינוך,Help Find School,עזרה במציאת בית ספר
 human_services:education:education_institutions,Human Services,מענים חברתיים,Education,חינוך,Education Institutions,מוסדות חינוך
@@ -86,7 +75,6 @@ human_services:education:more_education:national_service_readiness,Human Service
 human_services:education:more_education:english_as_a_second_language_esl,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,English as a Second Language (ESL),אולפנים
 human_services:education:more_education:enrichment_programs,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Enrichment Programs,תוכניות העשרה
 human_services:education:more_education:environmental_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Environmental Education,חינוך סביבתי
-human_services:education:more_education:financial_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Financial Education,חינוך פיננסי
 human_services:education:more_education:foreign_languages,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Foreign Languages,שפות זרות
 human_services:education:more_education:ged_high_school_equivalency,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,GED/High-School Equivalency,בחינות בגרות
 human_services:education:more_education:prep_mechina,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Prep - Mechina,מכינה
@@ -102,16 +90,12 @@ human_services:education:skills_training,Human Services,מענים חברתיי�
 human_services:education:skills_training:basic_literacy,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Basic Literacy,אוריינות בסיסית
 human_services:education:skills_training:computer_class,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Computer Class,אוריינות דיגיטלית
 human_services:education:skills_training:daily_life_skills,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Daily Life Skills,כישורי חיים
-human_services:education:skills_training:interview_training,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Interview Training,הכנה לראיונות עבודה
-human_services:education:skills_training:skills_assessment,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Skills Assessment,הערכת כישורים
-human_services:education:skills_training:specialized_training,Human Services,מענים חברתיים,Education,חינוך,Skills & Training,הכשרות,Specialized Training,הדרכות מיוחדות
 human_services:emergency,Human Services,מענים חברתיים,Emergency,חירום
 human_services:emergency:disaster_response,Human Services,מענים חברתיים,Emergency,חירום,Disaster Response,תגובה לאסונות
 human_services:emergency:emergency_food,Human Services,מענים חברתיים,Emergency,חירום,Emergency Food,מזון בחירום
 human_services:emergency:emergency_helplines,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helplines,קווי סיוע בחירום
 human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט חירום
 human_services:emergency:help_find_missing_persons,Human Services,מענים חברתיים,Emergency,חירום,Help Find Missing Persons,איתור נעדרים
-human_services:emergency:psychiatric_emergency_services,Human Services,מענים חברתיים,Emergency,חירום,Psychiatric Emergency Services,שירותי חירום פסיכיאטריים
 human_services:food,Human Services,מענים חברתיים,Food,מזון
 human_services:food:food_delivery,Human Services,מענים חברתיים,Food,מזון,Food Delivery,סלי מזון לנזקקים
 human_services:food:food_pantry,Human Services,מענים חברתיים,Food,מזון,Food Pantry,בתי תמחוי
@@ -127,8 +111,6 @@ human_services:health:addiction_recovery,Human Services,מענים חברתיי�
 human_services:health:addiction_recovery:detox,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Detox,גמילה ראשונית
 human_services:health:addiction_recovery:drug_testing,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Drug Testing,בדיקות סמים
 human_services:health:addiction_recovery:medications_for_addiction,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Medications for Addiction,תרופות להתמכרות
-human_services:health:addiction_recovery:peer_recovery_coaching,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Peer Recovery Coaching,קבוצות תמיכה
-human_services:health:addiction_recovery:residential_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Residential Treatment,מרכזי גמילה
 human_services:health:addiction_recovery:substance_abuse_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Substance Abuse Counseling,ייעוץ רגשי למתמכרים
 human_services:health:dental_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Dental Care,טיפולי שיניים
 human_services:health:emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי חירום
@@ -137,13 +119,8 @@ human_services:health:emergency_services:dental_emergency_service,Human Services
 human_services:health:help_find_healthcare,Human Services,מענים חברתיים,Health,שירותי בריאות,Help Find Healthcare,עזרה במציאת טיפול רפואי
 human_services:health:end_of_life_care,Human Services,מענים חברתיים,Health,שירותי בריאות,End-of-Life Care,טיפול במצב סופני
 human_services:health:health_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות
-human_services:health:health_education:disease_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות,Disease Management,התנהלות במחלה
-human_services:health:health_education:family_planning,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות,Family Planning,תכנון המשפחה
-human_services:health:health_education:nutrition_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות,Nutrition Education,חינוך תזונתי
-human_services:health:health_education:sex_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות,Sex Education,חינוך מיני
 human_services:health:mental_health_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש
 human_services:health:mental_health_care:anger_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Anger Management,ניהול כעסים
-human_services:health:mental_health_care:bereavement,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Bereavement,סיוע בתקופת האבל
 human_services:health:mental_health_care:counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי)
 human_services:health:mental_health_care:counseling:family_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Family Counseling,טיפול משפחתי
 human_services:health:mental_health_care:counseling:group_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Group Therapy,טיפול קבוצתי
@@ -155,7 +132,6 @@ human_services:health:mental_health_care:hospitalization:forced_hospitalization,
 human_services:health:mental_health_care:hospitalization:voluntary_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Voluntary Hospitalization,אשפוז מרצון
 human_services:health:mental_health_care:hospitalization:hospitalization_alternative,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז
 human_services:health:mental_health_care:hospitalization:home_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Home Hospitalization,אשפוז ביתי
-human_services:health:mental_health_care:hospitalization:psychiatric_emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Psychiatric Emergency Services,שירותי חירום פסיכיאטריים
 human_services:health:prevent_treat,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה
 human_services:health:prevent_treat:allied_health,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Allied Health,פרא-רפואה
 human_services:health:prevent_treat:alternative_medicine,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Alternative Medicine,רפואה אלטרנטיבית
@@ -169,13 +145,10 @@ human_services:health:prevent_treat:medical_supplies,Human Services,מענים �
 human_services:health:prevent_treat:medical_supplies:assistive_technology,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medical Supplies,ציוד רפואי,Assistive Technology,טכנולוגיות עזר
 human_services:health:prevent_treat:medical_supplies:prosthesis,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medical Supplies,ציוד רפואי,Prosthesis,פרוטזות
 human_services:health:prevent_treat:clinics,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Clinics,מרפאות
-human_services:health:prevent_treat:counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Counseling,טיפול רגשי (פסיכולוגי)
 human_services:health:prevent_treat:disease_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Disease Management,התנהלות במחלה
 human_services:health:prevent_treat:hospital_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Hospital Treatment,טיפול בבית חולים
 human_services:health:prevent_treat:in_home_support,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,In-Home Support,סיוע בבית
 human_services:health:prevent_treat:medication_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Medication Management,ניהול תרופות
-human_services:health:prevent_treat:nursing_home,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Nursing Home,מוסד סיעודי
-human_services:health:prevent_treat:nutrition,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Nutrition,תזונה
 human_services:health:prevent_treat:occupational_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Occupational Therapy,ריפוי בעיסוק
 human_services:health:prevent_treat:pain_management,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Pain Management,טיפול בכאב
 human_services:health:prevent_treat:physical_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Physical Therapy,פיזיותרפיה
@@ -241,9 +214,6 @@ human_services:money:financial_assistance:gamach_money,Human Services,מענים
 human_services:money:financial_assistance:help_pay_for_childcare,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Childcare,עזרה כספית למסגרות לילדים
 human_services:money:financial_assistance:help_pay_for_food,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Food,סיוע כספי לרכישת מזון
 human_services:money:financial_assistance:help_pay_for_healthcare,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Healthcare,עזרה בתשלומים על שירותי בריאות
-human_services:money:financial_assistance:help_pay_for_healthcare:medical_supplies,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Healthcare,עזרה בתשלומים על שירותי בריאות,Medical Supplies,ציוד רפואי
-human_services:money:financial_assistance:help_pay_for_healthcare:prescription_assistance,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Healthcare,עזרה בתשלומים על שירותי בריאות,Prescription Assistance,סיוע במימון תרופות
-human_services:money:financial_assistance:help_pay_for_healthcare:transportation_for_healthcare,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Healthcare,עזרה בתשלומים על שירותי בריאות,Transportation for Healthcare,הסעות לטיפולים רפואיים
 human_services:money:financial_assistance:help_pay_for_housing,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Housing,סיוע בעלות מגורים
 human_services:money:financial_assistance:help_pay_for_housing:help_with_maintenance,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Housing,סיוע בעלות מגורים,Help with Maintenance,עזרה בשיפוצים
 human_services:money:financial_assistance:help_pay_for_housing:help_with_rent,Human Services,מענים חברתיים,Money,עזרה כספית,Financial Assistance,סיוע כספי,Help Pay for Housing,סיוע בעלות מגורים,Help with Rent,עזרה בתשלום שכר דירה

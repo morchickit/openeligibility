@@ -31,9 +31,6 @@
         slug: human_services:care:childcare:afterschool_care
     - name: Daytime Care
       slug: human_services:care:daytime_care
-      items:
-      - name: Adult Daycare
-        slug: human_services:care:daytime_care:adult_daycare
     - name: Early Childhood Intervention
       slug: human_services:care:early_childhood_intervention
     - name: Guidance
@@ -45,19 +42,6 @@
         slug: human_services:care:eligibility_checks:disability_committee
       - name: Nursing status committee
         slug: human_services:care:eligibility_checks:nursing_status_committee
-    - name: Navigating the System
-      slug: human_services:care:navigating_the_system
-    - name: Physical Safety
-      slug: human_services:care:physical_safety
-      items:
-      - name: Disaster Response
-        slug: human_services:care:physical_safety:disaster_response
-      - name: Emergency Food
-        slug: human_services:care:physical_safety:emergency_food
-      - name: Temporary Shelter
-        slug: human_services:care:physical_safety:temporary_shelter
-      - name: Help Find Missing Persons
-        slug: human_services:care:physical_safety:help_find_missing_persons
     - name: Residential Care
       slug: human_services:care:residential_care
     - name: Recovery
@@ -70,8 +54,6 @@
     - name: Support Network
       slug: human_services:care:support_network
       items:
-      - name: Counseling
-        slug: human_services:care:support_network:counseling
       - name: Help Hotlines
         slug: human_services:care:support_network:help_hotlines
       - name: Home Visiting
@@ -100,16 +82,12 @@
   - name: Community Services
     slug: human_services:community_services
     items:
-    - name: Assistance during mourning period
-      slug: human_services:community_services:assistance_during_mourning_period
     - name: Community Gardens
       slug: human_services:community_services:community_gardens
     - name: Computer or Internet Access
       slug: human_services:community_services:computer_or_internet_access
     - name: Community center
       slug: human_services:community_services:community_center
-    - name: Enrichment Programs
-      slug: human_services:community_services:enrichment_programs
     - name: Libraries
       slug: human_services:community_services:libraries
     - name: Helplines
@@ -133,8 +111,6 @@
       slug: human_services:community_services:social_club
     - name: Summer Camps
       slug: human_services:community_services:summer_camps
-    - name: Youth movements
-      slug: human_services:community_services:youth_movements
   - name: Education
     slug: human_services:education
     items:
@@ -190,8 +166,6 @@
         slug: human_services:education:more_education:enrichment_programs
       - name: Environmental Education
         slug: human_services:education:more_education:environmental_education
-      - name: Financial Education
-        slug: human_services:education:more_education:financial_education
       - name: Foreign Languages
         slug: human_services:education:more_education:foreign_languages
       - name: GED/High-School Equivalency
@@ -225,12 +199,6 @@
         slug: human_services:education:skills_training:computer_class
       - name: Daily Life Skills
         slug: human_services:education:skills_training:daily_life_skills
-      - name: Interview Training
-        slug: human_services:education:skills_training:interview_training
-      - name: Skills Assessment
-        slug: human_services:education:skills_training:skills_assessment
-      - name: Specialized Training
-        slug: human_services:education:skills_training:specialized_training
   - name: Emergency
     slug: human_services:emergency
     items:
@@ -244,8 +212,6 @@
       slug: human_services:emergency:emergency_shelter
     - name: Help Find Missing Persons
       slug: human_services:emergency:help_find_missing_persons
-    - name: Psychiatric Emergency Services
-      slug: human_services:emergency:psychiatric_emergency_services
   - name: Food
     slug: human_services:food
     items:
@@ -280,10 +246,6 @@
         slug: human_services:health:addiction_recovery:drug_testing
       - name: Medications for Addiction
         slug: human_services:health:addiction_recovery:medications_for_addiction
-      - name: Peer Recovery Coaching
-        slug: human_services:health:addiction_recovery:peer_recovery_coaching
-      - name: Residential Treatment
-        slug: human_services:health:addiction_recovery:residential_treatment
       - name: Substance Abuse Counseling
         slug: human_services:health:addiction_recovery:substance_abuse_counseling
     - name: Dental Care
@@ -301,22 +263,11 @@
       slug: human_services:health:end_of_life_care
     - name: Health Education
       slug: human_services:health:health_education
-      items:
-      - name: Disease Management
-        slug: human_services:health:health_education:disease_management
-      - name: Family Planning
-        slug: human_services:health:health_education:family_planning
-      - name: Nutrition Education
-        slug: human_services:health:health_education:nutrition_education
-      - name: Sex Education
-        slug: human_services:health:health_education:sex_education
     - name: Mental Health Care
       slug: human_services:health:mental_health_care
       items:
       - name: Anger Management
         slug: human_services:health:mental_health_care:anger_management
-      - name: Bereavement
-        slug: human_services:health:mental_health_care:bereavement
       - name: Counseling
         slug: human_services:health:mental_health_care:counseling
         items:
@@ -341,8 +292,6 @@
           slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative
         - name: Home Hospitalization
           slug: human_services:health:mental_health_care:hospitalization:home_hospitalization
-        - name: Psychiatric Emergency Services
-          slug: human_services:health:mental_health_care:hospitalization:psychiatric_emergency_services
     - name: Prevent & Treat
       slug: human_services:health:prevent_treat
       items:
@@ -372,8 +321,6 @@
           slug: human_services:health:prevent_treat:medical_supplies:prosthesis
       - name: Clinics
         slug: human_services:health:prevent_treat:clinics
-      - name: Counseling
-        slug: human_services:health:prevent_treat:counseling
       - name: Disease Management
         slug: human_services:health:prevent_treat:disease_management
       - name: Hospital Treatment
@@ -382,10 +329,6 @@
         slug: human_services:health:prevent_treat:in_home_support
       - name: Medication Management
         slug: human_services:health:prevent_treat:medication_management
-      - name: Nursing Home
-        slug: human_services:health:prevent_treat:nursing_home
-      - name: Nutrition
-        slug: human_services:health:prevent_treat:nutrition
       - name: Occupational Therapy
         slug: human_services:health:prevent_treat:occupational_therapy
       - name: Pain Management
@@ -529,13 +472,6 @@
         slug: human_services:money:financial_assistance:help_pay_for_food
       - name: Help Pay for Healthcare
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
-        items:
-        - name: Medical Supplies
-          slug: human_services:money:financial_assistance:help_pay_for_healthcare:medical_supplies
-        - name: Prescription Assistance
-          slug: human_services:money:financial_assistance:help_pay_for_healthcare:prescription_assistance
-        - name: Transportation for Healthcare
-          slug: human_services:money:financial_assistance:help_pay_for_healthcare:transportation_for_healthcare
       - name: Help Pay for Housing
         slug: human_services:money:financial_assistance:help_pay_for_housing
         items:
