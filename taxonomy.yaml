@@ -168,8 +168,6 @@
         slug: human_services:education:more_education:environmental_education
       - name: Foreign Languages
         slug: human_services:education:more_education:foreign_languages
-      - name: GED/High-School Equivalency
-        slug: human_services:education:more_education:ged_high_school_equivalency
       - name: Prep - Mechina
         slug: human_services:education:more_education:prep_mechina
         items:

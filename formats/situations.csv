@@ -105,7 +105,7 @@ human_situations:health:treatment_phases:on_treatment,Human Situations,מצבי�
 human_situations:health:treatment_phases:post_treatment,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Post-Treatment,אנשים אחרי טיפול
 human_situations:health:treatment_phases:facing_end_of_life,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Facing End of Life,אנשים על ערש דווי
 human_situations:health:treatment_phases:home_care,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Home Care,אשפוז ביתי
-human_situations:health:treatment_phases:nursing_care,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Nursing Care,אנשים מצב סיעודי
+human_situations:health:treatment_phases:nursing_care,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Nursing Care,אנשים במצב סיעודי
 human_situations:health:neoplasm,Human Situations,מצבים,Health,מצבים בריאותיים,Neoplasm,אנשים עם גידול
 human_situations:health:neoplasm:cancer,Human Situations,מצבים,Health,מצבים בריאותיים,Neoplasm,אנשים עם גידול,Cancer,חולי סרטן
 human_situations:health:nervous_system_disease,Human Situations,מצבים,Health,מצבים בריאותיים,Nervous System Disease,חולי מחלות של מערכת העצבים והמח
@@ -129,7 +129,7 @@ human_situations:household:families:fathers,Human Situations,מצבים,Househol
 human_situations:household:families:foster_caregivers,Human Situations,מצבים,Household,מצב משפחתי,Families,משפחות,Foster Caregivers,הורים אומנים
 human_situations:household:families:mothers,Human Situations,מצבים,Household,מצב משפחתי,Families,משפחות,Mothers,אמהות
 human_situations:household:families:parents,Human Situations,מצבים,Household,מצב משפחתי,Families,משפחות,Parents,הורים
-human_situations:household:families:single_parent,Human Situations,מצבים,Household,מצב משפחתי,Families,משפחות,Single Parent,משפחות שבראשה הורה עצמאי
+human_situations:household:families:single_parent,Human Situations,מצבים,Household,מצב משפחתי,Families,משפחות,Single Parent,משפחות שבראשן הורה עצמאי
 human_situations:household:families:surrogacy,Human Situations,מצבים,Household,מצב משפחתי,Families,משפחות,Surrogacy,פונדקאות
 human_situations:household:families:siblings,Human Situations,מצבים,Household,מצב משפחתי,Families,משפחות,Siblings,אחים
 human_situations:household:individuals,Human Situations,מצבים,Household,מצב משפחתי,Individuals,רווקים
@@ -199,12 +199,12 @@ human_situations:sexuality,Human Situations,מצבים,Sexuality,נטייה מי
 human_situations:sexuality:lgbtq,Human Situations,מצבים,Sexuality,נטייה מינית,LGBTQ,"להט""ב"
 human_situations:substance_dependency,Human Situations,מצבים,Substance Dependency,התמכרויות
 human_situations:substance_dependency:alcohol_dependency,Human Situations,מצבים,Substance Dependency,התמכרויות,Alcohol Dependency,מכורי אלכוהול
-human_situations:substance_dependency:dual_diagnosis,Human Situations,מצבים,Substance Dependency,התמכרויות,Dual Diagnosis,מכורי לאלכוהול וסמים
+human_situations:substance_dependency:dual_diagnosis,Human Situations,מצבים,Substance Dependency,התמכרויות,Dual Diagnosis,מכורי אלכוהול וסמים
 human_situations:substance_dependency:gambling,Human Situations,מצבים,Substance Dependency,התמכרויות,Gambling,מכורי הימורים
 human_situations:substance_dependency:opioid_dependency,Human Situations,מצבים,Substance Dependency,התמכרויות,Opioid Dependency,מכורי סמים
 human_situations:substance_dependency:smoker,Human Situations,מצבים,Substance Dependency,התמכרויות,Smoker,מעשנים
 human_situations:survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים
-human_situations:survivors:abuse_or_neglect_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Abuse or Neglect Survivors,אנשים התעללות או הזנחה
+human_situations:survivors:abuse_or_neglect_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Abuse or Neglect Survivors,נפגעי התעללות או הזנחה
 human_situations:survivors:burn_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Burn Survivors,נפגעי כוויה
 human_situations:survivors:car_accidents_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Car Accidents Survivors,נפגעי תאונות דרכים
 human_situations:survivors:violence_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Violence Survivors,נפגעי אלימות
@@ -216,5 +216,5 @@ human_situations:survivors:prostition_survivors,Human Situations,מצבים,Surv
 human_situations:survivors:trauma_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Trauma Survivors,נפגעי טראומה
 human_situations:urgency,Human Situations,מצבים,Urgency,דחיפות
 human_situations:urgency:emergency,Human Situations,מצבים,Urgency,דחיפות,Emergency,מצב חירום
-human_situations:urgency:in_crisis,Human Situations,מצבים,Urgency,דחיפות,In Crisis,אנשים משבר נפשי
+human_situations:urgency:in_crisis,Human Situations,מצבים,Urgency,דחיפות,In Crisis,אנשים במשבר נפשי
 human_situations:urgency:in_danger,Human Situations,מצבים,Urgency,דחיפות,In Danger,אנשים בסיכון

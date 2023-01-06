@@ -13,13 +13,13 @@
     - name:
         source: Accessibility
         tx:
-          he: נגישות
+          he: פתרונות נגישות
       slug: human_services:care:accessibility
       items:
       - name:
           source: Translation
           tx:
-            he: תרגום
+            he: סיוע בתרגום
         slug: human_services:care:accessibility:translation
     - name:
         source: Adoption & Foster Care
@@ -50,7 +50,7 @@
     - name:
         source: Aid Center
         tx:
-          he: מרכז סיוע
+          he: מרכזי סיוע
       slug: human_services:care:aid_center
     - name:
         source: Childcare
@@ -66,7 +66,7 @@
       - name:
           source: Afterschool Care
           tx:
-            he: צהרון
+            he: צהרונים
         slug: human_services:care:childcare:afterschool_care
     - name:
         source: Daytime Care
@@ -76,7 +76,7 @@
     - name:
         source: Early Childhood Intervention
         tx:
-          he: אבחונים לגיל הרך
+          he: אבחונים
       slug: human_services:care:early_childhood_intervention
     - name:
         source: Guidance
@@ -206,7 +206,7 @@
     - name:
         source: Community center
         tx:
-          he: מתנ"ס
+          he: מרכזים קהילתיים
       slug: human_services:community_services:community_center
     - name:
         source: Libraries
@@ -325,7 +325,7 @@
       - name:
           source: Further Education
           tx:
-            he: על-תיכוני
+            he: חינוך על-תיכוני
         slug: human_services:education:education_institutions:further_education
         items:
         - name:
@@ -397,13 +397,8 @@
       - name:
           source: Foreign Languages
           tx:
-            he: שפות זרות
+            he: לימודי שפות
         slug: human_services:education:more_education:foreign_languages
-      - name:
-          source: GED/High-School Equivalency
-          tx:
-            he: בחינות בגרות
-        slug: human_services:education:more_education:ged_high_school_equivalency
       - name:
           source: Prep - Mechina
           tx:
@@ -443,13 +438,13 @@
     - name:
         source: Screening & Exams
         tx:
-          he: מבחנים
+          he: מבחנים ומיונים
       slug: human_services:education:screening_exams
       items:
       - name:
           source: Bagrut/High-School Equivalency
           tx:
-            he: בחינות בגרות
+            he: הכנה לבחינות בגרות
         slug: human_services:education:screening_exams:bagrut_high_school_equivalency
     - name:
         source: Skills & Training
@@ -470,7 +465,7 @@
       - name:
           source: Daily Life Skills
           tx:
-            he: כישורי חיים
+            he: הדרכות כישורי חיים
         slug: human_services:education:skills_training:daily_life_skills
   - name:
       source: Emergency
@@ -843,7 +838,7 @@
       - name:
           source: Family Planning
           tx:
-            he: תכנון המשפחה
+            he: תכנון משפחה
         slug: human_services:health:sexual_reproductive_health:family_planning
         items:
         - name:
@@ -854,7 +849,7 @@
         - name:
             source: Fertility
             tx:
-              he: פוריות
+              he: טיפולי פוריות
           slug: human_services:health:sexual_reproductive_health:family_planning:fertility
         - name:
             source: Sex Education
@@ -896,7 +891,7 @@
     - name:
         source: Support & Service Animals
         tx:
-          he: כלבי נחייה ותמיכה
+          he: חיות תמיכה
       slug: human_services:health:support_service_animals
   - name:
       source: Housing
@@ -928,7 +923,7 @@
       - name:
           source: Housing Advice
           tx:
-            he: עצות דיור
+            he: עצות לדיור
         slug: human_services:housing:maintenance_repairs:housing_advice
       - name:
           source: Pest Control
@@ -1038,7 +1033,7 @@
       - name:
           source: Discrimination & Civil Rights
           tx:
-            he: אפליה וזכויות אזרח
+            he: סיוע עם אפליה וזכויות אזרח
         slug: human_services:legal:advocacy_legal_aid:discrimination_civil_rights
       - name:
           source: Guardianship
@@ -1063,7 +1058,7 @@
       - name:
           source: Financial difficulties
           tx:
-            he: קשיים כלכליים
+            he: סיוע בקשיים כלכליים
         slug: human_services:legal:advocacy_legal_aid:financial_difficulties
     - name:
         source: Mediation
@@ -1088,7 +1083,7 @@
   - name:
       source: Money
       tx:
-        he: עזרה כספית
+        he: סיוע כלכלי
     slug: human_services:money
     items:
     - name:
@@ -1100,7 +1095,7 @@
       - name:
           source: Gamach Money
           tx:
-            he: גמ"ח כסף
+            he: גמ"ח בכסף
         slug: human_services:money:financial_assistance:gamach_money
       - name:
           source: Help Pay for Childcare
@@ -1188,7 +1183,7 @@
     - name:
         source: Tax Preparation
         tx:
-          he: הגשת מיסים
+          he: סיוע בהגשת מיסים
       slug: human_services:money:tax_preparation
   - name:
       source: Work
@@ -1909,7 +1904,7 @@
       - name:
           source: Nursing Care
           tx:
-            he: אנשים מצב סיעודי
+            he: אנשים במצב סיעודי
         slug: human_situations:health:treatment_phases:nursing_care
     - name:
         source: Neoplasm
@@ -2036,7 +2031,7 @@
       - name:
           source: Single Parent
           tx:
-            he: משפחות שבראשה הורה עצמאי
+            he: משפחות שבראשן הורה עצמאי
         slug: human_situations:household:families:single_parent
       - name:
           source: Surrogacy
@@ -2398,7 +2393,7 @@
     - name:
         source: Dual Diagnosis
         tx:
-          he: מכורי לאלכוהול וסמים
+          he: מכורי אלכוהול וסמים
       slug: human_situations:substance_dependency:dual_diagnosis
     - name:
         source: Gambling
@@ -2424,7 +2419,7 @@
     - name:
         source: Abuse or Neglect Survivors
         tx:
-          he: אנשים התעללות או הזנחה
+          he: נפגעי התעללות או הזנחה
       slug: human_situations:survivors:abuse_or_neglect_survivors
     - name:
         source: Burn Survivors
@@ -2486,7 +2481,7 @@
     - name:
         source: In Crisis
         tx:
-          he: אנשים משבר נפשי
+          he: אנשים במשבר נפשי
       slug: human_situations:urgency:in_crisis
     - name:
         source: In Danger
