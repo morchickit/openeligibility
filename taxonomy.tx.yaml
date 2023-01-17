@@ -1759,7 +1759,7 @@
     - name:
         source: Employed
         tx:
-          he: אנשם בתעסוקה
+          he: אנשים בתעסוקה
       slug: human_situations:employment:employed
     - name:
         source: Retirement
