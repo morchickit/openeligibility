@@ -1785,12 +1785,12 @@
     - name:
         source: Women
         tx:
-          he: נשים
+          he: נשים בלבד
       slug: human_situations:gender:women
     - name:
         source: Men
         tx:
-          he: גברים
+          he: גברים בלבד
       slug: human_situations:gender:men
     - name:
         source: Transgender

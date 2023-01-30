@@ -82,8 +82,8 @@ human_situations:employment:retirement,Human Situations,מצבים,Employment,ת
 human_situations:employment:self_employed,Human Situations,מצבים,Employment,תעסוקה,Self-employed,עצמאים
 human_situations:employment:unemployed,Human Situations,מצבים,Employment,תעסוקה,Unemployed,מובטלים
 human_situations:gender,Human Situations,מצבים,Gender,מגדר
-human_situations:gender:women,Human Situations,מצבים,Gender,מגדר,Women,נשים
-human_situations:gender:men,Human Situations,מצבים,Gender,מגדר,Men,גברים
+human_situations:gender:women,Human Situations,מצבים,Gender,מגדר,Women,נשים בלבד
+human_situations:gender:men,Human Situations,מצבים,Gender,מגדר,Men,גברים בלבד
 human_situations:gender:transgender,Human Situations,מצבים,Gender,מגדר,Transgender,טרנסג'נדר
 human_situations:gender:non_binary,Human Situations,מצבים,Gender,מגדר,Non-binary,לא בינאריים
 human_situations:health,Human Situations,מצבים,Health,מצבים בריאותיים
