@@ -79,6 +79,8 @@
           slug: human_services:care:support_network:support_group:virtual_support
     - name: Relief for Caregivers
       slug: human_services:care:relief_for_caregivers
+    - name: Crime prevention
+      slug: human_services:care:crime_prevention
   - name: Community Services
     slug: human_services:community_services
     items:
@@ -456,6 +458,11 @@
       slug: human_services:legal:representation
     - name: Legal Translation & Interpretation
       slug: human_services:legal:legal_translation_interpretation
+  - name: Transport
+    slug: human_services:transport
+    items:
+    - name: Shuttle serivce
+      slug: human_services:transport:shuttle_serivce
   - name: Money
     slug: human_services:money
     items:
@@ -470,6 +477,8 @@
         slug: human_services:money:financial_assistance:help_pay_for_food
       - name: Help Pay for Healthcare
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
+      - name: Help to pay for transit
+        slug: human_services:money:financial_assistance:help_to_pay_for_transit
       - name: Help Pay for Housing
         slug: human_services:money:financial_assistance:help_pay_for_housing
         items:
@@ -501,6 +510,8 @@
         slug: human_services:money:loans:personal_loans
     - name: Tax Preparation
       slug: human_services:money:tax_preparation
+    - name: Consumer Rights Protection
+      slug: human_services:money:consumer_rights_protection
   - name: Work
     slug: human_services:work
     items:
@@ -672,6 +683,8 @@
       slug: human_situations:citizenship:residents
     - name: Statusless
       slug: human_situations:citizenship:statusless
+    - name: Returned residents
+      slug: human_situations:citizenship:returned_residents
   - name: Community
     slug: human_situations:community
     items:
@@ -688,6 +701,8 @@
       slug: human_situations:criminal_history:ex_offenders_youth
     - name: Prisoners
       slug: human_situations:criminal_history:prisoners
+    - name: Ex prisoners
+      slug: human_situations:criminal_history:ex_prisoners
     - name: Sexual Perpetrators
       slug: human_situations:criminal_history:sexual_perpetrators
     - name: Violent tendencies
@@ -804,6 +819,12 @@
         slug: human_situations:health:treatment_phases:post_treatment
       - name: Facing End of Life
         slug: human_situations:health:treatment_phases:facing_end_of_life
+      - name: Community care
+        slug: human_situations:health:treatment_phases:community_care
+      - name: Forced Hospitalization
+        slug: human_situations:health:treatment_phases:forced_hospitalization
+      - name: No recognition
+        slug: human_situations:health:treatment_phases:no_recognition
       - name: Home Care
         slug: human_situations:health:treatment_phases:home_care
       - name: Nursing Care
@@ -951,15 +972,6 @@
         slug: human_situations:mental_health:mental_conditions_and_diseases:schizophrenia
       - name: Suicidal Thoughts
         slug: human_situations:mental_health:mental_conditions_and_diseases:suicidal_thoughts
-    - name: Treatment Phases
-      slug: human_situations:mental_health:treatment_phases
-      items:
-      - name: Community care
-        slug: human_situations:mental_health:treatment_phases:community_care
-      - name: Forced Hospitalization
-        slug: human_situations:mental_health:treatment_phases:forced_hospitalization
-      - name: No recognition
-        slug: human_situations:mental_health:treatment_phases:no_recognition
   - name: Role
     slug: human_situations:role
     items:
@@ -1045,6 +1057,8 @@
       slug: human_situations:survivors:prostition_survivors
     - name: Trauma Survivors
       slug: human_situations:survivors:trauma_survivors
+    - name: Offence survivors
+      slug: human_situations:survivors:offence_survivors
   - name: Urgency
     slug: human_situations:urgency
     items:

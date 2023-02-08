@@ -187,6 +187,8 @@
         tx:
           he: הקלה למטפלים
       slug: human_services:care:relief_for_caregivers
+    - name: Crime prevention
+      slug: human_services:care:crime_prevention
   - name:
       source: Community Services
       tx:
@@ -1080,6 +1082,11 @@
         tx:
           he: תרגום משפטי
       slug: human_services:legal:legal_translation_interpretation
+  - name: Transport
+    slug: human_services:transport
+    items:
+    - name: Shuttle serivce
+      slug: human_services:transport:shuttle_serivce
   - name:
       source: Money
       tx:
@@ -1112,6 +1119,8 @@
           tx:
             he: עזרה בתשלומים על שירותי בריאות
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
+      - name: Help to pay for transit
+        slug: human_services:money:financial_assistance:help_to_pay_for_transit
       - name:
           source: Help Pay for Housing
           tx:
@@ -1185,6 +1194,8 @@
         tx:
           he: סיוע בהגשת מיסים
       slug: human_services:money:tax_preparation
+    - name: Consumer Rights Protection
+      slug: human_services:money:consumer_rights_protection
   - name:
       source: Work
       tx:
@@ -1584,6 +1595,8 @@
         tx:
           he: מחוסרי מעמד
       slug: human_situations:citizenship:statusless
+    - name: Returned residents
+      slug: human_situations:citizenship:returned_residents
   - name:
       source: Community
       tx:
@@ -1621,6 +1634,8 @@
         tx:
           he: אסירים
       slug: human_situations:criminal_history:prisoners
+    - name: Ex prisoners
+      slug: human_situations:criminal_history:ex_prisoners
     - name:
         source: Sexual Perpetrators
         tx:
@@ -1896,6 +1911,12 @@
           tx:
             he: אנשים על ערש דווי
         slug: human_situations:health:treatment_phases:facing_end_of_life
+      - name: Community care
+        slug: human_situations:health:treatment_phases:community_care
+      - name: Forced Hospitalization
+        slug: human_situations:health:treatment_phases:forced_hospitalization
+      - name: No recognition
+        slug: human_situations:health:treatment_phases:no_recognition
       - name:
           source: Home Care
           tx:
@@ -2244,27 +2265,6 @@
           tx:
             he: בעלי מחשבות אובדניות
         slug: human_situations:mental_health:mental_conditions_and_diseases:suicidal_thoughts
-    - name:
-        source: Treatment Phases
-        tx:
-          he: שלבי טיפול
-      slug: human_situations:mental_health:treatment_phases
-      items:
-      - name:
-          source: Community care
-          tx:
-            he: טיפול בקהילה
-        slug: human_situations:mental_health:treatment_phases:community_care
-      - name:
-          source: Forced Hospitalization
-          tx:
-            he: אנשים באשפוז כפוי
-        slug: human_situations:mental_health:treatment_phases:forced_hospitalization
-      - name:
-          source: No recognition
-          tx:
-            he: אנשים ללא הכרה במחלה
-        slug: human_situations:mental_health:treatment_phases:no_recognition
   - name:
       source: Role
       tx:
@@ -2467,6 +2467,8 @@
         tx:
           he: נפגעי טראומה
       slug: human_situations:survivors:trauma_survivors
+    - name: Offence survivors
+      slug: human_situations:survivors:offence_survivors
   - name:
       source: Urgency
       tx:
