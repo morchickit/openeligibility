@@ -44,7 +44,7 @@ human_situations:citizenship:palestinians_workers,Human Situations,מצבים,Ci
 human_situations:citizenship:refugees,Human Situations,מצבים,Citizenship,אזרחות ותושבות,Refugees,פליטים
 human_situations:citizenship:residents,Human Situations,מצבים,Citizenship,אזרחות ותושבות,Residents,תושבים (ללא אזרחות)
 human_situations:citizenship:statusless,Human Situations,מצבים,Citizenship,אזרחות ותושבות,Statusless,מחוסרי מעמד
-human_situations:citizenship:returned_residents,Human Situations,מצבים,Citizenship,אזרחות ותושבות,Returned residents,
+human_situations:citizenship:returned_residents,Human Situations,מצבים,Citizenship,אזרחות ותושבות,Returned residents,תושבים חוזרים
 human_situations:community,Human Situations,מצבים,Community,קהילה
 human_situations:community:activists,Human Situations,מצבים,Community,קהילה,Activists,פעילים חברתיים
 human_situations:community:leaders,Human Situations,מצבים,Community,קהילה,Leaders,מנהיגות קהילתית
@@ -52,7 +52,7 @@ human_situations:criminal_history,Human Situations,מצבים,Criminal History,�
 human_situations:criminal_history:ex_offenders,Human Situations,מצבים,Criminal History,פשיעה,Ex-Offenders,בעלי עבר פלילי
 human_situations:criminal_history:ex_offenders_youth,Human Situations,מצבים,Criminal History,פשיעה,Ex-Offenders youth,נוער בעל עבר פלילי
 human_situations:criminal_history:prisoners,Human Situations,מצבים,Criminal History,פשיעה,Prisoners,אסירים
-human_situations:criminal_history:ex_prisoners,Human Situations,מצבים,Criminal History,פשיעה,Ex prisoners,
+human_situations:criminal_history:ex_prisoners,Human Situations,מצבים,Criminal History,פשיעה,Ex prisoners,אסירים לשעבר
 human_situations:criminal_history:sexual_perpetrators,Human Situations,מצבים,Criminal History,פשיעה,Sexual Perpetrators,עברייני מין
 human_situations:criminal_history:violent_tendencies,Human Situations,מצבים,Criminal History,פשיעה,Violent tendencies,עברייני אלימות במשפחה
 human_situations:deprivation,Human Situations,מצבים,Deprivation,רקע אישי
@@ -106,9 +106,9 @@ human_situations:health:treatment_phases:recently_diagnosed,Human Situations,מ�
 human_situations:health:treatment_phases:on_treatment,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,On-Treatment,אנשים בטיפול
 human_situations:health:treatment_phases:post_treatment,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Post-Treatment,אנשים אחרי טיפול
 human_situations:health:treatment_phases:facing_end_of_life,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Facing End of Life,אנשים על ערש דווי
-human_situations:health:treatment_phases:community_care,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Community care,
-human_situations:health:treatment_phases:forced_hospitalization,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Forced Hospitalization,
-human_situations:health:treatment_phases:no_recognition,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,No recognition,
+human_situations:health:treatment_phases:community_care,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Community care,טיפול בקהילה
+human_situations:health:treatment_phases:forced_hospitalization,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Forced Hospitalization,אשפוז כפוי
+human_situations:health:treatment_phases:no_recognition,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,No recognition,ללא הכרה במחלה
 human_situations:health:treatment_phases:home_care,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Home Care,אשפוז ביתי
 human_situations:health:treatment_phases:nursing_care,Human Situations,מצבים,Health,מצבים בריאותיים,Treatment Phases,שלבי טיפול,Nursing Care,אנשים במצב סיעודי
 human_situations:health:neoplasm,Human Situations,מצבים,Health,מצבים בריאותיים,Neoplasm,אנשים עם גידול
@@ -215,7 +215,7 @@ human_situations:survivors:human_trafficking_survivors,Human Situations,מצבי
 human_situations:survivors:natural_disaster_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Natural Disaster Survivors,נפגעי אסון טבע
 human_situations:survivors:prostition_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Prostition Survivors,קורבנות זנות
 human_situations:survivors:trauma_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Trauma Survivors,נפגעי טראומה
-human_situations:survivors:offence_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Offence survivors,
+human_situations:survivors:offence_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Offence survivors,נפגעי עבירה
 human_situations:urgency,Human Situations,מצבים,Urgency,דחיפות
 human_situations:urgency:emergency,Human Situations,מצבים,Urgency,דחיפות,Emergency,מצב חירום
 human_situations:urgency:in_crisis,Human Situations,מצבים,Urgency,דחיפות,In Crisis,אנשים במשבר נפשי

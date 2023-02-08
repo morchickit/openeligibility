@@ -35,7 +35,7 @@ human_services:care:support_network:support_group:bereavement,Human Services,מ�
 human_services:care:support_network:support_group:parenting_education,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה,Support Group,קבוצות תמיכה,Parenting Education,הדרכת הורים
 human_services:care:support_network:support_group:virtual_support,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה,Support Group,קבוצות תמיכה,Virtual Support,תמיכה וירטואלית
 human_services:care:relief_for_caregivers,Human Services,מענים חברתיים,Care,רווחה,Relief for Caregivers,הקלה למטפלים
-human_services:care:crime_prevention,Human Services,מענים חברתיים,Care,רווחה,Crime prevention,
+human_services:care:crime_prevention,Human Services,מענים חברתיים,Care,רווחה,Crime prevention,מניעת פשיעה
 human_services:community_services,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים
 human_services:community_services:community_gardens,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Community Gardens,גינות קהילתיות
 human_services:community_services:computer_or_internet_access,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Computer or Internet Access,מחשוב או גישה לאינטרנט
@@ -208,15 +208,15 @@ human_services:legal:mediation,Human Services,מענים חברתיים,Legal,מ
 human_services:legal:notary,Human Services,מענים חברתיים,Legal,משפטי,Notary,נוטריון
 human_services:legal:representation,Human Services,מענים חברתיים,Legal,משפטי,Representation,ייצוג משפטי
 human_services:legal:legal_translation_interpretation,Human Services,מענים חברתיים,Legal,משפטי,Legal Translation & Interpretation,תרגום משפטי
-human_services:transport,Human Services,מענים חברתיים,Transport,
-human_services:transport:shuttle_serivce,Human Services,מענים חברתיים,Transport,,Shuttle serivce,
+human_services:transport,Human Services,מענים חברתיים,Transport,תחבורה
+human_services:transport:shuttle_serivce,Human Services,מענים חברתיים,Transport,תחבורה,Shuttle serivce,שירותי הסעות
 human_services:money,Human Services,מענים חברתיים,Money,סיוע כלכלי
 human_services:money:financial_assistance,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי
 human_services:money:financial_assistance:gamach_money,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Gamach Money,"גמ""ח בכסף"
 human_services:money:financial_assistance:help_pay_for_childcare,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Childcare,עזרה כספית למסגרות לילדים
 human_services:money:financial_assistance:help_pay_for_food,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Food,סיוע כספי לרכישת מזון
 human_services:money:financial_assistance:help_pay_for_healthcare,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Healthcare,עזרה בתשלומים על שירותי בריאות
-human_services:money:financial_assistance:help_to_pay_for_transit,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help to pay for transit,
+human_services:money:financial_assistance:help_to_pay_for_transit,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help to pay for transit,עזרה לתשלום על תחבורה
 human_services:money:financial_assistance:help_pay_for_housing,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Housing,סיוע בעלות מגורים
 human_services:money:financial_assistance:help_pay_for_housing:help_with_maintenance,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Housing,סיוע בעלות מגורים,Help with Maintenance,עזרה בשיפוצים
 human_services:money:financial_assistance:help_pay_for_housing:help_with_rent,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Assistance,סיוע כספי,Help Pay for Housing,סיוע בעלות מגורים,Help with Rent,עזרה בתשלום שכר דירה
@@ -231,7 +231,7 @@ human_services:money:loans,Human Services,מענים חברתיים,Money,סיו
 human_services:money:loans:business_loans,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Business Loans,הלוואות לעסקים
 human_services:money:loans:personal_loans,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Personal Loans,הלוואות אישיות
 human_services:money:tax_preparation,Human Services,מענים חברתיים,Money,סיוע כלכלי,Tax Preparation,סיוע בהגשת מיסים
-human_services:money:consumer_rights_protection,Human Services,מענים חברתיים,Money,סיוע כלכלי,Consumer Rights Protection,
+human_services:money:consumer_rights_protection,Human Services,מענים חברתיים,Money,סיוע כלכלי,Consumer Rights Protection,הגנת זכויות הצרכן
 human_services:work,Human Services,מענים חברתיים,Work,עבודה
 human_services:work:help_find_work,Human Services,מענים חברתיים,Work,עבודה,Help Find Work,סיוע במציאת עבודה
 human_services:work:skills_training,Human Services,מענים חברתיים,Work,עבודה,Skills & Training,הכשרה מקצועית

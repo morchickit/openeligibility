@@ -187,7 +187,10 @@
         tx:
           he: הקלה למטפלים
       slug: human_services:care:relief_for_caregivers
-    - name: Crime prevention
+    - name:
+        source: Crime prevention
+        tx:
+          he: מניעת פשיעה
       slug: human_services:care:crime_prevention
   - name:
       source: Community Services
@@ -1082,10 +1085,16 @@
         tx:
           he: תרגום משפטי
       slug: human_services:legal:legal_translation_interpretation
-  - name: Transport
+  - name:
+      source: Transport
+      tx:
+        he: תחבורה
     slug: human_services:transport
     items:
-    - name: Shuttle serivce
+    - name:
+        source: Shuttle serivce
+        tx:
+          he: שירותי הסעות
       slug: human_services:transport:shuttle_serivce
   - name:
       source: Money
@@ -1119,7 +1128,10 @@
           tx:
             he: עזרה בתשלומים על שירותי בריאות
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
-      - name: Help to pay for transit
+      - name:
+          source: Help to pay for transit
+          tx:
+            he: עזרה לתשלום על תחבורה
         slug: human_services:money:financial_assistance:help_to_pay_for_transit
       - name:
           source: Help Pay for Housing
@@ -1194,7 +1206,10 @@
         tx:
           he: סיוע בהגשת מיסים
       slug: human_services:money:tax_preparation
-    - name: Consumer Rights Protection
+    - name:
+        source: Consumer Rights Protection
+        tx:
+          he: הגנת זכויות הצרכן
       slug: human_services:money:consumer_rights_protection
   - name:
       source: Work
@@ -1595,7 +1610,10 @@
         tx:
           he: מחוסרי מעמד
       slug: human_situations:citizenship:statusless
-    - name: Returned residents
+    - name:
+        source: Returned residents
+        tx:
+          he: תושבים חוזרים
       slug: human_situations:citizenship:returned_residents
   - name:
       source: Community
@@ -1634,7 +1652,10 @@
         tx:
           he: אסירים
       slug: human_situations:criminal_history:prisoners
-    - name: Ex prisoners
+    - name:
+        source: Ex prisoners
+        tx:
+          he: אסירים לשעבר
       slug: human_situations:criminal_history:ex_prisoners
     - name:
         source: Sexual Perpetrators
@@ -1911,11 +1932,20 @@
           tx:
             he: אנשים על ערש דווי
         slug: human_situations:health:treatment_phases:facing_end_of_life
-      - name: Community care
+      - name:
+          source: Community care
+          tx:
+            he: טיפול בקהילה
         slug: human_situations:health:treatment_phases:community_care
-      - name: Forced Hospitalization
+      - name:
+          source: Forced Hospitalization
+          tx:
+            he: אשפוז כפוי
         slug: human_situations:health:treatment_phases:forced_hospitalization
-      - name: No recognition
+      - name:
+          source: No recognition
+          tx:
+            he: ללא הכרה במחלה
         slug: human_situations:health:treatment_phases:no_recognition
       - name:
           source: Home Care
@@ -2467,7 +2497,10 @@
         tx:
           he: נפגעי טראומה
       slug: human_situations:survivors:trauma_survivors
-    - name: Offence survivors
+    - name:
+        source: Offence survivors
+        tx:
+          he: נפגעי עבירה
       slug: human_situations:survivors:offence_survivors
   - name:
       source: Urgency
