@@ -1,3 +1,4 @@
 requests
 PyYAML
 awesome-slugify
+transifex-python

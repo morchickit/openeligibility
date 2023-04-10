@@ -1,19 +1,14 @@
 from pathlib import Path
 import yaml
-import json
 import requests
 import os
+from transifex.api import transifex_api
 
 
 TRANSIFEX_TOKEN = os.environ.get('TRANSIFEX_TOKEN') or  os.environ.get('TX_TOKEN')
 PROJECT = 'openeligibility'
 
-
-def transifex_session():
-    s = requests.Session()
-    s.auth = ('api', TRANSIFEX_TOKEN)
-    return s
-
+transifex_api.setup(auth=TRANSIFEX_TOKEN)
 
 def transifex_slug(filename):
     return '_'.join(filename.parts).replace('.', '_')
@@ -22,51 +17,43 @@ def transifex_slug(filename):
 def push_translations(filename: Path, translations):
     translations = dict(en=translations)
     content = yaml.dump(translations, allow_unicode=True, indent=2, width=1000000)
-
     slug = transifex_slug(filename)
-    s = transifex_session()
-    resp = s.get(f'https://www.transifex.com/api/2/project/{PROJECT}/resource/{slug}/')
 
-    if resp.status_code == requests.codes.ok:
-        print('Update file:')
-        data = dict(
-            content=content,
-        )
+    organization = transifex_api.Organization.filter(slug="the-public-knowledge-workshop")[0]
+    project = transifex_api.Project.filter(organization=organization, slug=PROJECT)[0]
+    resource = transifex_api.Resource.filter(project=project, slug=slug)
+    YAML_GENERIC = transifex_api.i18n_formats.filter(organization=organization, name='YAML_GENERIC')[0]
 
-        resp = s.put(
-            f'https://www.transifex.com/api/2/project/{PROJECT}/resource/{slug}/content/',
-            json=data
-        )
-        print(resp.status_code, resp.content[:50])
-        
+    if len(resource) > 0:
+        resource = resource[0]
+        print('Update file:', resource, resource.attributes)
+        ret = transifex_api.ResourceStringsAsyncUpload.upload(resource=resource, content=content)
+        print('UPDATE', ret)
+
     else:
-        print('New file:', slug)
-        data = dict(
-            slug=slug,
+        print('New file:')
+        resource = transifex_api.Resource.create(
             name=str(filename),
+            slug=slug,
             accept_translations=True,
-            i18n_type='YAML_GENERIC',
-            content=content,
-        )
-
-        resp = s.post(
-            f'https://www.transifex.com/api/2/project/{PROJECT}/resources/',
-            json=data
-        ) 
-        print(resp.status_code, resp.content[:256])
+            i18n_format=YAML_GENERIC,
+            project=project)
+        ret = transifex_api.ResourceStringsAsyncUpload.upload(resource=resource, content=content)
+        print('NEW', ret)
 
 
 def pull_translations(lang, filename):
-    s = transifex_session()
+
     slug = transifex_slug(filename)
-    url = f'https://www.transifex.com/api/2/project/{PROJECT}/resource/{slug}/translation/{lang}/'
-    try:
-        translations = s.get(url).json()
-    except json.decoder.JSONDecodeError:
-        print('No data from %s' % url)
-        return {}
-    print(yaml.load(translations['content'], Loader=yaml.BaseLoader).keys())
-    translations = yaml.load(translations['content'], Loader=yaml.BaseLoader)['en']
+
+    organization = transifex_api.Organization.filter(slug="the-public-knowledge-workshop")[0]
+    project = transifex_api.Project.filter(organization=organization, slug=PROJECT)[0]
+    resource = transifex_api.Resource.filter(project=project, slug=slug)[0]
+    language = transifex_api.Language.get(code=lang)
+    url = transifex_api.ResourceTranslationsAsyncDownload.download(resource=resource, language=language)
+    translations = requests.get(url).text
+    translations = yaml.load(translations, Loader=yaml.SafeLoader)['en']
+
     ret = dict()
     for k, v in translations.items():
         if v:
