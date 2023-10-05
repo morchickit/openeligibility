@@ -76,10 +76,10 @@ human_situations:education,Human Situations,מצבים,Education,חינוך
 human_situations:education:dropouts,Human Situations,מצבים,Education,חינוך,Dropouts,נשירה ממערכת החינוך
 human_situations:education:gifted_students,Human Situations,מצבים,Education,חינוך,Gifted Students,ילדים מחוננים
 human_situations:education:special_needs,Human Situations,מצבים,Education,חינוך,Special needs,בעלי צרכים מיוחדים
-human_situations:education:students,Human Situations,מצבים,Education,חינוך,Students,אנשים בלימודים אקדמיים
+human_situations:education:students,Human Situations,מצבים,Education,חינוך,Students,סטודנטים
 human_situations:education:yeshiva_students,Human Situations,מצבים,Education,חינוך,Yeshiva students,תלמידי ישיבה
 human_situations:employment,Human Situations,מצבים,Employment,תעסוקה
-human_situations:employment:employed,Human Situations,מצבים,Employment,תעסוקה,Employed,אנשים בתעסוקה
+human_situations:employment:employed,Human Situations,מצבים,Employment,תעסוקה,Employed,שכירים
 human_situations:employment:retirement,Human Situations,מצבים,Employment,תעסוקה,Retirement,אנשים בגמלאות
 human_situations:employment:self_employed,Human Situations,מצבים,Employment,תעסוקה,Self-employed,עצמאים
 human_situations:employment:unemployed,Human Situations,מצבים,Employment,תעסוקה,Unemployed,מובטלים
@@ -179,7 +179,7 @@ human_situations:mental_health:mental_conditions_and_diseases:suicidal_thoughts,
 human_situations:role,Human Situations,מצבים,Role,תפקיד
 human_situations:role:caregivers,Human Situations,מצבים,Role,תפקיד,Caregivers,מטפלים
 human_situations:role:dependents,Human Situations,מצבים,Role,תפקיד,Dependents,תלויים
-human_situations:role:family_caregivers,Human Situations,מצבים,Role,תפקיד,Family Caregivers,משפחות מלוות
+human_situations:role:family_caregivers,Human Situations,מצבים,Role,תפקיד,Family Caregivers,בני משפחה מטפלים
 human_situations:role:spouses,Human Situations,מצבים,Role,תפקיד,Spouses,בני ובנות זוג
 human_situations:sectors,Human Situations,מצבים,Sectors,סקטורים בחברה
 human_situations:sectors:arabs,Human Situations,מצבים,Sectors,סקטורים בחברה,Arabs,החברה הערבית

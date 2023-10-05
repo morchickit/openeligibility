@@ -37,11 +37,6 @@
       slug: human_services:care:guidance
     - name: Eligibility Checks
       slug: human_services:care:eligibility_checks
-      items:
-      - name: Disability committee
-        slug: human_services:care:eligibility_checks:disability_committee
-      - name: Nursing status committee
-        slug: human_services:care:eligibility_checks:nursing_status_committee
     - name: Residential Care
       slug: human_services:care:residential_care
     - name: Recovery

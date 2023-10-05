@@ -15,9 +15,7 @@ human_services:care:childcare:afterschool_care,Human Services,מענים חבר�
 human_services:care:daytime_care,Human Services,מענים חברתיים,Care,רווחה,Daytime Care,מסגרת יום
 human_services:care:early_childhood_intervention,Human Services,מענים חברתיים,Care,רווחה,Early Childhood Intervention,אבחונים
 human_services:care:guidance,Human Services,מענים חברתיים,Care,רווחה,Guidance,ליווי והדרכה
-human_services:care:eligibility_checks,Human Services,מענים חברתיים,Care,רווחה,Eligibility Checks,בדיקות זכאות
-human_services:care:eligibility_checks:disability_committee,Human Services,מענים חברתיים,Care,רווחה,Eligibility Checks,בדיקות זכאות,Disability committee,ועדת נכות
-human_services:care:eligibility_checks:nursing_status_committee,Human Services,מענים חברתיים,Care,רווחה,Eligibility Checks,בדיקות זכאות,Nursing status committee,ועדה לקביעת מצב סיעודי
+human_services:care:eligibility_checks,Human Services,מענים חברתיים,Care,רווחה,Eligibility Checks,בדיקת קצבאות לקצבה
 human_services:care:residential_care,Human Services,מענים חברתיים,Care,רווחה,Residential Care,מסגרת טיפולית ביתית
 human_services:care:recovery,Human Services,מענים חברתיים,Care,רווחה,Recovery,שיקום חברתי
 human_services:care:recovery:vacations,Human Services,מענים חברתיים,Care,רווחה,Recovery,שיקום חברתי,Vacations,נופשונים

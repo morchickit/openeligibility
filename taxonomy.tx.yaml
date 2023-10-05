@@ -86,19 +86,8 @@
     - name:
         source: Eligibility Checks
         tx:
-          he: בדיקות זכאות
+          he: בדיקת קצבאות לקצבה
       slug: human_services:care:eligibility_checks
-      items:
-      - name:
-          source: Disability committee
-          tx:
-            he: ועדת נכות
-        slug: human_services:care:eligibility_checks:disability_committee
-      - name:
-          source: Nursing status committee
-          tx:
-            he: ועדה לקביעת מצב סיעודי
-        slug: human_services:care:eligibility_checks:nursing_status_committee
     - name:
         source: Residential Care
         tx:
@@ -1779,7 +1768,7 @@
     - name:
         source: Students
         tx:
-          he: אנשים בלימודים אקדמיים
+          he: סטודנטים
       slug: human_situations:education:students
     - name:
         source: Yeshiva students
@@ -1795,7 +1784,7 @@
     - name:
         source: Employed
         tx:
-          he: אנשים בתעסוקה
+          he: שכירים
       slug: human_situations:employment:employed
     - name:
         source: Retirement
@@ -2314,7 +2303,7 @@
     - name:
         source: Family Caregivers
         tx:
-          he: משפחות מלוות
+          he: בני משפחה מטפלים
       slug: human_situations:role:family_caregivers
     - name:
         source: Spouses
