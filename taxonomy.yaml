@@ -113,6 +113,8 @@
     items:
     - name: Help Find School
       slug: human_services:education:help_find_school
+    - name: Respite Activities
+      slug: human_services:education:respite_activities
     - name: Education Institutions
       slug: human_services:education:education_institutions
       items:
@@ -207,6 +209,10 @@
       slug: human_services:emergency:emergency_shelter
     - name: Help Find Missing Persons
       slug: human_services:emergency:help_find_missing_persons
+    - name: Financial Aid in Emergencies
+      slug: human_services:emergency:financial_aid_in_emergencies
+    - name: Animal Assistance
+      slug: human_services:emergency:animal_assistance
   - name: Food
     slug: human_services:food
     items:
@@ -1052,8 +1058,14 @@
       slug: human_situations:survivors:prostition_survivors
     - name: Trauma Survivors
       slug: human_situations:survivors:trauma_survivors
-    - name: Offence survivors
+    - name: Offence Survivors
       slug: human_situations:survivors:offence_survivors
+    - name: Evacuees
+      slug: human_situations:survivors:evacuees
+    - name: Wounded
+      slug: human_situations:survivors:wounded
+    - name: Families of Missing Persons
+      slug: human_situations:survivors:families_of_missing_persons
   - name: Urgency
     slug: human_situations:urgency
     items:

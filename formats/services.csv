@@ -51,6 +51,7 @@ human_services:community_services:social_club,Human Services,מענים חברת
 human_services:community_services:summer_camps,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Summer Camps,קייטנות
 human_services:education,Human Services,מענים חברתיים,Education,חינוך
 human_services:education:help_find_school,Human Services,מענים חברתיים,Education,חינוך,Help Find School,עזרה במציאת בית ספר
+human_services:education:respite_activities,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,
 human_services:education:education_institutions,Human Services,מענים חברתיים,Education,חינוך,Education Institutions,מוסדות חינוך
 human_services:education:education_institutions:nursery,Human Services,מענים חברתיים,Education,חינוך,Education Institutions,מוסדות חינוך,Nursery,מעונות לילדים
 human_services:education:education_institutions:kindergarten,Human Services,מענים חברתיים,Education,חינוך,Education Institutions,מוסדות חינוך,Kindergarten,גני ילדים
@@ -94,6 +95,8 @@ human_services:emergency:emergency_food,Human Services,מענים חברתיים
 human_services:emergency:emergency_helplines,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helplines,קווי סיוע בחירום
 human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט חירום
 human_services:emergency:help_find_missing_persons,Human Services,מענים חברתיים,Emergency,חירום,Help Find Missing Persons,איתור נעדרים
+human_services:emergency:financial_aid_in_emergencies,Human Services,מענים חברתיים,Emergency,חירום,Financial Aid in Emergencies,
+human_services:emergency:animal_assistance,Human Services,מענים חברתיים,Emergency,חירום,Animal Assistance,
 human_services:food,Human Services,מענים חברתיים,Food,מזון
 human_services:food:food_delivery,Human Services,מענים חברתיים,Food,מזון,Food Delivery,סלי מזון לנזקקים
 human_services:food:food_pantry,Human Services,מענים חברתיים,Food,מזון,Food Pantry,בתי תמחוי
@@ -111,9 +114,9 @@ human_services:health:addiction_recovery:drug_testing,Human Services,מענים 
 human_services:health:addiction_recovery:medications_for_addiction,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Medications for Addiction,תרופות להתמכרות
 human_services:health:addiction_recovery:substance_abuse_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Substance Abuse Counseling,ייעוץ רגשי למתמכרים
 human_services:health:dental_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Dental Care,טיפולי שיניים
-human_services:health:emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי חירום
-human_services:health:emergency_services:psychiatric_emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי חירום,Psychiatric Emergency Services,שירותי חירום פסיכיאטריים
-human_services:health:emergency_services:dental_emergency_service,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי חירום,Dental Emergency Service,טיפולי שיניים בחירום
+human_services:health:emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי בריאות בחירום
+human_services:health:emergency_services:psychiatric_emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי בריאות בחירום,Psychiatric Emergency Services,שירותי חירום פסיכיאטריים
+human_services:health:emergency_services:dental_emergency_service,Human Services,מענים חברתיים,Health,שירותי בריאות,Emergency Services,שירותי בריאות בחירום,Dental Emergency Service,טיפולי שיניים בחירום
 human_services:health:help_find_healthcare,Human Services,מענים חברתיים,Health,שירותי בריאות,Help Find Healthcare,עזרה במציאת טיפול רפואי
 human_services:health:end_of_life_care,Human Services,מענים חברתיים,Health,שירותי בריאות,End-of-Life Care,טיפול במצב סופני
 human_services:health:health_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך לבריאות

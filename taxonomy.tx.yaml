@@ -269,6 +269,8 @@
         tx:
           he: עזרה במציאת בית ספר
       slug: human_services:education:help_find_school
+    - name: Respite Activities
+      slug: human_services:education:respite_activities
     - name:
         source: Education Institutions
         tx:
@@ -492,6 +494,10 @@
         tx:
           he: איתור נעדרים
       slug: human_services:emergency:help_find_missing_persons
+    - name: Financial Aid in Emergencies
+      slug: human_services:emergency:financial_aid_in_emergencies
+    - name: Animal Assistance
+      slug: human_services:emergency:animal_assistance
   - name:
       source: Food
       tx:
@@ -584,7 +590,7 @@
     - name:
         source: Emergency Services
         tx:
-          he: שירותי חירום
+          he: שירותי בריאות בחירום
       slug: human_services:health:emergency_services
       items:
       - name:
@@ -2487,10 +2493,16 @@
           he: נפגעי טראומה
       slug: human_situations:survivors:trauma_survivors
     - name:
-        source: Offence survivors
+        source: Offence Survivors
         tx:
           he: נפגעי עבירה
       slug: human_situations:survivors:offence_survivors
+    - name: Evacuees
+      slug: human_situations:survivors:evacuees
+    - name: Wounded
+      slug: human_situations:survivors:wounded
+    - name: Families of Missing Persons
+      slug: human_situations:survivors:families_of_missing_persons
   - name:
       source: Urgency
       tx:
