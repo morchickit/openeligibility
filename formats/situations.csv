@@ -215,10 +215,11 @@ human_situations:survivors:human_trafficking_survivors,Human Situations,מצבי
 human_situations:survivors:natural_disaster_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Natural Disaster Survivors,נפגעי אסון טבע
 human_situations:survivors:prostition_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Prostition Survivors,קורבנות זנות
 human_situations:survivors:trauma_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Trauma Survivors,נפגעי טראומה
-human_situations:survivors:offence_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Offence Survivors,נפגעי עבירה
-human_situations:survivors:evacuees,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Evacuees,
-human_situations:survivors:wounded,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Wounded,
-human_situations:survivors:families_of_missing_persons,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Families of Missing Persons,
+human_situations:survivors:offence_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Offence Survivors,
+human_situations:survivors:evacuees,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Evacuees,מפונים
+human_situations:survivors:wounded,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Wounded,פצועים
+human_situations:survivors:families_of_missing_persons,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Families of Missing Persons,משפחות של נעדרים
+human_situations:survivors:victims_of_terror,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Victims of Terror,
 human_situations:urgency,Human Situations,מצבים,Urgency,דחיפות
 human_situations:urgency:emergency,Human Situations,מצבים,Urgency,דחיפות,Emergency,מצב חירום
 human_situations:urgency:in_crisis,Human Situations,מצבים,Urgency,דחיפות,In Crisis,אנשים במשבר נפשי

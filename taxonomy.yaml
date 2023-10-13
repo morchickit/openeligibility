@@ -1066,6 +1066,8 @@
       slug: human_situations:survivors:wounded
     - name: Families of Missing Persons
       slug: human_situations:survivors:families_of_missing_persons
+    - name: Victims of Terror
+      slug: human_situations:survivors:victims_of_terror
   - name: Urgency
     slug: human_situations:urgency
     items:

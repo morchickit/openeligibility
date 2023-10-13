@@ -51,7 +51,7 @@ human_services:community_services:social_club,Human Services,מענים חברת
 human_services:community_services:summer_camps,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Summer Camps,קייטנות
 human_services:education,Human Services,מענים חברתיים,Education,חינוך
 human_services:education:help_find_school,Human Services,מענים חברתיים,Education,חינוך,Help Find School,עזרה במציאת בית ספר
-human_services:education:respite_activities,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,
+human_services:education:respite_activities,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,פעילויות הפוגה
 human_services:education:education_institutions,Human Services,מענים חברתיים,Education,חינוך,Education Institutions,מוסדות חינוך
 human_services:education:education_institutions:nursery,Human Services,מענים חברתיים,Education,חינוך,Education Institutions,מוסדות חינוך,Nursery,מעונות לילדים
 human_services:education:education_institutions:kindergarten,Human Services,מענים חברתיים,Education,חינוך,Education Institutions,מוסדות חינוך,Kindergarten,גני ילדים
@@ -95,8 +95,8 @@ human_services:emergency:emergency_food,Human Services,מענים חברתיים
 human_services:emergency:emergency_helplines,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helplines,קווי סיוע בחירום
 human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט חירום
 human_services:emergency:help_find_missing_persons,Human Services,מענים חברתיים,Emergency,חירום,Help Find Missing Persons,איתור נעדרים
-human_services:emergency:financial_aid_in_emergencies,Human Services,מענים חברתיים,Emergency,חירום,Financial Aid in Emergencies,
-human_services:emergency:animal_assistance,Human Services,מענים חברתיים,Emergency,חירום,Animal Assistance,
+human_services:emergency:financial_aid_in_emergencies,Human Services,מענים חברתיים,Emergency,חירום,Financial Aid in Emergencies,סיוע כספי בחירום
+human_services:emergency:animal_assistance,Human Services,מענים חברתיים,Emergency,חירום,Animal Assistance,סיוע לבעלי חיים בחירום
 human_services:food,Human Services,מענים חברתיים,Food,מזון
 human_services:food:food_delivery,Human Services,מענים חברתיים,Food,מזון,Food Delivery,סלי מזון לנזקקים
 human_services:food:food_pantry,Human Services,מענים חברתיים,Food,מזון,Food Pantry,בתי תמחוי
