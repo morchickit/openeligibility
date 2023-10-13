@@ -219,7 +219,7 @@ human_situations:survivors:offence_survivors,Human Situations,מצבים,Survivo
 human_situations:survivors:evacuees,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Evacuees,מפונים
 human_situations:survivors:wounded,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Wounded,פצועים
 human_situations:survivors:families_of_missing_persons,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Families of Missing Persons,משפחות של נעדרים
-human_situations:survivors:victims_of_terror,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Victims of Terror,
+human_situations:survivors:victims_of_terror,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Victims of Terror,שורדי פעולות איבה
 human_situations:urgency,Human Situations,מצבים,Urgency,דחיפות
 human_situations:urgency:emergency,Human Situations,מצבים,Urgency,דחיפות,Emergency,מצב חירום
 human_situations:urgency:in_crisis,Human Situations,מצבים,Urgency,דחיפות,In Crisis,אנשים במשבר נפשי

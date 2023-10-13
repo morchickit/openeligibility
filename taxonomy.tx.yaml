@@ -2518,7 +2518,10 @@
         tx:
           he: משפחות של נעדרים
       slug: human_situations:survivors:families_of_missing_persons
-    - name: Victims of Terror
+    - name:
+        source: Victims of Terror
+        tx:
+          he: שורדי פעולות איבה
       slug: human_situations:survivors:victims_of_terror
   - name:
       source: Urgency
