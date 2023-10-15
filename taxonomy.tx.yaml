@@ -485,7 +485,7 @@
     - name:
         source: Emergency Helplines
         tx:
-          he: קווי סיוע בחירום
+          he: הכוונה לשירותים בחירום
       slug: human_services:emergency:emergency_helplines
     - name:
         source: Emergency Shelter
@@ -507,6 +507,8 @@
         tx:
           he: סיוע לבעלי חיים בחירום
       slug: human_services:emergency:animal_assistance
+    - name: Emergency Mental Assistance
+      slug: human_services:emergency:emergency_mental_assistance
   - name:
       source: Food
       tx:
@@ -911,7 +913,7 @@
     - name:
         source: Emergency Shelter
         tx:
-          he: דיור חירומי
+          he: דיור ואירוח חירומי
       slug: human_services:housing:emergency_shelter
     - name:
         source: Help Find Housing

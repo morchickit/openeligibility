@@ -213,6 +213,8 @@
       slug: human_services:emergency:financial_aid_in_emergencies
     - name: Animal Assistance
       slug: human_services:emergency:animal_assistance
+    - name: Emergency Mental Assistance
+      slug: human_services:emergency:emergency_mental_assistance
   - name: Food
     slug: human_services:food
     items:

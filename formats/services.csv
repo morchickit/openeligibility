@@ -92,11 +92,12 @@ human_services:education:skills_training:daily_life_skills,Human Services,מענ
 human_services:emergency,Human Services,מענים חברתיים,Emergency,חירום
 human_services:emergency:disaster_response,Human Services,מענים חברתיים,Emergency,חירום,Disaster Response,תגובה לאסונות
 human_services:emergency:emergency_food,Human Services,מענים חברתיים,Emergency,חירום,Emergency Food,מזון בחירום
-human_services:emergency:emergency_helplines,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helplines,קווי סיוע בחירום
+human_services:emergency:emergency_helplines,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helplines,הכוונה לשירותים בחירום
 human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט חירום
 human_services:emergency:help_find_missing_persons,Human Services,מענים חברתיים,Emergency,חירום,Help Find Missing Persons,איתור נעדרים
 human_services:emergency:financial_aid_in_emergencies,Human Services,מענים חברתיים,Emergency,חירום,Financial Aid in Emergencies,סיוע כספי בחירום
 human_services:emergency:animal_assistance,Human Services,מענים חברתיים,Emergency,חירום,Animal Assistance,סיוע לבעלי חיים בחירום
+human_services:emergency:emergency_mental_assistance,Human Services,מענים חברתיים,Emergency,חירום,Emergency Mental Assistance,
 human_services:food,Human Services,מענים חברתיים,Food,מזון
 human_services:food:food_delivery,Human Services,מענים חברתיים,Food,מזון,Food Delivery,סלי מזון לנזקקים
 human_services:food:food_pantry,Human Services,מענים חברתיים,Food,מזון,Food Pantry,בתי תמחוי
@@ -174,7 +175,7 @@ human_services:health:sexual_reproductive_health:womens_health:postnatal_care,Hu
 human_services:health:skilled_nursing,Human Services,מענים חברתיים,Health,שירותי בריאות,Skilled Nursing,טיפול על ידי אחות
 human_services:health:support_service_animals,Human Services,מענים חברתיים,Health,שירותי בריאות,Support & Service Animals,חיות תמיכה
 human_services:housing,Human Services,מענים חברתיים,Housing,דיור
-human_services:housing:emergency_shelter,Human Services,מענים חברתיים,Housing,דיור,Emergency Shelter,דיור חירומי
+human_services:housing:emergency_shelter,Human Services,מענים חברתיים,Housing,דיור,Emergency Shelter,דיור ואירוח חירומי
 human_services:housing:help_find_housing,Human Services,מענים חברתיים,Housing,דיור,Help Find Housing,עזרה במציאת דיור
 human_services:housing:maintenance_repairs,Human Services,מענים חברתיים,Housing,דיור,Maintenance & Repairs,תיקונים ושיפוצים
 human_services:housing:maintenance_repairs:disability_modifications,Human Services,מענים חברתיים,Housing,דיור,Maintenance & Repairs,תיקונים ושיפוצים,Disability Modifications,התאמות לבית
