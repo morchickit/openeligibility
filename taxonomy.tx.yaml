@@ -1103,7 +1103,7 @@
     - name:
         source: Shuttle serivce
         tx:
-          he: שירותי הסעות
+          he: הסעות
       slug: human_services:transport:shuttle_serivce
   - name:
       source: Money
