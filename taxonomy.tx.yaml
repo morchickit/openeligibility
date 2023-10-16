@@ -507,7 +507,10 @@
         tx:
           he: סיוע לבעלי חיים בחירום
       slug: human_services:emergency:animal_assistance
-    - name: Emergency Mental Assistance
+    - name:
+        source: Emergency Mental Assistance
+        tx:
+          he: סיוע נפשי בחירום
       slug: human_services:emergency:emergency_mental_assistance
   - name:
       source: Food
