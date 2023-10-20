@@ -485,7 +485,7 @@
     - name:
         source: Emergency Helplines
         tx:
-          he: הכוונה לשירותים בחירום
+          he: הכוונה בחירום
       slug: human_services:emergency:emergency_helplines
     - name:
         source: Emergency Shelter
@@ -541,7 +541,7 @@
   - name:
       source: Goods
       tx:
-        he: חפצים
+        he: ציוד וחפצים
     slug: human_services:goods
     items:
     - name:

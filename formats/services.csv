@@ -92,7 +92,7 @@ human_services:education:skills_training:daily_life_skills,Human Services,מענ
 human_services:emergency,Human Services,מענים חברתיים,Emergency,חירום
 human_services:emergency:disaster_response,Human Services,מענים חברתיים,Emergency,חירום,Disaster Response,תגובה לאסונות
 human_services:emergency:emergency_food,Human Services,מענים חברתיים,Emergency,חירום,Emergency Food,מזון בחירום
-human_services:emergency:emergency_helplines,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helplines,הכוונה לשירותים בחירום
+human_services:emergency:emergency_helplines,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helplines,הכוונה בחירום
 human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט חירום
 human_services:emergency:help_find_missing_persons,Human Services,מענים חברתיים,Emergency,חירום,Help Find Missing Persons,איתור נעדרים
 human_services:emergency:financial_aid_in_emergencies,Human Services,מענים חברתיים,Emergency,חירום,Financial Aid in Emergencies,סיוע כספי בחירום
@@ -103,11 +103,11 @@ human_services:food:food_delivery,Human Services,מענים חברתיים,Food,
 human_services:food:food_pantry,Human Services,מענים חברתיים,Food,מזון,Food Pantry,בתי תמחוי
 human_services:food:nutrition,Human Services,מענים חברתיים,Food,מזון,Nutrition,תזונה
 human_services:food:nutrition_education,Human Services,מענים חברתיים,Food,מזון,Nutrition Education,חינוך תזונתי
-human_services:goods,Human Services,מענים חברתיים,Goods,חפצים
-human_services:goods:baby_supplies,Human Services,מענים חברתיים,Goods,חפצים,Baby Supplies,מוצרי תינוקות
-human_services:goods:clothing,Human Services,מענים חברתיים,Goods,חפצים,Clothing,בגדים
-human_services:goods:home_goods,Human Services,מענים חברתיים,Goods,חפצים,Home Goods,מוצרים לבית
-human_services:goods:toys_gifts,Human Services,מענים חברתיים,Goods,חפצים,Toys & Gifts,צעצועים ומתנות
+human_services:goods,Human Services,מענים חברתיים,Goods,ציוד וחפצים
+human_services:goods:baby_supplies,Human Services,מענים חברתיים,Goods,ציוד וחפצים,Baby Supplies,מוצרי תינוקות
+human_services:goods:clothing,Human Services,מענים חברתיים,Goods,ציוד וחפצים,Clothing,בגדים
+human_services:goods:home_goods,Human Services,מענים חברתיים,Goods,ציוד וחפצים,Home Goods,מוצרים לבית
+human_services:goods:toys_gifts,Human Services,מענים חברתיים,Goods,ציוד וחפצים,Toys & Gifts,צעצועים ומתנות
 human_services:health,Human Services,מענים חברתיים,Health,שירותי בריאות
 human_services:health:addiction_recovery,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות
 human_services:health:addiction_recovery:detox,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Detox,גמילה ראשונית
