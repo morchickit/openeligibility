@@ -215,6 +215,10 @@
       slug: human_services:emergency:animal_assistance
     - name: Emergency Mental Assistance
       slug: human_services:emergency:emergency_mental_assistance
+    - name: Farming Assistance
+      slug: human_services:emergency:farming_assistance
+    - name: Fortification
+      slug: human_services:emergency:fortification
   - name: Food
     slug: human_services:food
     items:
@@ -771,6 +775,8 @@
       slug: human_situations:employment:self_employed
     - name: Unemployed
       slug: human_situations:employment:unemployed
+    - name: Farmers
+      slug: human_situations:employment:farmers
   - name: Gender
     slug: human_situations:gender
     items:
