@@ -512,9 +512,15 @@
         tx:
           he: סיוע נפשי בחירום
       slug: human_services:emergency:emergency_mental_assistance
-    - name: Farming Assistance
+    - name:
+        source: Farming Assistance
+        tx:
+          he: סיוע בחקלאות
       slug: human_services:emergency:farming_assistance
-    - name: Fortification
+    - name:
+        source: Fortification
+        tx:
+          he: מיגון
       slug: human_services:emergency:fortification
   - name:
       source: Food
@@ -1825,7 +1831,10 @@
         tx:
           he: מובטלים
       slug: human_situations:employment:unemployed
-    - name: Farmers
+    - name:
+        source: Farmers
+        tx:
+          he: חקלאים
       slug: human_situations:employment:farmers
   - name:
       source: Gender

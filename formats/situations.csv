@@ -83,7 +83,7 @@ human_situations:employment:employed,Human Situations,מצבים,Employment,תע
 human_situations:employment:retirement,Human Situations,מצבים,Employment,תעסוקה,Retirement,אנשים בגמלאות
 human_situations:employment:self_employed,Human Situations,מצבים,Employment,תעסוקה,Self-employed,עצמאים
 human_situations:employment:unemployed,Human Situations,מצבים,Employment,תעסוקה,Unemployed,מובטלים
-human_situations:employment:farmers,Human Situations,מצבים,Employment,תעסוקה,Farmers,
+human_situations:employment:farmers,Human Situations,מצבים,Employment,תעסוקה,Farmers,חקלאים
 human_situations:gender,Human Situations,מצבים,Gender,מגדר
 human_situations:gender:women,Human Situations,מצבים,Gender,מגדר,Women,נשים בלבד
 human_situations:gender:men,Human Situations,מצבים,Gender,מגדר,Men,גברים בלבד

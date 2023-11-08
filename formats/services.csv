@@ -98,8 +98,8 @@ human_services:emergency:help_find_missing_persons,Human Services,מענים ח�
 human_services:emergency:financial_aid_in_emergencies,Human Services,מענים חברתיים,Emergency,חירום,Financial Aid in Emergencies,סיוע כספי בחירום
 human_services:emergency:animal_assistance,Human Services,מענים חברתיים,Emergency,חירום,Animal Assistance,סיוע לבעלי חיים בחירום
 human_services:emergency:emergency_mental_assistance,Human Services,מענים חברתיים,Emergency,חירום,Emergency Mental Assistance,סיוע נפשי בחירום
-human_services:emergency:farming_assistance,Human Services,מענים חברתיים,Emergency,חירום,Farming Assistance,
-human_services:emergency:fortification,Human Services,מענים חברתיים,Emergency,חירום,Fortification,
+human_services:emergency:farming_assistance,Human Services,מענים חברתיים,Emergency,חירום,Farming Assistance,סיוע בחקלאות
+human_services:emergency:fortification,Human Services,מענים חברתיים,Emergency,חירום,Fortification,מיגון
 human_services:food,Human Services,מענים חברתיים,Food,מזון
 human_services:food:food_delivery,Human Services,מענים חברתיים,Food,מזון,Food Delivery,סלי מזון לנזקקים
 human_services:food:food_pantry,Human Services,מענים חברתיים,Food,מזון,Food Pantry,בתי תמחוי
