@@ -553,6 +553,8 @@
       slug: human_services:culture_and_sports:fine_art
     - name: Cinema
       slug: human_services:culture_and_sports:cinema
+    - name: Commemoration
+      slug: human_services:culture_and_sports:commemoration
     - name: Exhibitions
       slug: human_services:culture_and_sports:exhibitions
     - name: Choirs

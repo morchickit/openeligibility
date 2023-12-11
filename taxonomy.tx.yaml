@@ -1309,6 +1309,8 @@
         tx:
           he: קולנוע
       slug: human_services:culture_and_sports:cinema
+    - name: Commemoration
+      slug: human_services:culture_and_sports:commemoration
     - name:
         source: Exhibitions
         tx:
