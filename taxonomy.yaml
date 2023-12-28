@@ -563,6 +563,8 @@
       slug: human_services:culture_and_sports:dance
     - name: Digital Art
       slug: human_services:culture_and_sports:digital_art
+    - name: Documentation
+      slug: human_services:culture_and_sports:documentation
     - name: Exercise & Fitness
       slug: human_services:culture_and_sports:exercise_fitness
     - name: Hasbara

@@ -1312,7 +1312,7 @@
     - name:
         source: Commemoration
         tx:
-          he: תיעוד והנצחה
+          he: הנצחה
       slug: human_services:culture_and_sports:commemoration
     - name:
         source: Exhibitions
@@ -1334,6 +1334,8 @@
         tx:
           he: אומנות דיגיטלית
       slug: human_services:culture_and_sports:digital_art
+    - name: Documentation
+      slug: human_services:culture_and_sports:documentation
     - name:
         source: Exercise & Fitness
         tx:
