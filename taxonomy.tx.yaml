@@ -1334,7 +1334,10 @@
         tx:
           he: אומנות דיגיטלית
       slug: human_services:culture_and_sports:digital_art
-    - name: Documentation
+    - name:
+        source: Documentation
+        tx:
+          he: תיעוד
       slug: human_services:culture_and_sports:documentation
     - name:
         source: Exercise & Fitness
