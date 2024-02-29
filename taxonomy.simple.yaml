@@ -2,75 +2,51 @@
   - Care:
     - Accessibility:
       - Translation
-    - Adoption & Foster Care:
-      - Adoption Counseling
-      - Adoption & Foster Placement
-      - Adoption Planning
-      - Post-Adoption Support
+    - Adoption & Foster Care
     - Aid Center
-    - Childcare:
-      - Help Find Childcare
-      - Afterschool Care
     - Daytime Care
     - Early Childhood Intervention
     - Guidance
-    - Eligibility Checks
-    - Residential Care
-    - Recovery:
-      - Vacations
-      - Vocational Rehabilitation
-    - Support Network:
-      - Help Hotlines
-      - Home Visiting
-      - In-Home Support
-      - Mentoring
-      - One-on-One Support
-      - Spiritual Support
-      - Support Group:
-        - 12-Step
-        - Bereavement
-        - Parenting Education
-        - Virtual Support
+    - Recovery
+    - Risk Assessment
+    - Support Network
+    - Help Hotlines
+    - Home Visiting
+    - In-Home Support
+    - Mentoring
+    - One-on-One Support
+    - Spiritual Support
+    - Support Group:
+      - Bereavement
+      - Parenting Education
+      - Virtual Support
     - Relief for Caregivers
-    - Crime prevention 
+    - Vacations
+
 
   - Community Services:
     - Community Gardens
     - Computer or Internet Access
-    - Community center
-    - Libraries
-    - Helplines
     - Olim Support
     - Recreation
     - Religious Services:
-      - Synagogues
-      - Mosques
-      - Churches
       - Altenative Religious Services
     - Social Club
     - Summer Camps
 
   - Education:
-    - Help Find School
+    - Afterschool Care
     - Respite Activities
-    - Education Institutions:
-      - Nursery
-      - Kindergarten
-      - Primary School
-      - Middle School
-      - High School:
-        - High School Yeshiva
-        - Ulpana
-        - Youth Villages
       - Further Education:
         - Engineering
         - Yeshiva and Kollel
       - Academia
+        - College Readiness
     - Special Education
+    - Integration in Education
     - More Education:
       - Alternative Education
       - Civic Engagement
-      - College Readiness
       - Army Readiness
       - National Service Readiness
       - English as a Second Language (ESL)
@@ -80,7 +56,6 @@
       - Prep - Mechina:
         - Army Prep
         - University Prep
-      - Tutoring
       - Youth Development
       - Youth Movement
     - Leadership development
@@ -118,13 +93,13 @@
   - Health:
     - Addiction & Recovery:
       - Detox
-      - Drug Testing
       - Medications for Addiction
       - Substance Abuse Counseling
+      - Support groups
     - Dental Care
     - Emergency Services:
-      - Psychiatric Emergency Services
-      - Dental Emergency Service
+    - Psychiatric Emergency Services
+    - Dental Emergency Service
     - Help Find Healthcare
     - End-of-Life Care
     - Health Education
@@ -141,8 +116,10 @@
         - Voluntary Hospitalization
         - Hospitalization Alternative
         - Home Hospitalization
+    - Medical Supplies:
+      - Assistive Technology
+      - Prosthesis
     - Prevent & Treat:
-      - Allied Health
       - Alternative Medicine
       - Checkup & Test:
         - Disease Screening
@@ -150,23 +127,17 @@
         - Genetic Testing
         - Hearing Tests
         - Pregnancy Tests
-      - Medical Supplies:
-        - Assistive Technology
-        - Prosthesis
-      - Clinics
-      - Disease Management
       - Hospital Treatment
       - In-Home Support
-      - Medication Management
       - Occupational Therapy
       - Pain Management
       - Physical Therapy
       - Rehabilitation
-      - Residential Treatment
       - Specialized Therapy
       - Speech Therapy
       - Vaccinations
       - Eye Care
+    - Residential Treatment
     - Personal Hygiene
     - Primary Care
     - Sexual & Reproductive Health:
@@ -187,8 +158,6 @@
     - Help Find Housing
     - Maintenance & Repairs:
       - Disability Modifications
-      - Housing Advice
-      - Pest Control
       - Small repairs
     - Public Housing
     - Residential Housing:
@@ -197,21 +166,18 @@
         - Hostel
         - Independent Living
         - Nursing Home
-        - Training Apartments
         - Old Age Home
         - Satellite Apartments
-        - Safe Housing
-      - Short-Term Housing
-    - Temporary Shelter:
-      - Shelters from Violence
+    - Short-Term Housing:
       - Transit Flats
+      - Shelters from Violence
+
 
   - Legal:
     - Advocacy & Legal Aid:
       - Citizenship & Immigration
       - Discrimination & Civil Rights
       - Guardianship
-      - Identification Recovery
       - Understand Government Programs
       - Workplace Rights
       - Financial difficulties 
@@ -229,10 +195,6 @@
       - Help Pay for Childcare
       - Help Pay for Food
       - Help Pay for Healthcare
-      - Help to pay for transit 
-      - Help Pay for Housing:
-        - Help with Maintenance
-        - Help with Rent
       - Help Pay for School:
         - Books
         - Clothes for School
@@ -252,8 +214,6 @@
     - Skills & Training:
       - Interview Training
       - Resume Development
-      - Skills Assessment
-      - Specialized Training
       - Vocational Courses
     - Special Employment:
       - Supported Employment
@@ -301,6 +261,7 @@
     - Police
   - Benefit Holders:
     - Social Security:
+      - Bereaved Families of Terror
       - Disability
       - Income Security
       - Nursing Care
@@ -311,9 +272,6 @@
     - Holocaust Survivors 
     - Ministry of Health:
       - Rehabilitation Basket 
-    - Ministry of Defense:
-      - Injured while On Duty
-      - Bereaved Families
   - Citizenship:
     - Citizens
     - Foreign Residents
@@ -321,7 +279,6 @@
       - Agriculture and Building
       - Nursing
       - Experts
-    - Immigrants
     - Olim
     - Palestinians Workers
     - Refugees
@@ -339,10 +296,10 @@
     - Sexual Perpetrators
     - Violent tendencies
   - Deprivation:
+    - At risk youth
     - Geographical Periphery
     - Social Periphary
-    - Health Deprivation
-    - Education / skills Deprivation
+    - Low-Income
   - Disability:
     - Autistic spectrum
     - Deaf or Hard of Hearing
@@ -361,6 +318,8 @@
     - Special needs
     - Students
     - Yeshiva students
+    - Struggling students
+    - Learnong disorders
   - Employment:
     - Employed
     - Retirement
@@ -373,6 +332,7 @@
     - Transgender
     - Non-binary
   - Health:
+    - Allergies
     - Chronic Illness
     - Endocrine, nutritional or metabolic diseases:
       - Type 1 Diabetes
@@ -384,25 +344,19 @@
       - HIV/AIDS
       - COVID19
     - Treatment Phases:
-      - All Care Phases
       - Hospitalized
-      - Recently Diagnosed
-      - On-Treatment
       - Post-Treatment
       - Facing End of Life
-      - Community care
-      - Forced Hospitalization
-      - No recognition
       - Home Care
       - Nursing Care
-    - Neoplasm:
-      - Cancer
+    - Neoplasm
     - Nervous System Disease:
       - Stroke
       - Epilepsy
       - Alzheimer disease
       - Parkinson's
     - Neurodevelopmental Disorders
+    - Overweight
     - Pregnant
     - Rare diseases:
       - Familial Dysautonomia
@@ -431,9 +385,6 @@
     - Public Housing Tenants
     - Recipients of Housing Assistance
     - Runaways
-  - Income:
-    - Benefit Recipients
-    - Low-Income
   - Language:
     - Arabic Speaking
     - Amharic Speaking
@@ -484,10 +435,10 @@
     - LGBTQ
   - Substance Dependency:
     - Alcohol Dependency
-    - Dual Diagnosis
     - Gambling
     - Opioid Dependency
     - Smoker
+    - Painkillers
   - Survivors:
     - Abuse or Neglect Survivors
     - Burn Survivors
@@ -508,3 +459,25 @@
     - Emergency
     - In Crisis
     - In Danger
+
+- Places:
+  - Community center
+  - Libraries
+  - Synagogues
+  - Mosques
+  - Churches
+  - Education Institutions:
+    - Nursery
+    - Kindergarten
+    - Primary School
+    - Middle School
+    - High School:
+      - High School Yeshiva
+      - Ulpana
+      - Youth Villages
+    - Clinics 
+      - Mental Health Clinics
+      - GP clinics
+      - Well baby clinics
+    - Hospital 
+    - Government service point
