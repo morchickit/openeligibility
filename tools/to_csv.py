@@ -38,10 +38,11 @@ def write(filelike, filepath, headers=None):
 
 def run():
     with io.open(Path('taxonomy.tx.yaml')) as f:
-        services, situations = yaml.safe_load(f)
+        services, situations, places = yaml.safe_load(f)
 
     write(flatten(services), 'services.csv', HEADERS)
     write(flatten(situations), 'situations.csv', HEADERS)
+    write(flatten(places), 'places.csv', HEADERS)
 
 
 if __name__ == '__main__':
