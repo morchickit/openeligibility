@@ -11,71 +11,45 @@
         slug: human_services:care:accessibility:translation
     - name: Adoption & Foster Care
       slug: human_services:care:adoption_foster_care
-      items:
-      - name: Adoption Counseling
-        slug: human_services:care:adoption_foster_care:adoption_counseling
-      - name: Adoption & Foster Placement
-        slug: human_services:care:adoption_foster_care:adoption_foster_placement
-      - name: Adoption Planning
-        slug: human_services:care:adoption_foster_care:adoption_planning
-      - name: Post-Adoption Support
-        slug: human_services:care:adoption_foster_care:post_adoption_support
     - name: Aid Center
       slug: human_services:care:aid_center
-    - name: Childcare
-      slug: human_services:care:childcare
-      items:
-      - name: Help Find Childcare
-        slug: human_services:care:childcare:help_find_childcare
-      - name: Afterschool Care
-        slug: human_services:care:childcare:afterschool_care
     - name: Daytime Care
       slug: human_services:care:daytime_care
     - name: Early Childhood Intervention
       slug: human_services:care:early_childhood_intervention
     - name: Guidance
       slug: human_services:care:guidance
-    - name: Eligibility Checks
-      slug: human_services:care:eligibility_checks
-    - name: Residential Care
-      slug: human_services:care:residential_care
     - name: Recovery
       slug: human_services:care:recovery
-      items:
-      - name: Vacations
-        slug: human_services:care:recovery:vacations
-      - name: Vocational Rehabilitation
-        slug: human_services:care:recovery:vocational_rehabilitation
+    - name: Risk Assessment
+      slug: human_services:care:risk_assessment
     - name: Support Network
       slug: human_services:care:support_network
+    - name: Help Hotlines
+      slug: human_services:care:help_hotlines
+    - name: Home Visiting
+      slug: human_services:care:home_visiting
+    - name: In-Home Support
+      slug: human_services:care:in_home_support
+    - name: Mentoring
+      slug: human_services:care:mentoring
+    - name: One-on-One Support
+      slug: human_services:care:one_on_one_support
+    - name: Spiritual Support
+      slug: human_services:care:spiritual_support
+    - name: Support Group
+      slug: human_services:care:support_group
       items:
-      - name: Help Hotlines
-        slug: human_services:care:support_network:help_hotlines
-      - name: Home Visiting
-        slug: human_services:care:support_network:home_visiting
-      - name: In-Home Support
-        slug: human_services:care:support_network:in_home_support
-      - name: Mentoring
-        slug: human_services:care:support_network:mentoring
-      - name: One-on-One Support
-        slug: human_services:care:support_network:one_on_one_support
-      - name: Spiritual Support
-        slug: human_services:care:support_network:spiritual_support
-      - name: Support Group
-        slug: human_services:care:support_network:support_group
-        items:
-        - name: 12-Step
-          slug: human_services:care:support_network:support_group:12_step
-        - name: Bereavement
-          slug: human_services:care:support_network:support_group:bereavement
-        - name: Parenting Education
-          slug: human_services:care:support_network:support_group:parenting_education
-        - name: Virtual Support
-          slug: human_services:care:support_network:support_group:virtual_support
+      - name: Bereavement
+        slug: human_services:care:support_group:bereavement
+      - name: Parenting Education
+        slug: human_services:care:support_group:parenting_education
+      - name: Virtual Support
+        slug: human_services:care:support_group:virtual_support
     - name: Relief for Caregivers
       slug: human_services:care:relief_for_caregivers
-    - name: Crime prevention
-      slug: human_services:care:crime_prevention
+    - name: Vacations
+      slug: human_services:care:vacations
   - name: Community Services
     slug: human_services:community_services
     items:
@@ -83,12 +57,6 @@
       slug: human_services:community_services:community_gardens
     - name: Computer or Internet Access
       slug: human_services:community_services:computer_or_internet_access
-    - name: Community center
-      slug: human_services:community_services:community_center
-    - name: Libraries
-      slug: human_services:community_services:libraries
-    - name: Helplines
-      slug: human_services:community_services:helplines
     - name: Olim Support
       slug: human_services:community_services:olim_support
     - name: Recreation
@@ -96,12 +64,6 @@
     - name: Religious Services
       slug: human_services:community_services:religious_services
       items:
-      - name: Synagogues
-        slug: human_services:community_services:religious_services:synagogues
-      - name: Mosques
-        slug: human_services:community_services:religious_services:mosques
-      - name: Churches
-        slug: human_services:community_services:religious_services:churches
       - name: Altenative Religious Services
         slug: human_services:community_services:religious_services:altenative_religious_services
     - name: Social Club
@@ -111,41 +73,27 @@
   - name: Education
     slug: human_services:education
     items:
-    - name: Help Find School
-      slug: human_services:education:help_find_school
+    - name: Afterschool Care
+      slug: human_services:education:afterschool_care
     - name: Respite Activities
       slug: human_services:education:respite_activities
-    - name: Education Institutions
-      slug: human_services:education:education_institutions
       items:
-      - name: Nursery
-        slug: human_services:education:education_institutions:nursery
-      - name: Kindergarten
-        slug: human_services:education:education_institutions:kindergarten
-      - name: Primary School
-        slug: human_services:education:education_institutions:primary_school
-      - name: Middle School
-        slug: human_services:education:education_institutions:middle_school
-      - name: High School
-        slug: human_services:education:education_institutions:high_school
-        items:
-        - name: High School Yeshiva
-          slug: human_services:education:education_institutions:high_school:high_school_yeshiva
-        - name: Ulpana
-          slug: human_services:education:education_institutions:high_school:ulpana
-        - name: Youth Villages
-          slug: human_services:education:education_institutions:high_school:youth_villages
       - name: Further Education
-        slug: human_services:education:education_institutions:further_education
+        slug: human_services:education:respite_activities:further_education
         items:
         - name: Engineering
-          slug: human_services:education:education_institutions:further_education:engineering
+          slug: human_services:education:respite_activities:further_education:engineering
         - name: Yeshiva and Kollel
-          slug: human_services:education:education_institutions:further_education:yeshiva_and_kollel
+          slug: human_services:education:respite_activities:further_education:yeshiva_and_kollel
       - name: Academia
-        slug: human_services:education:education_institutions:academia
+        slug: human_services:education:respite_activities:academia
+        items:
+        - name: College Readiness
+          slug: human_services:education:respite_activities:academia:college_readiness
     - name: Special Education
       slug: human_services:education:special_education
+    - name: Integration in Education
+      slug: human_services:education:integration_in_education
     - name: More Education
       slug: human_services:education:more_education
       items:
@@ -153,8 +101,6 @@
         slug: human_services:education:more_education:alternative_education
       - name: Civic Engagement
         slug: human_services:education:more_education:civic_engagement
-      - name: College Readiness
-        slug: human_services:education:more_education:college_readiness
       - name: Army Readiness
         slug: human_services:education:more_education:army_readiness
       - name: National Service Readiness
@@ -174,8 +120,6 @@
           slug: human_services:education:more_education:prep_mechina:army_prep
         - name: University Prep
           slug: human_services:education:more_education:prep_mechina:university_prep
-      - name: Tutoring
-        slug: human_services:education:more_education:tutoring
       - name: Youth Development
         slug: human_services:education:more_education:youth_development
       - name: Youth Movement
@@ -249,21 +193,18 @@
       items:
       - name: Detox
         slug: human_services:health:addiction_recovery:detox
-      - name: Drug Testing
-        slug: human_services:health:addiction_recovery:drug_testing
       - name: Medications for Addiction
         slug: human_services:health:addiction_recovery:medications_for_addiction
       - name: Substance Abuse Counseling
         slug: human_services:health:addiction_recovery:substance_abuse_counseling
+      - name: Support groups
+        slug: human_services:health:addiction_recovery:support_groups
     - name: Dental Care
       slug: human_services:health:dental_care
-    - name: Emergency Services
-      slug: human_services:health:emergency_services
-      items:
-      - name: Psychiatric Emergency Services
-        slug: human_services:health:emergency_services:psychiatric_emergency_services
-      - name: Dental Emergency Service
-        slug: human_services:health:emergency_services:dental_emergency_service
+    - name: Psychiatric Emergency Services
+      slug: human_services:health:psychiatric_emergency_services
+    - name: Dental Emergency Service
+      slug: human_services:health:dental_emergency_service
     - name: Help Find Healthcare
       slug: human_services:health:help_find_healthcare
     - name: End-of-Life Care
@@ -299,11 +240,16 @@
           slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative
         - name: Home Hospitalization
           slug: human_services:health:mental_health_care:hospitalization:home_hospitalization
+    - name: Medical Supplies
+      slug: human_services:health:medical_supplies
+      items:
+      - name: Assistive Technology
+        slug: human_services:health:medical_supplies:assistive_technology
+      - name: Prosthesis
+        slug: human_services:health:medical_supplies:prosthesis
     - name: Prevent & Treat
       slug: human_services:health:prevent_treat
       items:
-      - name: Allied Health
-        slug: human_services:health:prevent_treat:allied_health
       - name: Alternative Medicine
         slug: human_services:health:prevent_treat:alternative_medicine
       - name: Checkup & Test
@@ -319,23 +265,10 @@
           slug: human_services:health:prevent_treat:checkup_test:hearing_tests
         - name: Pregnancy Tests
           slug: human_services:health:prevent_treat:checkup_test:pregnancy_tests
-      - name: Medical Supplies
-        slug: human_services:health:prevent_treat:medical_supplies
-        items:
-        - name: Assistive Technology
-          slug: human_services:health:prevent_treat:medical_supplies:assistive_technology
-        - name: Prosthesis
-          slug: human_services:health:prevent_treat:medical_supplies:prosthesis
-      - name: Clinics
-        slug: human_services:health:prevent_treat:clinics
-      - name: Disease Management
-        slug: human_services:health:prevent_treat:disease_management
       - name: Hospital Treatment
         slug: human_services:health:prevent_treat:hospital_treatment
       - name: In-Home Support
         slug: human_services:health:prevent_treat:in_home_support
-      - name: Medication Management
-        slug: human_services:health:prevent_treat:medication_management
       - name: Occupational Therapy
         slug: human_services:health:prevent_treat:occupational_therapy
       - name: Pain Management
@@ -344,8 +277,6 @@
         slug: human_services:health:prevent_treat:physical_therapy
       - name: Rehabilitation
         slug: human_services:health:prevent_treat:rehabilitation
-      - name: Residential Treatment
-        slug: human_services:health:prevent_treat:residential_treatment
       - name: Specialized Therapy
         slug: human_services:health:prevent_treat:specialized_therapy
       - name: Speech Therapy
@@ -354,6 +285,8 @@
         slug: human_services:health:prevent_treat:vaccinations
       - name: Eye Care
         slug: human_services:health:prevent_treat:eye_care
+    - name: Residential Treatment
+      slug: human_services:health:residential_treatment
     - name: Personal Hygiene
       slug: human_services:health:personal_hygiene
     - name: Primary Care
@@ -398,10 +331,6 @@
       items:
       - name: Disability Modifications
         slug: human_services:housing:maintenance_repairs:disability_modifications
-      - name: Housing Advice
-        slug: human_services:housing:maintenance_repairs:housing_advice
-      - name: Pest Control
-        slug: human_services:housing:maintenance_repairs:pest_control
       - name: Small repairs
         slug: human_services:housing:maintenance_repairs:small_repairs
     - name: Public Housing
@@ -420,23 +349,17 @@
           slug: human_services:housing:residential_housing:long_term_housing:independent_living
         - name: Nursing Home
           slug: human_services:housing:residential_housing:long_term_housing:nursing_home
-        - name: Training Apartments
-          slug: human_services:housing:residential_housing:long_term_housing:training_apartments
         - name: Old Age Home
           slug: human_services:housing:residential_housing:long_term_housing:old_age_home
         - name: Satellite Apartments
           slug: human_services:housing:residential_housing:long_term_housing:satellite_apartments
-        - name: Safe Housing
-          slug: human_services:housing:residential_housing:long_term_housing:safe_housing
-      - name: Short-Term Housing
-        slug: human_services:housing:residential_housing:short_term_housing
-    - name: Temporary Shelter
-      slug: human_services:housing:temporary_shelter
+    - name: Short-Term Housing
+      slug: human_services:housing:short_term_housing
       items:
-      - name: Shelters from Violence
-        slug: human_services:housing:temporary_shelter:shelters_from_violence
       - name: Transit Flats
-        slug: human_services:housing:temporary_shelter:transit_flats
+        slug: human_services:housing:short_term_housing:transit_flats
+      - name: Shelters from Violence
+        slug: human_services:housing:short_term_housing:shelters_from_violence
   - name: Legal
     slug: human_services:legal
     items:
@@ -449,8 +372,6 @@
         slug: human_services:legal:advocacy_legal_aid:discrimination_civil_rights
       - name: Guardianship
         slug: human_services:legal:advocacy_legal_aid:guardianship
-      - name: Identification Recovery
-        slug: human_services:legal:advocacy_legal_aid:identification_recovery
       - name: Understand Government Programs
         slug: human_services:legal:advocacy_legal_aid:understand_government_programs
       - name: Workplace Rights
@@ -484,15 +405,6 @@
         slug: human_services:money:financial_assistance:help_pay_for_food
       - name: Help Pay for Healthcare
         slug: human_services:money:financial_assistance:help_pay_for_healthcare
-      - name: Help to pay for transit
-        slug: human_services:money:financial_assistance:help_to_pay_for_transit
-      - name: Help Pay for Housing
-        slug: human_services:money:financial_assistance:help_pay_for_housing
-        items:
-        - name: Help with Maintenance
-          slug: human_services:money:financial_assistance:help_pay_for_housing:help_with_maintenance
-        - name: Help with Rent
-          slug: human_services:money:financial_assistance:help_pay_for_housing:help_with_rent
       - name: Help Pay for School
         slug: human_services:money:financial_assistance:help_pay_for_school
         items:
@@ -531,10 +443,6 @@
         slug: human_services:work:skills_training:interview_training
       - name: Resume Development
         slug: human_services:work:skills_training:resume_development
-      - name: Skills Assessment
-        slug: human_services:work:skills_training:skills_assessment
-      - name: Specialized Training
-        slug: human_services:work:skills_training:specialized_training
       - name: Vocational Courses
         slug: human_services:work:skills_training:vocational_courses
     - name: Special Employment
@@ -638,6 +546,8 @@
     - name: Social Security
       slug: human_situations:benefit_holders:social_security
       items:
+      - name: Bereaved Families of Terror
+        slug: human_situations:benefit_holders:social_security:bereaved_families_of_terror
       - name: Disability
         slug: human_situations:benefit_holders:social_security:disability
       - name: Income Security
@@ -659,13 +569,6 @@
       items:
       - name: Rehabilitation Basket
         slug: human_situations:benefit_holders:ministry_of_health:rehabilitation_basket
-    - name: Ministry of Defense
-      slug: human_situations:benefit_holders:ministry_of_defense
-      items:
-      - name: Injured while On Duty
-        slug: human_situations:benefit_holders:ministry_of_defense:injured_while_on_duty
-      - name: Bereaved Families
-        slug: human_situations:benefit_holders:ministry_of_defense:bereaved_families
   - name: Citizenship
     slug: human_situations:citizenship
     items:
@@ -682,8 +585,6 @@
         slug: human_situations:citizenship:foreign_workers:nursing
       - name: Experts
         slug: human_situations:citizenship:foreign_workers:experts
-    - name: Immigrants
-      slug: human_situations:citizenship:immigrants
     - name: Olim
       slug: human_situations:citizenship:olim
     - name: Palestinians Workers
@@ -721,14 +622,14 @@
   - name: Deprivation
     slug: human_situations:deprivation
     items:
+    - name: At risk youth
+      slug: human_situations:deprivation:at_risk_youth
     - name: Geographical Periphery
       slug: human_situations:deprivation:geographical_periphery
     - name: Social Periphary
       slug: human_situations:deprivation:social_periphary
-    - name: Health Deprivation
-      slug: human_situations:deprivation:health_deprivation
-    - name: Education / skills Deprivation
-      slug: human_situations:deprivation:education_skills_deprivation
+    - name: Low-Income
+      slug: human_situations:deprivation:low_income
   - name: Disability
     slug: human_situations:disability
     items:
@@ -768,6 +669,10 @@
       slug: human_situations:education:students
     - name: Yeshiva students
       slug: human_situations:education:yeshiva_students
+    - name: Struggling students
+      slug: human_situations:education:struggling_students
+    - name: Learning disorders
+      slug: human_situations:education:learning_disorders
   - name: Employment
     slug: human_situations:employment
     items:
@@ -795,6 +700,8 @@
   - name: Health
     slug: human_situations:health
     items:
+    - name: Allergies
+      slug: human_situations:health:allergies
     - name: Chronic Illness
       slug: human_situations:health:chronic_illness
     - name: Endocrine, nutritional or metabolic diseases
@@ -820,33 +727,18 @@
     - name: Treatment Phases
       slug: human_situations:health:treatment_phases
       items:
-      - name: All Care Phases
-        slug: human_situations:health:treatment_phases:all_care_phases
       - name: Hospitalized
         slug: human_situations:health:treatment_phases:hospitalized
-      - name: Recently Diagnosed
-        slug: human_situations:health:treatment_phases:recently_diagnosed
-      - name: On-Treatment
-        slug: human_situations:health:treatment_phases:on_treatment
       - name: Post-Treatment
         slug: human_situations:health:treatment_phases:post_treatment
       - name: Facing End of Life
         slug: human_situations:health:treatment_phases:facing_end_of_life
-      - name: Community care
-        slug: human_situations:health:treatment_phases:community_care
-      - name: Forced Hospitalization
-        slug: human_situations:health:treatment_phases:forced_hospitalization
-      - name: No recognition
-        slug: human_situations:health:treatment_phases:no_recognition
       - name: Home Care
         slug: human_situations:health:treatment_phases:home_care
       - name: Nursing Care
         slug: human_situations:health:treatment_phases:nursing_care
     - name: Neoplasm
       slug: human_situations:health:neoplasm
-      items:
-      - name: Cancer
-        slug: human_situations:health:neoplasm:cancer
     - name: Nervous System Disease
       slug: human_situations:health:nervous_system_disease
       items:
@@ -860,6 +752,8 @@
         slug: human_situations:health:nervous_system_disease:parkinsons
     - name: Neurodevelopmental Disorders
       slug: human_situations:health:neurodevelopmental_disorders
+    - name: Overweight
+      slug: human_situations:health:overweight
     - name: Pregnant
       slug: human_situations:health:pregnant
     - name: Rare diseases
@@ -922,13 +816,6 @@
       slug: human_situations:housing:recipients_of_housing_assistance
     - name: Runaways
       slug: human_situations:housing:runaways
-  - name: Income
-    slug: human_situations:income
-    items:
-    - name: Benefit Recipients
-      slug: human_situations:income:benefit_recipients
-    - name: Low-Income
-      slug: human_situations:income:low_income
   - name: Language
     slug: human_situations:language
     items:
@@ -1038,14 +925,14 @@
     items:
     - name: Alcohol Dependency
       slug: human_situations:substance_dependency:alcohol_dependency
-    - name: Dual Diagnosis
-      slug: human_situations:substance_dependency:dual_diagnosis
     - name: Gambling
       slug: human_situations:substance_dependency:gambling
     - name: Opioid Dependency
       slug: human_situations:substance_dependency:opioid_dependency
     - name: Smoker
       slug: human_situations:substance_dependency:smoker
+    - name: Painkillers
+      slug: human_situations:substance_dependency:painkillers
   - name: Survivors
     slug: human_situations:survivors
     items:
@@ -1089,3 +976,58 @@
       slug: human_situations:urgency:in_crisis
     - name: In Danger
       slug: human_situations:urgency:in_danger
+- name: Human Places
+  slug: human_places
+  items:
+  - name: Community
+    slug: human_places:community
+    items:
+    - name: Community Center
+      slug: human_places:community:community_center
+    - name: Library
+      slug: human_places:community:library
+  - name: Religion
+    slug: human_places:religion
+    items:
+    - name: Synagogue
+      slug: human_places:religion:synagogue
+    - name: Mosque
+      slug: human_places:religion:mosque
+    - name: Church
+      slug: human_places:religion:church
+  - name: Education
+    slug: human_places:education
+    items:
+    - name: Nursery
+      slug: human_places:education:nursery
+    - name: Kindergarten
+      slug: human_places:education:kindergarten
+    - name: Primary School
+      slug: human_places:education:primary_school
+    - name: Middle School
+      slug: human_places:education:middle_school
+    - name: High School
+      slug: human_places:education:high_school
+      items:
+      - name: High School Yeshiva
+        slug: human_places:education:high_school:high_school_yeshiva
+      - name: Ulpana
+        slug: human_places:education:high_school:ulpana
+      - name: Youth Villages
+        slug: human_places:education:high_school:youth_villages
+  - name: Health
+    slug: human_places:health
+    items:
+    - name: Clinic
+      slug: human_places:health:clinic
+      items:
+      - name: Mental Health Clinic
+        slug: human_places:health:clinic:mental_health_clinic
+      - name: GP Clinic
+        slug: human_places:health:clinic:gp_clinic
+      - name: Well Baby Clinic
+        slug: human_places:health:clinic:well_baby_clinic
+    - name: Hospital
+      slug: human_places:health:hospital
+  - name: Government Service Point
+    slug: human_places:government_service_point
