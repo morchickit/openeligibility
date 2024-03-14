@@ -460,12 +460,14 @@
     - In Danger
 
 - Human Places:
-  - Community center
-  - Libraries
-  - Synagogues
-  - Mosques
-  - Churches
-  - Education Institutions:
+  - Community:
+    - Community center
+    - Library
+  - Religion: 
+    - Synagogue
+    - Mosque
+    - Churche
+  - Education:
     - Nursery
     - Kindergarten
     - Primary School
@@ -474,9 +476,10 @@
       - High School Yeshiva
       - Ulpana
       - Youth Villages
-    - Clinics 
+  - Health:
+    - Clinics: 
       - Mental Health Clinics
       - GP clinics
       - Well baby clinics
     - Hospital 
-    - Government service point
+  - Government service point
