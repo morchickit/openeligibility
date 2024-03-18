@@ -1,25 +1,25 @@
 slug,level0:name_en,level0:name_he,level1:name_en,level1:name_he,level2:name_en,level2:name_he
-human_places,Human Places,
-human_places:community,Human Places,,Community,
-human_places:community:community_center,Human Places,,Community,,Community Center,
-human_places:community:library,Human Places,,Community,,Library,
-human_places:religion,Human Places,,Religion,
-human_places:religion:synagogue,Human Places,,Religion,,Synagogue,
-human_places:religion:mosque,Human Places,,Religion,,Mosque,
-human_places:religion:church,Human Places,,Religion,,Church,
-human_places:education,Human Places,,Education,
-human_places:education:nursery,Human Places,,Education,,Nursery,
-human_places:education:kindergarten,Human Places,,Education,,Kindergarten,
-human_places:education:primary_school,Human Places,,Education,,Primary School,
-human_places:education:middle_school,Human Places,,Education,,Middle School,
-human_places:education:high_school,Human Places,,Education,,High School,
-human_places:education:high_school:high_school_yeshiva,Human Places,,Education,,High School,,High School Yeshiva,
-human_places:education:high_school:ulpana,Human Places,,Education,,High School,,Ulpana,
-human_places:education:high_school:youth_villages,Human Places,,Education,,High School,,Youth Villages,
-human_places:health,Human Places,,Health,
-human_places:health:clinic,Human Places,,Health,,Clinic,
-human_places:health:clinic:mental_health_clinic,Human Places,,Health,,Clinic,,Mental Health Clinic,
-human_places:health:clinic:gp_clinic,Human Places,,Health,,Clinic,,GP Clinic,
-human_places:health:clinic:well_baby_clinic,Human Places,,Health,,Clinic,,Well Baby Clinic,
-human_places:health:hospital,Human Places,,Health,,Hospital,
-human_places:government_service_point,Human Places,,Government Service Point,
+human_places,Human Places,מקומות
+human_places:community,Human Places,מקומות,Community,קהילה
+human_places:community:community_center,Human Places,מקומות,Community,קהילה,Community Center,"מתנ""ס"
+human_places:community:library,Human Places,מקומות,Community,קהילה,Library,ספרייה
+human_places:religion,Human Places,מקומות,Religion,דת
+human_places:religion:synagogue,Human Places,מקומות,Religion,דת,Synagogue,בית כנסת
+human_places:religion:mosque,Human Places,מקומות,Religion,דת,Mosque,מסגד
+human_places:religion:church,Human Places,מקומות,Religion,דת,Church,כנסייה
+human_places:education,Human Places,מקומות,Education,חינוך
+human_places:education:nursery,Human Places,מקומות,Education,חינוך,Nursery,פעוטון
+human_places:education:kindergarten,Human Places,מקומות,Education,חינוך,Kindergarten,גן ילדים
+human_places:education:primary_school,Human Places,מקומות,Education,חינוך,Primary School,בית ספר יסודי
+human_places:education:middle_school,Human Places,מקומות,Education,חינוך,Middle School,חטיבת ביניים
+human_places:education:high_school,Human Places,מקומות,Education,חינוך,High School,בית ספר תיכון
+human_places:education:high_school:high_school_yeshiva,Human Places,מקומות,Education,חינוך,High School,בית ספר תיכון,High School Yeshiva,ישיבה תיכונית
+human_places:education:high_school:ulpana,Human Places,מקומות,Education,חינוך,High School,בית ספר תיכון,Ulpana,אולפנה
+human_places:education:high_school:youth_villages,Human Places,מקומות,Education,חינוך,High School,בית ספר תיכון,Youth Villages,כפר נוער
+human_places:health,Human Places,מקומות,Health,בריאות
+human_places:health:clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה
+human_places:health:clinic:mental_health_clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה,Mental Health Clinic,מרפאות בריאות הנפש
+human_places:health:clinic:gp_clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה,GP Clinic,קופת חולים
+human_places:health:clinic:well_baby_clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה,Well Baby Clinic,טיפת חלב
+human_places:health:hospital,Human Places,מקומות,Health,בריאות,Hospital,בית חולים
+human_places:government_service_point,Human Places,מקומות,Government Service Point,עמדת שירות ממשלתי

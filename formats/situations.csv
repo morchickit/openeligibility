@@ -18,7 +18,7 @@ human_situations:armed_forces:veterans,Human Situations,מצבים,Armed Forces,
 human_situations:armed_forces:police,Human Situations,מצבים,Armed Forces,אנשי צבא וביטחון,Police,כוחות המשטרה
 human_situations:benefit_holders,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות
 human_situations:benefit_holders:social_security,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי
-human_situations:benefit_holders:social_security:bereaved_families_of_terror,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Bereaved Families of Terror,
+human_situations:benefit_holders:social_security:bereaved_families_of_terror,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Bereaved Families of Terror,משפחות חללי פעולות איבה
 human_situations:benefit_holders:social_security:disability,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Disability,מקבלי קצבאת נכות
 human_situations:benefit_holders:social_security:income_security,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Income Security,מקבלי הבטחת הכנסה
 human_situations:benefit_holders:social_security:nursing_care,Human Situations,מצבים,Benefit Holders,מקבלי קצבאות והטבות,Social Security,מוכרות מביטוח לאומי,Nursing Care,מקבלי קבצת סיעוד
@@ -53,10 +53,10 @@ human_situations:criminal_history:ex_prisoners,Human Situations,מצבים,Crimi
 human_situations:criminal_history:sexual_perpetrators,Human Situations,מצבים,Criminal History,פשיעה,Sexual Perpetrators,עברייני מין
 human_situations:criminal_history:violent_tendencies,Human Situations,מצבים,Criminal History,פשיעה,Violent tendencies,עברייני אלימות במשפחה
 human_situations:deprivation,Human Situations,מצבים,Deprivation,רקע אישי
-human_situations:deprivation:at_risk_youth,Human Situations,מצבים,Deprivation,רקע אישי,At risk youth,
+human_situations:deprivation:at_risk_youth,Human Situations,מצבים,Deprivation,רקע אישי,At risk youth,נוער בסיכון
 human_situations:deprivation:geographical_periphery,Human Situations,מצבים,Deprivation,רקע אישי,Geographical Periphery,אנשים מפריפריה גיאוגרפית
 human_situations:deprivation:social_periphary,Human Situations,מצבים,Deprivation,רקע אישי,Social Periphary,אנשים מפריפריה חברתית
-human_situations:deprivation:low_income,Human Situations,מצבים,Deprivation,רקע אישי,Low-Income,
+human_situations:deprivation:low_income,Human Situations,מצבים,Deprivation,רקע אישי,Low-Income,בעלי הכנסה נמוכה
 human_situations:disability,Human Situations,מצבים,Disability,מוגבלויות
 human_situations:disability:autistic_spectrum,Human Situations,מצבים,Disability,מוגבלויות,Autistic spectrum,אוטיסטים
 human_situations:disability:deaf_or_hard_of_hearing,Human Situations,מצבים,Disability,מוגבלויות,Deaf or Hard of Hearing,בעלי חרשות או שמיעה מוגבלת
@@ -75,8 +75,8 @@ human_situations:education:gifted_students,Human Situations,מצבים,Education
 human_situations:education:special_needs,Human Situations,מצבים,Education,חינוך,Special needs,בעלי צרכים מיוחדים
 human_situations:education:students,Human Situations,מצבים,Education,חינוך,Students,סטודנטים
 human_situations:education:yeshiva_students,Human Situations,מצבים,Education,חינוך,Yeshiva students,תלמידי ישיבה
-human_situations:education:struggling_students,Human Situations,מצבים,Education,חינוך,Struggling students,
-human_situations:education:learning_disorders,Human Situations,מצבים,Education,חינוך,Learning disorders,
+human_situations:education:struggling_students,Human Situations,מצבים,Education,חינוך,Struggling students,תלמידים מתקשים
+human_situations:education:learning_disorders,Human Situations,מצבים,Education,חינוך,Learning disorders,בעלי הפרעות למידה
 human_situations:employment,Human Situations,מצבים,Employment,תעסוקה
 human_situations:employment:employed,Human Situations,מצבים,Employment,תעסוקה,Employed,שכירים
 human_situations:employment:retirement,Human Situations,מצבים,Employment,תעסוקה,Retirement,אנשים בגמלאות
@@ -89,7 +89,7 @@ human_situations:gender:men,Human Situations,מצבים,Gender,מגדר,Men,גב
 human_situations:gender:transgender,Human Situations,מצבים,Gender,מגדר,Transgender,טרנסג'נדר
 human_situations:gender:non_binary,Human Situations,מצבים,Gender,מגדר,Non-binary,לא בינאריים
 human_situations:health,Human Situations,מצבים,Health,מצבים בריאותיים
-human_situations:health:allergies,Human Situations,מצבים,Health,מצבים בריאותיים,Allergies,
+human_situations:health:allergies,Human Situations,מצבים,Health,מצבים בריאותיים,Allergies,אלרגיות
 human_situations:health:chronic_illness,Human Situations,מצבים,Health,מצבים בריאותיים,Chronic Illness,חולים כרוניים
 human_situations:health:endocrine_nutritional_or_metabolic_diseases,Human Situations,מצבים,Health,מצבים בריאותיים,"Endocrine, nutritional or metabolic diseases",חולי מחלות אנדוקריניות
 human_situations:health:endocrine_nutritional_or_metabolic_diseases:type_1_diabetes,Human Situations,מצבים,Health,מצבים בריאותיים,"Endocrine, nutritional or metabolic diseases",חולי מחלות אנדוקריניות,Type 1 Diabetes,חולי סכרת נעורים
@@ -113,7 +113,7 @@ human_situations:health:nervous_system_disease:epilepsy,Human Situations,מצב�
 human_situations:health:nervous_system_disease:alzheimer_disease,Human Situations,מצבים,Health,מצבים בריאותיים,Nervous System Disease,חולי מחלות של מערכת העצבים והמח,Alzheimer disease,חולי אלצהיימר ומחלות דמנציה
 human_situations:health:nervous_system_disease:parkinsons,Human Situations,מצבים,Health,מצבים בריאותיים,Nervous System Disease,חולי מחלות של מערכת העצבים והמח,Parkinson's,חולי פרקינסון
 human_situations:health:neurodevelopmental_disorders,Human Situations,מצבים,Health,מצבים בריאותיים,Neurodevelopmental Disorders,אנשים עם לקות נוירו-התפתחותית
-human_situations:health:overweight,Human Situations,מצבים,Health,מצבים בריאותיים,Overweight,
+human_situations:health:overweight,Human Situations,מצבים,Health,מצבים בריאותיים,Overweight,עודף משקל
 human_situations:health:pregnant,Human Situations,מצבים,Health,מצבים בריאותיים,Pregnant,הריון
 human_situations:health:rare_diseases,Human Situations,מצבים,Health,מצבים בריאותיים,Rare diseases,חולי מחלות יתומות
 human_situations:health:rare_diseases:familial_dysautonomia,Human Situations,מצבים,Health,מצבים בריאותיים,Rare diseases,חולי מחלות יתומות,Familial Dysautonomia,אנשים עם דיסאוטונומיה משפחתית (FD)
@@ -195,7 +195,7 @@ human_situations:substance_dependency:alcohol_dependency,Human Situations,מצב
 human_situations:substance_dependency:gambling,Human Situations,מצבים,Substance Dependency,התמכרויות,Gambling,מכורים להימורים
 human_situations:substance_dependency:opioid_dependency,Human Situations,מצבים,Substance Dependency,התמכרויות,Opioid Dependency,מכורים לסמים
 human_situations:substance_dependency:smoker,Human Situations,מצבים,Substance Dependency,התמכרויות,Smoker,מעשנים
-human_situations:substance_dependency:painkillers,Human Situations,מצבים,Substance Dependency,התמכרויות,Painkillers,
+human_situations:substance_dependency:painkillers,Human Situations,מצבים,Substance Dependency,התמכרויות,Painkillers,משככי כאבים
 human_situations:survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים
 human_situations:survivors:abuse_or_neglect_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Abuse or Neglect Survivors,נפגעי התעללות או הזנחה
 human_situations:survivors:burn_survivors,Human Situations,מצבים,Survivors,ניצולים ונפגעים,Burn Survivors,נפגעי כוויה
