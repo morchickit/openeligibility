@@ -36,14 +36,18 @@
 
   - Education:
     - Afterschool Care
-    - Respite Activities:
-      - Further Education:
-        - Engineering
-        - Yeshiva and Kollel
-      - Academia:
+    - Nursery
+    - Respite Activities
+    - Further Education
+      - Engineering
+      - Yeshiva and Kollel
+    - Academia
         - College Readiness
     - Special Education
     - Integration in Education
+    - High School Yeshiva
+    - Ulpana
+    - Youth Villages
     - More Education:
       - Alternative Education
       - Civic Engagement
@@ -97,8 +101,7 @@
       - Substance Abuse Counseling
       - Support groups
     - Dental Care
-    - Psychiatric Emergency Services
-    - Dental Emergency Service
+      - Dental Emergency Service
     - Help Find Healthcare
     - End-of-Life Care
     - Health Education
@@ -110,10 +113,12 @@
         - Individual Counseling
       - Medications for Mental Health
       - Mental Health Evaluation
+      - Family advice centre
       - Hospitalization:
         - Forced Hospitalization
         - Voluntary Hospitalization
         - Hospitalization Alternative
+          - Balanching House
         - Home Hospitalization
     - Medical Supplies:
       - Assistive Technology
@@ -167,6 +172,7 @@
         - Nursing Home
         - Old Age Home
         - Satellite Apartments
+        - Group flats
     - Short-Term Housing:
       - Transit Flats
       - Shelters from Violence
@@ -218,6 +224,7 @@
       - Supported Employment
       - Protected Employment
       - Protected Factory
+      - Employment Club
   
   - Culture and Sports: 
     - Fine Art
@@ -249,6 +256,7 @@
     - Young Adults || 20-30 years old
     - Adults || 31-54 years old
     - Seniors || 55+ years old
+  
   - Armed Forces:
     - Active Duty
     - Bereaved families
@@ -258,6 +266,7 @@
     - Reserves
     - Veterans
     - Police
+  
   - Benefit Holders:
     - Social Security:
       - Bereaved Families of Terror
@@ -271,6 +280,7 @@
     - Holocaust Survivors 
     - Ministry of Health:
       - Rehabilitation Basket 
+ 
   - Citizenship:
     - Citizens
     - Foreign Residents
@@ -284,9 +294,11 @@
     - Residents
     - Statusless
     - Returned residents 
+  
   - Community:
     - Activists
     - Leaders
+
   - Criminal History:
     - Ex-Offenders
     - Ex-Offenders youth
@@ -294,11 +306,17 @@
     - Ex prisoners 
     - Sexual Perpetrators
     - Violent tendencies
+ 
   - Deprivation:
-    - At risk youth
+    - At risk:
+     - At risk children
+     - At risk teens
+     - At risk girls and teens
+     - At risk youtth
     - Geographical Periphery
     - Social Periphary
     - Low-Income
+
   - Disability:
     - Autistic spectrum
     - Deaf or Hard of Hearing
@@ -311,6 +329,7 @@
     - Visual Impairment
     - Mentally Debilitated
     - In Need for Nursing Care  
+
   - Education:
     - Dropouts
     - Gifted Students
@@ -319,17 +338,20 @@
     - Yeshiva students
     - Struggling students
     - Learning disorders
+
   - Employment:
     - Employed
     - Retirement
     - Self-employed
     - Unemployed
     - Farmers
+ 
   - Gender:
     - Women
     - Men
     - Transgender
     - Non-binary
+ 
   - Health:
     - Allergies
     - Chronic Illness
@@ -363,6 +385,7 @@
       - Asthma
     - Rheumatic Diseases:
       - Fibromyalgia
+ 
   - Household:
     - Families:
       - Adoption
@@ -377,6 +400,7 @@
     - Individuals
     - Loneliness
     - Orphans
+ 
   - Housing:
     - Home Owners
     - Home Renters
@@ -384,6 +408,7 @@
     - Public Housing Tenants
     - Recipients of Housing Assistance
     - Runaways
+
   - Language:
     - Arabic Speaking
     - Amharic Speaking
@@ -393,6 +418,7 @@
     - Russian Speaking
     - Sign Language
     - Spanish Speaking
+ 
   - Life Events:
     - Bar/Bat Mitzva
     - Birth
@@ -400,6 +426,7 @@
     - Divorce
     - Grief
     - Wedding
+
   - Mental Health:
     - Mental conditions and diseases:
       - Anxiety
@@ -410,11 +437,13 @@
       - PTSD
       - Schizophrenia
       - Suicidal Thoughts
+
   - Role:
     - Caregivers
     - Dependents
     - Family Caregivers
     - Spouses
+
   - Sectors:
     - Arabs
     - Bedouin
@@ -430,14 +459,17 @@
       - Progressives
       - Ethiopians
     - Muslims
+ 
   - Sexuality:
     - LGBTQ
+  
   - Substance Dependency:
     - Alcohol Dependency
     - Gambling
     - Opioid Dependency
     - Smoker
     - Painkillers
+ 
   - Survivors:
     - Abuse or Neglect Survivors
     - Burn Survivors
@@ -454,10 +486,10 @@
     - Wounded 
     - Families of Missing Persons
     - Victims of Terror 
+ 
   - Urgency:
     - Emergency
     - In Crisis
-    - In Danger
 
 - Human Places:
   - Community:
@@ -468,14 +500,10 @@
     - Mosque
     - Church
   - Education:
-    - Nursery
     - Kindergarten
     - Primary School
     - Middle School
-    - High School:
-      - High School Yeshiva
-      - Ulpana
-      - Youth Villages
+    - High School
   - Health:
     - Clinic: 
       - Mental Health Clinic
@@ -483,3 +511,4 @@
       - Well Baby Clinic
     - Hospital 
   - Government Service Point
+  - Welfare bureaus 
