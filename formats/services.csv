@@ -11,7 +11,7 @@ human_services:care:guidance,Human Services,מענים חברתיים,Care,רו�
 human_services:care:recovery,Human Services,מענים חברתיים,Care,רווחה,Recovery,שיקום חברתי
 human_services:care:risk_assessment,Human Services,מענים חברתיים,Care,רווחה,Risk Assessment,הערכת מסוכנות
 human_services:care:support_network,Human Services,מענים חברתיים,Care,רווחה,Support Network,רשת תמיכה
-human_services:care:help_hotline,Human Services,מענים חברתיים,Care,רווחה,Help Hotline,
+human_services:care:help_hotline,Human Services,מענים חברתיים,Care,רווחה,Help Hotline,קו סיוע
 human_services:care:home_visiting,Human Services,מענים חברתיים,Care,רווחה,Home Visiting,ביקורי בית
 human_services:care:in_home_support,Human Services,מענים חברתיים,Care,רווחה,In-Home Support,טיפול בבית
 human_services:care:mentoring,Human Services,מענים חברתיים,Care,רווחה,Mentoring,מנטורינג
@@ -46,7 +46,7 @@ human_services:education:integration_in_education,Human Services,מענים חב
 human_services:education:high_school_yeshiva,Human Services,מענים חברתיים,Education,חינוך,High School Yeshiva,ישיבה תיכונית
 human_services:education:ulpana,Human Services,מענים חברתיים,Education,חינוך,Ulpana,אולפנה
 human_services:education:youth_villages,Human Services,מענים חברתיים,Education,חינוך,Youth Villages,כפר נוער
-human_services:education:boarding_school,Human Services,מענים חברתיים,Education,חינוך,Boarding School,
+human_services:education:boarding_school,Human Services,מענים חברתיים,Education,חינוך,Boarding School,פנימיה
 human_services:education:more_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה
 human_services:education:more_education:alternative_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Alternative Education,חינוך אלטרנטיבי
 human_services:education:more_education:civic_engagement,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Civic Engagement,מעורבות חברתית
@@ -71,7 +71,7 @@ human_services:education:skills_training:daily_life_skills,Human Services,מענ
 human_services:emergency,Human Services,מענים חברתיים,Emergency,חירום
 human_services:emergency:disaster_response,Human Services,מענים חברתיים,Emergency,חירום,Disaster Response,תגובה לאסונות
 human_services:emergency:emergency_food,Human Services,מענים חברתיים,Emergency,חירום,Emergency Food,מזון בחירום
-human_services:emergency:emergency_helpline,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helpline,
+human_services:emergency:emergency_helpline,Human Services,מענים חברתיים,Emergency,חירום,Emergency Helpline,הכוונה בחירום
 human_services:emergency:emergency_shelter,Human Services,מענים חברתיים,Emergency,חירום,Emergency Shelter,מקלט חירום
 human_services:emergency:help_find_missing_persons,Human Services,מענים חברתיים,Emergency,חירום,Help Find Missing Persons,איתור נעדרים
 human_services:emergency:financial_aid_in_emergencies,Human Services,מענים חברתיים,Emergency,חירום,Financial Aid in Emergencies,סיוע כספי בחירום
@@ -125,7 +125,7 @@ human_services:health:prevent_treat:checkup_test:disease_screening,Human Service
 human_services:health:prevent_treat:checkup_test:eye_tests,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות,Eye Tests,בדיקות ראייה
 human_services:health:prevent_treat:checkup_test:genetic_testing,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות,Genetic Testing,בדיקות גנטיות
 human_services:health:prevent_treat:checkup_test:hearing_tests,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות,Hearing Tests,בדיקות שמיעה
-human_services:health:prevent_treat:checkup_test:pregnancy_test,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות,Pregnancy Test,
+human_services:health:prevent_treat:checkup_test:pregnancy_test,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Checkup & Test,בדיקות,Pregnancy Test,בדיקת הריון
 human_services:health:prevent_treat:hospital_treatment,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Hospital Treatment,טיפול בבית חולים
 human_services:health:prevent_treat:in_home_support,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,In-Home Support,סיוע בבית
 human_services:health:prevent_treat:occupational_therapy,Human Services,מענים חברתיים,Health,שירותי בריאות,Prevent & Treat,טיפול רפואי ומניעה,Occupational Therapy,ריפוי בעיסוק
@@ -165,8 +165,8 @@ human_services:housing:residential_housing:long_term_housing:hostel,Human Servic
 human_services:housing:residential_housing:long_term_housing:independent_living,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Independent Living,דיור עצמאי
 human_services:housing:residential_housing:long_term_housing:nursing_home,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Nursing Home,מוסד סיעודי
 human_services:housing:residential_housing:long_term_housing:old_age_home,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Old Age Home,בית אבות
-human_services:housing:residential_housing:long_term_housing:satellite_apartment,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Satellite Apartment,
-human_services:housing:residential_housing:long_term_housing:group_flat,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Group Flat,
+human_services:housing:residential_housing:long_term_housing:satellite_apartment,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Satellite Apartment,קהילה תומכת
+human_services:housing:residential_housing:long_term_housing:group_flat,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Group Flat,דירה קבוצתית
 human_services:housing:short_term_housing,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר
 human_services:housing:short_term_housing:transit_flats,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר,Transit Flats,דירות מעבר
 human_services:housing:short_term_housing:shelters_from_violence,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר,Shelters from Violence,מקלטים מאלימות
@@ -198,8 +198,8 @@ human_services:money:financial_assistance:help_pay_for_school:supplies_for_schoo
 human_services:money:financial_education,Human Services,מענים חברתיים,Money,סיוע כלכלי,Financial Education,חינוך פיננסי
 human_services:money:insurance,Human Services,מענים חברתיים,Money,סיוע כלכלי,Insurance,ביטוח
 human_services:money:loans,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות
-human_services:money:loans:business_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Business Loan,
-human_services:money:loans:personal_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Personal Loan,
+human_services:money:loans:business_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Business Loan,הלוואות לעסקים
+human_services:money:loans:personal_loan,Human Services,מענים חברתיים,Money,סיוע כלכלי,Loans,הלוואות,Personal Loan,הלוואות אישיות
 human_services:money:tax_preparation,Human Services,מענים חברתיים,Money,סיוע כלכלי,Tax Preparation,סיוע בהגשת מיסים
 human_services:money:consumer_rights_protection,Human Services,מענים חברתיים,Money,סיוע כלכלי,Consumer Rights Protection,הגנת זכויות הצרכן
 human_services:work,Human Services,מענים חברתיים,Work,עבודה

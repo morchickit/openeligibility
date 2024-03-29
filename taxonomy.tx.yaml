@@ -61,7 +61,10 @@
         tx:
           he: רשת תמיכה
       slug: human_services:care:support_network
-    - name: Help Hotline
+    - name:
+        source: Help Hotline
+        tx:
+          he: קו סיוע
       slug: human_services:care:help_hotline
     - name:
         source: Home Visiting
@@ -239,7 +242,10 @@
         tx:
           he: כפר נוער
       slug: human_services:education:youth_villages
-    - name: Boarding School
+    - name:
+        source: Boarding School
+        tx:
+          he: פנימיה
       slug: human_services:education:boarding_school
     - name:
         source: More Education
@@ -366,7 +372,10 @@
         tx:
           he: מזון בחירום
       slug: human_services:emergency:emergency_food
-    - name: Emergency Helpline
+    - name:
+        source: Emergency Helpline
+        tx:
+          he: הכוונה בחירום
       slug: human_services:emergency:emergency_helpline
     - name:
         source: Emergency Shelter
@@ -645,7 +654,10 @@
             tx:
               he: בדיקות שמיעה
           slug: human_services:health:prevent_treat:checkup_test:hearing_tests
-        - name: Pregnancy Test
+        - name:
+            source: Pregnancy Test
+            tx:
+              he: בדיקת הריון
           slug: human_services:health:prevent_treat:checkup_test:pregnancy_test
       - name:
           source: Hospital Treatment
@@ -850,9 +862,15 @@
             tx:
               he: בית אבות
           slug: human_services:housing:residential_housing:long_term_housing:old_age_home
-        - name: Satellite Apartment
+        - name:
+            source: Satellite Apartment
+            tx:
+              he: קהילה תומכת
           slug: human_services:housing:residential_housing:long_term_housing:satellite_apartment
-        - name: Group Flat
+        - name:
+            source: Group Flat
+            tx:
+              he: דירה קבוצתית
           slug: human_services:housing:residential_housing:long_term_housing:group_flat
     - name:
         source: Short-Term Housing
@@ -1017,9 +1035,15 @@
           he: הלוואות
       slug: human_services:money:loans
       items:
-      - name: Business Loan
+      - name:
+          source: Business Loan
+          tx:
+            he: הלוואות לעסקים
         slug: human_services:money:loans:business_loan
-      - name: Personal Loan
+      - name:
+          source: Personal Loan
+          tx:
+            he: הלוואות אישיות
         slug: human_services:money:loans:personal_loan
     - name:
         source: Tax Preparation
