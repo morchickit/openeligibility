@@ -180,39 +180,25 @@
         tx:
           he: צהרונים
       slug: human_services:education:afterschool_care
+    - name: Nursery
+      slug: human_services:education:nursery
     - name:
         source: Respite Activities
         tx:
           he: פעילויות הפוגה
       slug: human_services:education:respite_activities
+    - name: Further Education
+      slug: human_services:education:further_education
       items:
-      - name:
-          source: Further Education
-          tx:
-            he: חינוך המשך
-        slug: human_services:education:respite_activities:further_education
-        items:
-        - name:
-            source: Engineering
-            tx:
-              he: הנדסאים
-          slug: human_services:education:respite_activities:further_education:engineering
-        - name:
-            source: Yeshiva and Kollel
-            tx:
-              he: ישיבה וכולל
-          slug: human_services:education:respite_activities:further_education:yeshiva_and_kollel
-      - name:
-          source: Academia
-          tx:
-            he: אקדמיה
-        slug: human_services:education:respite_activities:academia
-        items:
-        - name:
-            source: College Readiness
-            tx:
-              he: הכנה לאוניברסיטה
-          slug: human_services:education:respite_activities:academia:college_readiness
+      - name: Engineering
+        slug: human_services:education:further_education:engineering
+      - name: Yeshiva and Kollel
+        slug: human_services:education:further_education:yeshiva_and_kollel
+    - name: Academia
+      slug: human_services:education:academia
+      items:
+      - name: College Readiness
+        slug: human_services:education:academia:college_readiness
     - name:
         source: Special Education
         tx:
@@ -223,6 +209,12 @@
         tx:
           he: שילוב בחינוך
       slug: human_services:education:integration_in_education
+    - name: High School Yeshiva
+      slug: human_services:education:high_school_yeshiva
+    - name: Ulpana
+      slug: human_services:education:ulpana
+    - name: Youth Villages
+      slug: human_services:education:youth_villages
     - name:
         source: More Education
         tx:
@@ -477,16 +469,9 @@
         tx:
           he: טיפולי שיניים
       slug: human_services:health:dental_care
-    - name:
-        source: Psychiatric Emergency Services
-        tx:
-          he: שירותי בריאות הנפש דחופים
-      slug: human_services:health:psychiatric_emergency_services
-    - name:
-        source: Dental Emergency Service
-        tx:
-          he: טיפול שיניים דחוף
-      slug: human_services:health:dental_emergency_service
+      items:
+      - name: Dental Emergency Service
+        slug: human_services:health:dental_care:dental_emergency_service
     - name:
         source: Help Find Healthcare
         tx:
@@ -544,6 +529,8 @@
           tx:
             he: הערכה פסיכיאטרית
         slug: human_services:health:mental_health_care:mental_health_evaluation
+      - name: Family Advice Center
+        slug: human_services:health:mental_health_care:family_advice_center
       - name:
           source: Hospitalization
           tx:
@@ -565,6 +552,9 @@
             tx:
               he: חלופות אשפוז
           slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative
+          items:
+          - name: Balancing House
+            slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative:balancing_house
         - name:
             source: Home Hospitalization
             tx:
@@ -785,7 +775,7 @@
             he: התאמות לבית
         slug: human_services:housing:maintenance_repairs:disability_modifications
       - name:
-          source: Small repairs
+          source: Small Repairs
           tx:
             he: תיקונים קטנים
         slug: human_services:housing:maintenance_repairs:small_repairs
@@ -836,6 +826,8 @@
             tx:
               he: דירות לווין
           slug: human_services:housing:residential_housing:long_term_housing:satellite_apartments
+        - name: Group Flats
+          slug: human_services:housing:residential_housing:long_term_housing:group_flats
     - name:
         source: Short-Term Housing
         tx:
@@ -1072,6 +1064,8 @@
           tx:
             he: מפעל מוגן
         slug: human_services:work:special_employment:protected_factory
+      - name: Employment Club
+        slug: human_services:work:special_employment:employment_club
   - name:
       source: Culture and Sports
       tx:
@@ -1465,11 +1459,17 @@
         he: רקע אישי
     slug: human_situations:deprivation
     items:
-    - name:
-        source: At risk youth
-        tx:
-          he: נוער בסיכון
-      slug: human_situations:deprivation:at_risk_youth
+    - name: At risk
+      slug: human_situations:deprivation:at_risk
+      items:
+      - name: At Risk Children
+        slug: human_situations:deprivation:at_risk:at_risk_children
+      - name: At Risk Teens
+        slug: human_situations:deprivation:at_risk:at_risk_teens
+      - name: At Risk Teen Girls
+        slug: human_situations:deprivation:at_risk:at_risk_teen_girls
+      - name: At Risk Youth
+        slug: human_situations:deprivation:at_risk:at_risk_youth
     - name:
         source: Geographical Periphery
         tx:
@@ -2303,11 +2303,6 @@
         tx:
           he: אנשים במשבר נפשי
       slug: human_situations:urgency:in_crisis
-    - name:
-        source: In Danger
-        tx:
-          he: אנשים בסיכון
-      slug: human_situations:urgency:in_danger
 - name:
     source: Human Places
     tx:
@@ -2358,11 +2353,6 @@
     slug: human_places:education
     items:
     - name:
-        source: Nursery
-        tx:
-          he: פעוטון
-      slug: human_places:education:nursery
-    - name:
         source: Kindergarten
         tx:
           he: גן ילדים
@@ -2382,22 +2372,6 @@
         tx:
           he: בית ספר תיכון
       slug: human_places:education:high_school
-      items:
-      - name:
-          source: High School Yeshiva
-          tx:
-            he: ישיבה תיכונית
-        slug: human_places:education:high_school:high_school_yeshiva
-      - name:
-          source: Ulpana
-          tx:
-            he: אולפנה
-        slug: human_places:education:high_school:ulpana
-      - name:
-          source: Youth Villages
-          tx:
-            he: כפר נוער
-        slug: human_places:education:high_school:youth_villages
   - name:
       source: Health
       tx:
@@ -2435,3 +2409,5 @@
       tx:
         he: עמדת שירות ממשלתי
     slug: human_places:government_service_point
+  - name: Welfare Bureau
+    slug: human_places:welfare_bureau

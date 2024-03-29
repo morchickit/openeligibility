@@ -8,14 +8,10 @@ human_places:religion:synagogue,Human Places,מקומות,Religion,דת,Synagogu
 human_places:religion:mosque,Human Places,מקומות,Religion,דת,Mosque,מסגד
 human_places:religion:church,Human Places,מקומות,Religion,דת,Church,כנסייה
 human_places:education,Human Places,מקומות,Education,חינוך
-human_places:education:nursery,Human Places,מקומות,Education,חינוך,Nursery,פעוטון
 human_places:education:kindergarten,Human Places,מקומות,Education,חינוך,Kindergarten,גן ילדים
 human_places:education:primary_school,Human Places,מקומות,Education,חינוך,Primary School,בית ספר יסודי
 human_places:education:middle_school,Human Places,מקומות,Education,חינוך,Middle School,חטיבת ביניים
 human_places:education:high_school,Human Places,מקומות,Education,חינוך,High School,בית ספר תיכון
-human_places:education:high_school:high_school_yeshiva,Human Places,מקומות,Education,חינוך,High School,בית ספר תיכון,High School Yeshiva,ישיבה תיכונית
-human_places:education:high_school:ulpana,Human Places,מקומות,Education,חינוך,High School,בית ספר תיכון,Ulpana,אולפנה
-human_places:education:high_school:youth_villages,Human Places,מקומות,Education,חינוך,High School,בית ספר תיכון,Youth Villages,כפר נוער
 human_places:health,Human Places,מקומות,Health,בריאות
 human_places:health:clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה
 human_places:health:clinic:mental_health_clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה,Mental Health Clinic,מרפאות בריאות הנפש
@@ -23,3 +19,4 @@ human_places:health:clinic:gp_clinic,Human Places,מקומות,Health,בריאו
 human_places:health:clinic:well_baby_clinic,Human Places,מקומות,Health,בריאות,Clinic,מרפאה,Well Baby Clinic,טיפת חלב
 human_places:health:hospital,Human Places,מקומות,Health,בריאות,Hospital,בית חולים
 human_places:government_service_point,Human Places,מקומות,Government Service Point,עמדת שירות ממשלתי
+human_places:welfare_bureau,Human Places,מקומות,Welfare Bureau,

@@ -75,25 +75,32 @@
     items:
     - name: Afterschool Care
       slug: human_services:education:afterschool_care
+    - name: Nursery
+      slug: human_services:education:nursery
     - name: Respite Activities
       slug: human_services:education:respite_activities
+    - name: Further Education
+      slug: human_services:education:further_education
       items:
-      - name: Further Education
-        slug: human_services:education:respite_activities:further_education
-        items:
-        - name: Engineering
-          slug: human_services:education:respite_activities:further_education:engineering
-        - name: Yeshiva and Kollel
-          slug: human_services:education:respite_activities:further_education:yeshiva_and_kollel
-      - name: Academia
-        slug: human_services:education:respite_activities:academia
-        items:
-        - name: College Readiness
-          slug: human_services:education:respite_activities:academia:college_readiness
+      - name: Engineering
+        slug: human_services:education:further_education:engineering
+      - name: Yeshiva and Kollel
+        slug: human_services:education:further_education:yeshiva_and_kollel
+    - name: Academia
+      slug: human_services:education:academia
+      items:
+      - name: College Readiness
+        slug: human_services:education:academia:college_readiness
     - name: Special Education
       slug: human_services:education:special_education
     - name: Integration in Education
       slug: human_services:education:integration_in_education
+    - name: High School Yeshiva
+      slug: human_services:education:high_school_yeshiva
+    - name: Ulpana
+      slug: human_services:education:ulpana
+    - name: Youth Villages
+      slug: human_services:education:youth_villages
     - name: More Education
       slug: human_services:education:more_education
       items:
@@ -201,10 +208,9 @@
         slug: human_services:health:addiction_recovery:support_groups
     - name: Dental Care
       slug: human_services:health:dental_care
-    - name: Psychiatric Emergency Services
-      slug: human_services:health:psychiatric_emergency_services
-    - name: Dental Emergency Service
-      slug: human_services:health:dental_emergency_service
+      items:
+      - name: Dental Emergency Service
+        slug: human_services:health:dental_care:dental_emergency_service
     - name: Help Find Healthcare
       slug: human_services:health:help_find_healthcare
     - name: End-of-Life Care
@@ -229,6 +235,8 @@
         slug: human_services:health:mental_health_care:medications_for_mental_health
       - name: Mental Health Evaluation
         slug: human_services:health:mental_health_care:mental_health_evaluation
+      - name: Family Advice Center
+        slug: human_services:health:mental_health_care:family_advice_center
       - name: Hospitalization
         slug: human_services:health:mental_health_care:hospitalization
         items:
@@ -238,6 +246,9 @@
           slug: human_services:health:mental_health_care:hospitalization:voluntary_hospitalization
         - name: Hospitalization Alternative
           slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative
+          items:
+          - name: Balancing House
+            slug: human_services:health:mental_health_care:hospitalization:hospitalization_alternative:balancing_house
         - name: Home Hospitalization
           slug: human_services:health:mental_health_care:hospitalization:home_hospitalization
     - name: Medical Supplies
@@ -331,7 +342,7 @@
       items:
       - name: Disability Modifications
         slug: human_services:housing:maintenance_repairs:disability_modifications
-      - name: Small repairs
+      - name: Small Repairs
         slug: human_services:housing:maintenance_repairs:small_repairs
     - name: Public Housing
       slug: human_services:housing:public_housing
@@ -353,6 +364,8 @@
           slug: human_services:housing:residential_housing:long_term_housing:old_age_home
         - name: Satellite Apartments
           slug: human_services:housing:residential_housing:long_term_housing:satellite_apartments
+        - name: Group Flats
+          slug: human_services:housing:residential_housing:long_term_housing:group_flats
     - name: Short-Term Housing
       slug: human_services:housing:short_term_housing
       items:
@@ -454,6 +467,8 @@
         slug: human_services:work:special_employment:protected_employment
       - name: Protected Factory
         slug: human_services:work:special_employment:protected_factory
+      - name: Employment Club
+        slug: human_services:work:special_employment:employment_club
   - name: Culture and Sports
     slug: human_services:culture_and_sports
     items:
@@ -622,8 +637,17 @@
   - name: Deprivation
     slug: human_situations:deprivation
     items:
-    - name: At risk youth
-      slug: human_situations:deprivation:at_risk_youth
+    - name: At risk
+      slug: human_situations:deprivation:at_risk
+      items:
+      - name: At Risk Children
+        slug: human_situations:deprivation:at_risk:at_risk_children
+      - name: At Risk Teens
+        slug: human_situations:deprivation:at_risk:at_risk_teens
+      - name: At Risk Teen Girls
+        slug: human_situations:deprivation:at_risk:at_risk_teen_girls
+      - name: At Risk Youth
+        slug: human_situations:deprivation:at_risk:at_risk_youth
     - name: Geographical Periphery
       slug: human_situations:deprivation:geographical_periphery
     - name: Social Periphary
@@ -974,8 +998,6 @@
       slug: human_situations:urgency:emergency
     - name: In Crisis
       slug: human_situations:urgency:in_crisis
-    - name: In Danger
-      slug: human_situations:urgency:in_danger
 - name: Human Places
   slug: human_places
   items:
@@ -998,8 +1020,6 @@
   - name: Education
     slug: human_places:education
     items:
-    - name: Nursery
-      slug: human_places:education:nursery
     - name: Kindergarten
       slug: human_places:education:kindergarten
     - name: Primary School
@@ -1008,13 +1028,6 @@
       slug: human_places:education:middle_school
     - name: High School
       slug: human_places:education:high_school
-      items:
-      - name: High School Yeshiva
-        slug: human_places:education:high_school:high_school_yeshiva
-      - name: Ulpana
-        slug: human_places:education:high_school:ulpana
-      - name: Youth Villages
-        slug: human_places:education:high_school:youth_villages
   - name: Health
     slug: human_places:health
     items:
@@ -1031,3 +1044,5 @@
       slug: human_places:health:hospital
   - name: Government Service Point
     slug: human_places:government_service_point
+  - name: Welfare Bureau
+    slug: human_places:welfare_bureau

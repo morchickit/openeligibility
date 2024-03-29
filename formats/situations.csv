@@ -53,7 +53,11 @@ human_situations:criminal_history:ex_prisoners,Human Situations,מצבים,Crimi
 human_situations:criminal_history:sexual_perpetrators,Human Situations,מצבים,Criminal History,פשיעה,Sexual Perpetrators,עברייני מין
 human_situations:criminal_history:violent_tendencies,Human Situations,מצבים,Criminal History,פשיעה,Violent tendencies,עברייני אלימות במשפחה
 human_situations:deprivation,Human Situations,מצבים,Deprivation,רקע אישי
-human_situations:deprivation:at_risk_youth,Human Situations,מצבים,Deprivation,רקע אישי,At risk youth,נוער בסיכון
+human_situations:deprivation:at_risk,Human Situations,מצבים,Deprivation,רקע אישי,At risk,
+human_situations:deprivation:at_risk:at_risk_children,Human Situations,מצבים,Deprivation,רקע אישי,At risk,,At Risk Children,
+human_situations:deprivation:at_risk:at_risk_teens,Human Situations,מצבים,Deprivation,רקע אישי,At risk,,At Risk Teens,
+human_situations:deprivation:at_risk:at_risk_teen_girls,Human Situations,מצבים,Deprivation,רקע אישי,At risk,,At Risk Teen Girls,
+human_situations:deprivation:at_risk:at_risk_youth,Human Situations,מצבים,Deprivation,רקע אישי,At risk,,At Risk Youth,
 human_situations:deprivation:geographical_periphery,Human Situations,מצבים,Deprivation,רקע אישי,Geographical Periphery,אנשים מפריפריה גיאוגרפית
 human_situations:deprivation:social_periphary,Human Situations,מצבים,Deprivation,רקע אישי,Social Periphary,אנשים מפריפריה חברתית
 human_situations:deprivation:low_income,Human Situations,מצבים,Deprivation,רקע אישי,Low-Income,בעלי הכנסה נמוכה
@@ -215,4 +219,3 @@ human_situations:survivors:victims_of_terror,Human Situations,מצבים,Survivo
 human_situations:urgency,Human Situations,מצבים,Urgency,דחיפות
 human_situations:urgency:emergency,Human Situations,מצבים,Urgency,דחיפות,Emergency,מצב חירום
 human_situations:urgency:in_crisis,Human Situations,מצבים,Urgency,דחיפות,In Crisis,אנשים במשבר נפשי
-human_situations:urgency:in_danger,Human Situations,מצבים,Urgency,דחיפות,In Danger,אנשים בסיכון

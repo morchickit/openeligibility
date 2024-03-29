@@ -34,14 +34,18 @@ human_services:community_services:social_club,Human Services,מענים חברת
 human_services:community_services:summer_camps,Human Services,מענים חברתיים,Community Services,שירותים קהילתיים,Summer Camps,קייטנות
 human_services:education,Human Services,מענים חברתיים,Education,חינוך
 human_services:education:afterschool_care,Human Services,מענים חברתיים,Education,חינוך,Afterschool Care,צהרונים
+human_services:education:nursery,Human Services,מענים חברתיים,Education,חינוך,Nursery,
 human_services:education:respite_activities,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,פעילויות הפוגה
-human_services:education:respite_activities:further_education,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,פעילויות הפוגה,Further Education,חינוך המשך
-human_services:education:respite_activities:further_education:engineering,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,פעילויות הפוגה,Further Education,חינוך המשך,Engineering,הנדסאים
-human_services:education:respite_activities:further_education:yeshiva_and_kollel,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,פעילויות הפוגה,Further Education,חינוך המשך,Yeshiva and Kollel,ישיבה וכולל
-human_services:education:respite_activities:academia,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,פעילויות הפוגה,Academia,אקדמיה
-human_services:education:respite_activities:academia:college_readiness,Human Services,מענים חברתיים,Education,חינוך,Respite Activities,פעילויות הפוגה,Academia,אקדמיה,College Readiness,הכנה לאוניברסיטה
+human_services:education:further_education,Human Services,מענים חברתיים,Education,חינוך,Further Education,
+human_services:education:further_education:engineering,Human Services,מענים חברתיים,Education,חינוך,Further Education,,Engineering,
+human_services:education:further_education:yeshiva_and_kollel,Human Services,מענים חברתיים,Education,חינוך,Further Education,,Yeshiva and Kollel,
+human_services:education:academia,Human Services,מענים חברתיים,Education,חינוך,Academia,
+human_services:education:academia:college_readiness,Human Services,מענים חברתיים,Education,חינוך,Academia,,College Readiness,
 human_services:education:special_education,Human Services,מענים חברתיים,Education,חינוך,Special Education,חינוך מיוחד
 human_services:education:integration_in_education,Human Services,מענים חברתיים,Education,חינוך,Integration in Education,שילוב בחינוך
+human_services:education:high_school_yeshiva,Human Services,מענים חברתיים,Education,חינוך,High School Yeshiva,
+human_services:education:ulpana,Human Services,מענים חברתיים,Education,חינוך,Ulpana,
+human_services:education:youth_villages,Human Services,מענים חברתיים,Education,חינוך,Youth Villages,
 human_services:education:more_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה
 human_services:education:more_education:alternative_education,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Alternative Education,חינוך אלטרנטיבי
 human_services:education:more_education:civic_engagement,Human Services,מענים חברתיים,Education,חינוך,More Education,חינוך נוסף והעשרה,Civic Engagement,מעורבות חברתית
@@ -91,8 +95,7 @@ human_services:health:addiction_recovery:medications_for_addiction,Human Service
 human_services:health:addiction_recovery:substance_abuse_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Substance Abuse Counseling,ייעוץ רגשי למתמכרים
 human_services:health:addiction_recovery:support_groups,Human Services,מענים חברתיים,Health,שירותי בריאות,Addiction & Recovery,גמילה מהתמכרות,Support groups,קבוצת תמיכה
 human_services:health:dental_care,Human Services,מענים חברתיים,Health,שירותי בריאות,Dental Care,טיפולי שיניים
-human_services:health:psychiatric_emergency_services,Human Services,מענים חברתיים,Health,שירותי בריאות,Psychiatric Emergency Services,שירותי בריאות הנפש דחופים
-human_services:health:dental_emergency_service,Human Services,מענים חברתיים,Health,שירותי בריאות,Dental Emergency Service,טיפול שיניים דחוף
+human_services:health:dental_care:dental_emergency_service,Human Services,מענים חברתיים,Health,שירותי בריאות,Dental Care,טיפולי שיניים,Dental Emergency Service,
 human_services:health:help_find_healthcare,Human Services,מענים חברתיים,Health,שירותי בריאות,Help Find Healthcare,עזרה במציאת טיפול רפואי
 human_services:health:end_of_life_care,Human Services,מענים חברתיים,Health,שירותי בריאות,End-of-Life Care,טיפול במצב סופני
 human_services:health:health_education,Human Services,מענים חברתיים,Health,שירותי בריאות,Health Education,חינוך בריאותי
@@ -104,10 +107,12 @@ human_services:health:mental_health_care:counseling:group_therapy,Human Services
 human_services:health:mental_health_care:counseling:individual_counseling,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Counseling,טיפול רגשי (פסיכולוגי),Individual Counseling,טיפול אישי
 human_services:health:mental_health_care:medications_for_mental_health,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Medications for Mental Health,טיפול תרופתי לבריאות הנפש
 human_services:health:mental_health_care:mental_health_evaluation,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Mental Health Evaluation,הערכה פסיכיאטרית
+human_services:health:mental_health_care:family_advice_center,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Family Advice Center,
 human_services:health:mental_health_care:hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז
 human_services:health:mental_health_care:hospitalization:forced_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Forced Hospitalization,אשפוז כפוי
 human_services:health:mental_health_care:hospitalization:voluntary_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Voluntary Hospitalization,אשפוז מרצון
 human_services:health:mental_health_care:hospitalization:hospitalization_alternative,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז
+human_services:health:mental_health_care:hospitalization:hospitalization_alternative:balancing_house,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Hospitalization Alternative,חלופות אשפוז,Balancing House,
 human_services:health:mental_health_care:hospitalization:home_hospitalization,Human Services,מענים חברתיים,Health,שירותי בריאות,Mental Health Care,שירותי בריאות הנפש,Hospitalization,אשפוז,Home Hospitalization,אשפוז ביתי
 human_services:health:medical_supplies,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,ציוד רפואי
 human_services:health:medical_supplies:assistive_technology,Human Services,מענים חברתיים,Health,שירותי בריאות,Medical Supplies,ציוד רפואי,Assistive Technology,טכנולוגיה מסייעת
@@ -150,7 +155,7 @@ human_services:housing:emergency_shelter,Human Services,מענים חברתיי�
 human_services:housing:help_find_housing,Human Services,מענים חברתיים,Housing,דיור,Help Find Housing,עזרה במציאת דיור
 human_services:housing:maintenance_repairs,Human Services,מענים חברתיים,Housing,דיור,Maintenance & Repairs,תיקונים ושיפוצים
 human_services:housing:maintenance_repairs:disability_modifications,Human Services,מענים חברתיים,Housing,דיור,Maintenance & Repairs,תיקונים ושיפוצים,Disability Modifications,התאמות לבית
-human_services:housing:maintenance_repairs:small_repairs,Human Services,מענים חברתיים,Housing,דיור,Maintenance & Repairs,תיקונים ושיפוצים,Small repairs,תיקונים קטנים
+human_services:housing:maintenance_repairs:small_repairs,Human Services,מענים חברתיים,Housing,דיור,Maintenance & Repairs,תיקונים ושיפוצים,Small Repairs,תיקונים קטנים
 human_services:housing:public_housing,Human Services,מענים חברתיים,Housing,דיור,Public Housing,דיור ציבורי
 human_services:housing:residential_housing,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור
 human_services:housing:residential_housing:long_term_housing,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי
@@ -160,6 +165,7 @@ human_services:housing:residential_housing:long_term_housing:independent_living,
 human_services:housing:residential_housing:long_term_housing:nursing_home,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Nursing Home,מוסד סיעודי
 human_services:housing:residential_housing:long_term_housing:old_age_home,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Old Age Home,בית אבות
 human_services:housing:residential_housing:long_term_housing:satellite_apartments,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Satellite Apartments,דירות לווין
+human_services:housing:residential_housing:long_term_housing:group_flats,Human Services,מענים חברתיים,Housing,דיור,Residential Housing,מסגרות דיור,Long-Term Housing,דיור מוסדי,Group Flats,
 human_services:housing:short_term_housing,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר
 human_services:housing:short_term_housing:transit_flats,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר,Transit Flats,דירות מעבר
 human_services:housing:short_term_housing:shelters_from_violence,Human Services,מענים חברתיים,Housing,דיור,Short-Term Housing,דיור לטווח קצר,Shelters from Violence,מקלטים מאלימות
@@ -205,6 +211,7 @@ human_services:work:special_employment,Human Services,מענים חברתיים,
 human_services:work:special_employment:supported_employment,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Supported Employment,תעסוקה נתמכת
 human_services:work:special_employment:protected_employment,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Protected Employment,תעסוקה מוגנת
 human_services:work:special_employment:protected_factory,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Protected Factory,מפעל מוגן
+human_services:work:special_employment:employment_club,Human Services,מענים חברתיים,Work,עבודה,Special Employment,תעסוקה מיוחדת,Employment Club,
 human_services:culture_and_sports,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט
 human_services:culture_and_sports:fine_art,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Fine Art,אומנות
 human_services:culture_and_sports:cinema,Human Services,מענים חברתיים,Culture and Sports,תרבות וספורט,Cinema,קולנוע
