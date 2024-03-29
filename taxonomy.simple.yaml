@@ -117,7 +117,7 @@
       - Hospitalization:
         - Forced Hospitalization
         - Voluntary Hospitalization
-        - Hospitalization Alternative
+        - Hospitalization Alternative:
           - Balancing House
         - Home Hospitalization
     - Medical Supplies:
