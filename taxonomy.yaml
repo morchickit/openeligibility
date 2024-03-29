@@ -25,8 +25,8 @@
       slug: human_services:care:risk_assessment
     - name: Support Network
       slug: human_services:care:support_network
-    - name: Help Hotlines
-      slug: human_services:care:help_hotlines
+    - name: Help Hotline
+      slug: human_services:care:help_hotline
     - name: Home Visiting
       slug: human_services:care:home_visiting
     - name: In-Home Support
@@ -101,6 +101,8 @@
       slug: human_services:education:ulpana
     - name: Youth Villages
       slug: human_services:education:youth_villages
+    - name: Boarding School
+      slug: human_services:education:boarding_school
     - name: More Education
       slug: human_services:education:more_education
       items:
@@ -154,8 +156,8 @@
       slug: human_services:emergency:disaster_response
     - name: Emergency Food
       slug: human_services:emergency:emergency_food
-    - name: Emergency Helplines
-      slug: human_services:emergency:emergency_helplines
+    - name: Emergency Helpline
+      slug: human_services:emergency:emergency_helpline
     - name: Emergency Shelter
       slug: human_services:emergency:emergency_shelter
     - name: Help Find Missing Persons
@@ -274,8 +276,8 @@
           slug: human_services:health:prevent_treat:checkup_test:genetic_testing
         - name: Hearing Tests
           slug: human_services:health:prevent_treat:checkup_test:hearing_tests
-        - name: Pregnancy Tests
-          slug: human_services:health:prevent_treat:checkup_test:pregnancy_tests
+        - name: Pregnancy Test
+          slug: human_services:health:prevent_treat:checkup_test:pregnancy_test
       - name: Hospital Treatment
         slug: human_services:health:prevent_treat:hospital_treatment
       - name: In-Home Support
@@ -362,10 +364,10 @@
           slug: human_services:housing:residential_housing:long_term_housing:nursing_home
         - name: Old Age Home
           slug: human_services:housing:residential_housing:long_term_housing:old_age_home
-        - name: Satellite Apartments
-          slug: human_services:housing:residential_housing:long_term_housing:satellite_apartments
-        - name: Group Flats
-          slug: human_services:housing:residential_housing:long_term_housing:group_flats
+        - name: Satellite Apartment
+          slug: human_services:housing:residential_housing:long_term_housing:satellite_apartment
+        - name: Group Flat
+          slug: human_services:housing:residential_housing:long_term_housing:group_flat
     - name: Short-Term Housing
       slug: human_services:housing:short_term_housing
       items:
@@ -436,10 +438,10 @@
     - name: Loans
       slug: human_services:money:loans
       items:
-      - name: Business Loans
-        slug: human_services:money:loans:business_loans
-      - name: Personal Loans
-        slug: human_services:money:loans:personal_loans
+      - name: Business Loan
+        slug: human_services:money:loans:business_loan
+      - name: Personal Loan
+        slug: human_services:money:loans:personal_loan
     - name: Tax Preparation
       slug: human_services:money:tax_preparation
     - name: Consumer Rights Protection
