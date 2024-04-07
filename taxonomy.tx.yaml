@@ -818,7 +818,7 @@
       - name:
           source: Small Repairs
           tx:
-            he: תיקונים קטנים
+            he: תיקונים קטנים בבית
         slug: human_services:housing:maintenance_repairs:small_repairs
     - name:
         source: Public Housing
@@ -1328,7 +1328,7 @@
       - name:
           source: Bereaved Families of Terror
           tx:
-            he: משפחות חללי פעולות איבה
+            he: משפחות חללי פעולות האיבה
         slug: human_situations:benefit_holders:social_security:bereaved_families_of_terror
       - name:
           source: Disability
@@ -2474,5 +2474,5 @@
   - name:
       source: Welfare Bureau
       tx:
-        he: לשכת רווחה
+        he: מחלקה לשירותים חברתיים
     slug: human_places:welfare_bureau
