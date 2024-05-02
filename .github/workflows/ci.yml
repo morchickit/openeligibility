@@ -44,6 +44,8 @@ jobs:
         python -m tools.to_csv
     - name: Deploy
       if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+      env:
+        TRANSIFEX_TOKEN: ${{secrets.TRANSIFEX_TOKEN}}
       run: |
         python tools/push_translations.py
         git config user.email "adam.kariv@gmail.com"
